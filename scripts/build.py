@@ -6,9 +6,9 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "content" / "lessons"
 TEMPLATES_DIR = ROOT / "templates"
 ASSETS_DIR = ROOT / "assets"
-CONCEPTS_DIR = ROOT / "concepts"
 SITE_DIR = ROOT / "site"
 LESSONS_OUT = SITE_DIR / "lessons"
+TOTAL_DAYS = 30
 
 
 def read_text(path: Path) -> str:
@@ -84,6 +84,11 @@ def lesson_title_from_markdown(md: str) -> str:
     return first.lstrip("# ").strip()
 
 
+def progress_percent(day_num: int) -> str:
+    percent = max(0, min(100, (day_num / TOTAL_DAYS) * 100))
+    return f"{percent:.1f}"
+
+
 def build_lessons() -> list[dict]:
     lesson_tpl = read_text(TEMPLATES_DIR / "lesson.html")
     lessons = []
@@ -99,7 +104,7 @@ def build_lessons() -> list[dict]:
         next_link = ""
         if idx > 0:
             prev_path = files[idx - 1].stem + ".html"
-            prev_link = f'<a class="btn" href="{prev_path}">← 上一課</a>'
+            prev_link = f'<a class="btn secondary" href="{prev_path}">← 上一課</a>'
         if idx < len(files) - 1:
             next_path = files[idx + 1].stem + ".html"
             next_link = f'<a class="btn primary" href="{next_path}">下一課 →</a>'
@@ -110,6 +115,7 @@ def build_lessons() -> list[dict]:
             .replace("{{body}}", body)
             .replace("{{prev_link}}", prev_link)
             .replace("{{next_link}}", next_link)
+            .replace("{{progress_percent}}", progress_percent(day_num))
         )
         final = render_base(title, title, lesson_inner, "../")
         out_path = LESSONS_OUT / f"{path.stem}.html"
@@ -132,10 +138,6 @@ def copy_tree(src_root: Path, dest_root: Path) -> None:
 
 def copy_assets() -> None:
     copy_tree(ASSETS_DIR, SITE_DIR / "assets")
-
-
-def copy_concepts() -> None:
-    copy_tree(CONCEPTS_DIR, SITE_DIR / "concepts")
 
 
 def build_index() -> None:
@@ -161,7 +163,6 @@ def main() -> None:
     build_lessons()
     build_index()
     copy_assets()
-    copy_concepts()
     build_static_files()
     print(f"Built site into {SITE_DIR}")
 

@@ -1,29 +1,44 @@
 <article class="lesson-shell">
-  <section class="lesson-hero card soft-card">
-    <div class="lesson-hero-meta">
-      <span class="eyebrow-pill">第 {{day}} 天</span>
-      <span class="reading-pill">慢慢學就好</span>
+  <section class="lesson-hero panel">
+    <div class="lesson-hero-copy">
+      <div class="lesson-hero-meta">
+        <span class="badge-pill">第 {{day}} 天</span>
+        <span class="mini-pill">Warm Coach 節奏</span>
+      </div>
+      <h1>{{title}}</h1>
+      <p class="lesson-intro">今天只要理解一個主題、做一個小思考，不用急著把所有投資知識一次學完。先把這一課真的看懂就好。</p>
     </div>
-    <h1>{{title}}</h1>
-    <p class="lesson-intro">今天只要理解一個主題、做一個小思考，不用急著把所有投資知識一次學完。</p>
+
+    <aside class="lesson-progress-card">
+      <div class="coach-card soft-green compact">
+        <div class="coach-card-head">
+          <strong>學習進度</strong>
+          <span>Day {{day}} / 30</span>
+        </div>
+        <div class="progress-track"><span style="width: {{progress_percent}}%"></span></div>
+        <p>先專心完成今天的小步驟，不需要和別人比快。</p>
+      </div>
+    </aside>
   </section>
 
   <div class="lesson-layout">
-    <aside class="lesson-sidebar card">
-      <div class="sidebar-block">
-        <span class="mini-title">今日節奏</span>
+    <aside class="lesson-sidebar">
+      <div class="panel sidebar-block">
+        <span class="mini-kicker">今日節奏</span>
         <ul class="sidebar-list">
           <li>先讀完今天重點</li>
           <li>用自己的話重述一次</li>
           <li>完成底下小任務</li>
         </ul>
       </div>
-      <div class="sidebar-block">
-        <span class="mini-title">學習提醒</span>
+
+      <div class="panel sidebar-block">
+        <span class="mini-kicker">學習提醒</span>
         <p>不求一次懂完，只求今天比昨天更清楚一點。</p>
       </div>
-      <div class="sidebar-block">
-        <span class="mini-title">課程導覽</span>
+
+      <div class="panel sidebar-block">
+        <span class="mini-kicker">課程導覽</span>
         <div class="lesson-nav vertical">
           {{prev_link}}
           {{next_link}}
@@ -31,7 +46,11 @@
       </div>
     </aside>
 
-    <section class="card lesson-card warm-lesson-card">
+    <section class="panel lesson-card">
+      <div class="lesson-card-head">
+        <span class="section-kicker">Lesson note</span>
+        <strong>今天只做一件事：先把核心觀念釐清</strong>
+      </div>
       <div class="lesson-body">
         {{body}}
       </div>
