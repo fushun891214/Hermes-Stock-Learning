@@ -6,6 +6,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "content" / "lessons"
 TEMPLATES_DIR = ROOT / "templates"
 ASSETS_DIR = ROOT / "assets"
+CONCEPTS_DIR = ROOT / "concepts"
 SITE_DIR = ROOT / "site"
 LESSONS_OUT = SITE_DIR / "lessons"
 
@@ -117,14 +118,24 @@ def build_lessons() -> list[dict]:
     return lessons
 
 
-def copy_assets() -> None:
-    for src in ASSETS_DIR.rglob("*"):
+def copy_tree(src_root: Path, dest_root: Path) -> None:
+    if not src_root.exists():
+        return
+    for src in src_root.rglob("*"):
         if src.is_dir():
             continue
-        relative = src.relative_to(ASSETS_DIR)
-        dest = SITE_DIR / "assets" / relative
+        relative = src.relative_to(src_root)
+        dest = dest_root / relative
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_bytes(src.read_bytes())
+
+
+def copy_assets() -> None:
+    copy_tree(ASSETS_DIR, SITE_DIR / "assets")
+
+
+def copy_concepts() -> None:
+    copy_tree(CONCEPTS_DIR, SITE_DIR / "concepts")
 
 
 def build_index() -> None:
@@ -150,6 +161,7 @@ def main() -> None:
     build_lessons()
     build_index()
     copy_assets()
+    copy_concepts()
     build_static_files()
     print(f"Built site into {SITE_DIR}")
 

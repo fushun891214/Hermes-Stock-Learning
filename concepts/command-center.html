@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Concept B — Command Center</title>
+  <style>
+    :root{--bg:#090b12;--panel:#101522;--line:rgba(255,255,255,.08);--text:#f4f7ff;--muted:#9aa5c3;--violet:#6d72ff;--violet2:#8f93ff;--green:#6af3c1}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,sans-serif;background:radial-gradient(circle at top,#1a1f43 0,#090b12 42%);color:var(--text)}
+    .wrap{max-width:1180px;margin:0 auto;padding:0 24px}.top{position:sticky;top:0;backdrop-filter:blur(18px);background:rgba(9,11,18,.72);border-bottom:1px solid rgba(255,255,255,.06)} .nav{display:flex;justify-content:space-between;align-items:center;padding:16px 0}.brand{font-weight:800;letter-spacing:-.02em}.links{display:flex;gap:20px;color:#c7cff8}
+    .hero{padding:54px 0 28px}.eyebrow{display:inline-flex;gap:8px;align-items:center;color:var(--green);font-size:13px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}.hero-grid{display:grid;grid-template-columns:1.08fr .92fr;gap:22px;align-items:end;margin-top:10px}.hero h1{font-size:clamp(2.5rem,6vw,4.9rem);line-height:.98;letter-spacing:-.05em;margin:.2em 0}.hero p{color:var(--muted);font-size:1.08rem;max-width:680px;line-height:1.75}.cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.btn{padding:12px 16px;border-radius:14px;text-decoration:none;border:1px solid var(--line);color:var(--text);background:rgba(255,255,255,.03)}.primary{background:linear-gradient(135deg,var(--violet),var(--violet2));color:white;border-color:transparent;font-weight:800;box-shadow:0 14px 30px rgba(109,114,255,.28)}
+    .panel{background:linear-gradient(180deg,rgba(255,255,255,.04),rgba(255,255,255,.02));border:1px solid var(--line);border-radius:24px;box-shadow:0 20px 60px rgba(0,0,0,.28)}
+    .hero-panel{padding:20px;display:grid;gap:14px}.mini-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}.mini,.wide{padding:16px;border-radius:18px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06)} .kpi{font-size:2rem;font-weight:800;letter-spacing:-.04em}.small{font-size:13px;color:var(--muted)}
+    .sections{display:grid;grid-template-columns:1.2fr .8fr;gap:22px;padding:10px 0 54px}.card{padding:24px}.card h2{margin:0 0 16px;font-size:1.65rem;letter-spacing:-.03em}.stack{display:grid;gap:14px}.module{padding:16px 0;border-top:1px solid rgba(255,255,255,.08)}.module:first-child{padding-top:0;border-top:0}.badge{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(109,114,255,.14);color:#c9cbff;font-size:12px;font-weight:700}
+    .lesson-track{display:grid;gap:12px}.lesson{padding:14px 16px;border-radius:16px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.06)} .lesson.active{background:linear-gradient(180deg,rgba(109,114,255,.2),rgba(109,114,255,.08));border-color:rgba(143,147,255,.4)}
+    @media (max-width:920px){.hero-grid,.sections{grid-template-columns:1fr}.mini-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header class="top"><div class="wrap nav"><div class="brand">Hermes Stock Learning</div><div class="links"><span>Overview</span><span>Lessons</span><span>Glossary</span><span>Progress</span></div></div></header>
+  <main class="wrap">
+    <section class="hero">
+      <div class="eyebrow">B · Command Center / Fintech SaaS direction</div>
+      <div class="hero-grid">
+        <div>
+          <h1>把台股學習站做成像一個有質感的金融產品</h1>
+          <p>這個方向不是筆記，而是「學習控制台」。它更像 Stripe / Linear / 現代 SaaS Dashboard：資訊模組化、品牌感強、科技感高。很適合你如果想讓網站看起來像正式產品，而不是單純課程頁。</p>
+          <div class="cta"><a class="btn primary" href="#">進入今日任務</a><a class="btn" href="#">查看全部課程</a></div>
+        </div>
+        <aside class="panel hero-panel">
+          <div class="mini-grid">
+            <div class="mini"><div class="small">Today</div><div class="kpi">Day 07</div><div class="small">風險與新手避坑</div></div>
+            <div class="mini"><div class="small">Study streak</div><div class="kpi">12</div><div class="small">連續學習天數</div></div>
+          </div>
+          <div class="wide"><div class="small">Current mission</div><div style="font-size:1.15rem;font-weight:700;margin-top:8px">理解市場風險、單一公司風險與追高風險，完成 1 個反思題。</div></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="sections">
+      <article class="panel card">
+        <span class="badge">WHY THIS STYLE</span>
+        <h2>這種 UX 比較像「投資學習產品」</h2>
+        <div class="stack">
+          <div class="module"><strong>資訊一眼可掃描</strong><div class="small">今天要學什麼、目前進度、下一步任務都很清楚。</div></div>
+          <div class="module"><strong>品牌感和完成度高</strong><div class="small">如果你想讓別人打開覺得這是個正式產品，這個方向很強。</div></div>
+          <div class="module"><strong>更適合之後擴充</strong><div class="small">未來要加名詞表、ETF 頁、個股案例、進度系統，都很好接。</div></div>
+        </div>
+      </article>
+      <aside class="panel card">
+        <h2>Lesson Queue</h2>
+        <div class="lesson-track">
+          <div class="lesson active"><strong>Day 07</strong><div class="small">風險不是拿來怕，是拿來先理解</div></div>
+          <div class="lesson"><strong>Day 08</strong><div class="small">股票與 ETF 的配置思維</div></div>
+          <div class="lesson"><strong>Day 09</strong><div class="small">第一次看懂交易成本</div></div>
+        </div>
+      </aside>
+    </section>
+  </main>
+</body>
+</html>

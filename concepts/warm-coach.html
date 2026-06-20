@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Concept C — Warm Coach</title>
+  <style>
+    :root{--bg:#f5efe7;--cream:#fffaf4;--sand:#eadfce;--ink:#231b16;--muted:#776a61;--green:#2c8c67;--gold:#f0b862;--softgreen:#e2f2ea}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,sans-serif;background:linear-gradient(180deg,#f5efe7 0,#f8f3ed 100%);color:var(--ink)}
+    .wrap{max-width:1140px;margin:0 auto;padding:0 24px}.top{padding:18px 0}.nav{display:flex;justify-content:space-between;align-items:center}.brand{font-weight:800}.menu{display:flex;gap:18px;color:var(--muted)}
+    .hero{display:grid;grid-template-columns:1.05fr .95fr;gap:24px;align-items:center;padding:26px 0 24px}.badge{display:inline-flex;align-items:center;gap:8px;background:var(--softgreen);color:var(--green);padding:8px 12px;border-radius:999px;font-size:13px;font-weight:800}.hero h1{font-size:clamp(2.3rem,5vw,4.6rem);line-height:1.02;letter-spacing:-.04em;margin:.3em 0 .22em}.hero p{font-size:1.08rem;color:var(--muted);line-height:1.8;max-width:620px}.cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}.btn{padding:13px 18px;border-radius:16px;text-decoration:none;font-weight:800;border:1px solid #d8ccbb;color:var(--ink);background:#fff}.primary{background:var(--green);border-color:transparent;color:#fff}
+    .panel{background:var(--cream);border:1px solid #e6dac9;border-radius:28px;box-shadow:0 18px 42px rgba(88,60,24,.08)}
+    .hero-side{padding:22px;display:grid;gap:14px}.hero-side .box{padding:16px 18px;border-radius:20px;background:white;border:1px solid #efe3d4}.progress{height:10px;background:#efe6da;border-radius:999px;overflow:hidden}.progress span{display:block;height:100%;width:24%;background:linear-gradient(90deg,var(--gold),#f4d28b)}
+    .grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:22px;padding:12px 0 52px}.card{padding:24px}.card h2{margin:0 0 14px;font-size:1.7rem;letter-spacing:-.03em}.todo{display:grid;gap:12px}.todo .row{display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:start;padding:12px 0;border-top:1px dashed #dccdb8}.todo .row:first-child{border-top:0;padding-top:0}.pill{width:34px;height:34px;border-radius:12px;background:#fff4dc;color:#8d6424;display:grid;place-items:center;font-weight:800}.note{display:grid;gap:12px}.bubble{padding:14px 16px;border-radius:18px;background:#fff;border:1px solid #ecdfcf}.bubble strong{display:block;margin-bottom:4px}
+    @media (max-width:920px){.hero,.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="top nav"><div class="brand">Hermes Stock Learning</div><div class="menu"><span>今日課程</span><span>筆記</span><span>進度</span></div></header>
+    <section class="hero">
+      <div>
+        <span class="badge">C · Warm Coach / Habit-building direction</span>
+        <h1>把投資學習做成一件不焦慮、能持續的日常習慣</h1>
+        <p>這個方向的重點不是「炫」，而是讓新手願意一直回來。它比較像一位陪你學投資的教練：語氣溫和、任務明確、壓力低，適合你長期慢慢累積，而不是一次塞很多資訊。</p>
+        <div class="cta"><a class="btn primary" href="#">開始今天的小任務</a><a class="btn" href="#">看本週學習節奏</a></div>
+      </div>
+      <aside class="panel hero-side">
+        <div class="box">
+          <div style="display:flex;justify-content:space-between;align-items:center"><strong>本週進度</strong><span style="color:var(--muted)">7 / 30</span></div>
+          <div class="progress" style="margin-top:10px"><span></span></div>
+        </div>
+        <div class="box"><strong>今日提醒</strong><div style="color:var(--muted);margin-top:8px;line-height:1.75">先理解風險，再想報酬。今天只要讀完 1 個主題、寫下 1 個你最怕的風險就夠了。</div></div>
+        <div class="box"><strong>閱讀時間</strong><div style="font-size:1.5rem;font-weight:800;margin-top:8px">5–7 分鐘</div></div>
+      </aside>
+    </section>
+
+    <section class="grid">
+      <article class="panel card">
+        <h2>這種 UX 的優點</h2>
+        <div class="todo">
+          <div class="row"><div class="pill">1</div><div><strong>最友善的新手體驗</strong><div style="color:var(--muted)">不會一打開就被大量資訊壓垮。</div></div></div>
+          <div class="row"><div class="pill">2</div><div><strong>很適合每日連載</strong><div style="color:var(--muted)">今天讀一點、明天再來，節奏很自然。</div></div></div>
+          <div class="row"><div class="pill">3</div><div><strong>更有人味</strong><div style="color:var(--muted)">如果你希望網站像陪伴式學習，不像工具後台，這個方向會很適合。</div></div></div>
+        </div>
+      </article>
+      <article class="panel card">
+        <h2>頁面會怎麼跟你互動</h2>
+        <div class="note">
+          <div class="bubble"><strong>今天要做什麼？</strong><span style="color:var(--muted)">先讀一段、做一個問題、勾掉今天進度。</span></div>
+          <div class="bubble"><strong>我現在學到哪裡？</strong><span style="color:var(--muted)">會用週進度、今日課程、下一步任務提醒你。</span></div>
+          <div class="bubble"><strong>如果我看不懂名詞呢？</strong><span style="color:var(--muted)">之後可以接名詞卡、重點框、FAQ，幫助你用最低壓方式理解投資。</span></div>
+        </div>
+      </article>
+    </section>
+  </div>
+</body>
+</html>

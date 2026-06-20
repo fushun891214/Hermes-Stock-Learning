@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UI/UX Concepts — Hermes Stock Learning</title>
+  <style>
+    :root{--bg:#0b1020;--panel:#121935;--line:rgba(255,255,255,.08);--text:#eef2ff;--muted:#aab4d6;--a:#7aa2ff;--b:#9fe3c0}
+    *{box-sizing:border-box} body{margin:0;font-family:Inter,system-ui,sans-serif;background:radial-gradient(circle at top,#18224a 0,#0b1020 45%);color:var(--text)}
+    .wrap{max-width:1120px;margin:0 auto;padding:32px 20px 64px}.hero{padding:32px 0 22px}.eyebrow{color:var(--b);font-weight:700;font-size:13px;letter-spacing:.08em;text-transform:uppercase}.hero h1{font-size:clamp(2rem,5vw,4rem);margin:.3em 0 .2em}.hero p{max-width:760px;color:var(--muted);font-size:1.08rem}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:28px}.card{background:linear-gradient(180deg,rgba(255,255,255,.04),rgba(255,255,255,.02));border:1px solid var(--line);border-radius:24px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.24)}
+    .thumb{aspect-ratio:4/3;border-bottom:1px solid var(--line);background:#0f1530;display:flex;align-items:center;justify-content:center;overflow:hidden}.thumb iframe{width:140%;height:140%;border:0;transform:scale(.72);transform-origin:center;pointer-events:none;background:#fff}
+    .body{padding:18px 18px 20px}.tag{display:inline-block;padding:6px 10px;border-radius:999px;background:rgba(122,162,255,.12);color:#bdd0ff;font-size:12px;font-weight:700}.body h2{margin:12px 0 8px;font-size:1.35rem}.body p,.body li{color:var(--muted)} ul{padding-left:18px; margin:10px 0 16px}
+    .actions{display:flex;gap:10px;flex-wrap:wrap}.btn{display:inline-block;padding:10px 14px;border-radius:999px;border:1px solid var(--line);color:var(--text);text-decoration:none}.primary{background:#7aa2ff;color:#0b1020;border-color:transparent;font-weight:700}
+    @media (max-width:960px){.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <div class="eyebrow">Hermes Stock Learning · UI/UX style lab</div>
+      <h1>先選風格，再重做整站</h1>
+      <p>我先做了 3 個方向給你選，每個都是不同的視覺邏輯，不只是換色。你可以直接點進去看首頁感覺，再決定哪一種最適合你的台股學習網站。</p>
+    </section>
+
+    <section class="grid">
+      <article class="card">
+        <div class="thumb"><iframe src="./editorial-calm.html" title="Editorial Calm preview"></iframe></div>
+        <div class="body">
+          <span class="tag">A · Editorial Calm</span>
+          <h2>閱讀優先的極簡教材感</h2>
+          <p>偏 Notion / 教材站風格，強調清楚、安靜、可信度高，適合每天穩定學習。</p>
+          <ul>
+            <li>白底、留白多、像講義</li>
+            <li>學習節奏感明確</li>
+            <li>最適合長文與每日筆記</li>
+          </ul>
+          <div class="actions">
+            <a class="btn primary" href="./editorial-calm.html">看 A 方案</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="thumb"><iframe src="./command-center.html" title="Command Center preview"></iframe></div>
+        <div class="body">
+          <span class="tag">B · Command Center</span>
+          <h2>高質感金融儀表板風</h2>
+          <p>偏 Linear / Stripe / Fintech，品牌感強、科技感高，適合做成「股票學習產品」。</p>
+          <ul>
+            <li>深色主題、資訊模組化</li>
+            <li>更像 SaaS / Dashboard</li>
+            <li>視覺衝擊最強</li>
+          </ul>
+          <div class="actions">
+            <a class="btn primary" href="./command-center.html">看 B 方案</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="thumb"><iframe src="./warm-coach.html" title="Warm Coach preview"></iframe></div>
+        <div class="body">
+          <span class="tag">C · Warm Coach</span>
+          <h2>陪伴式學習與習慣養成</h2>
+          <p>偏溫暖筆記本 / 教練式體驗，比較有人味，適合把投資學習做成長期習慣。</p>
+          <ul>
+            <li>暖色卡片、親和感高</li>
+            <li>任務導向明確</li>
+            <li>新手壓力最低</li>
+          </ul>
+          <div class="actions">
+            <a class="btn primary" href="./warm-coach.html">看 C 方案</a>
+          </div>
+        </div>
+      </article>
+    </section>
+  </div>
+</body>
+</html>
