@@ -162,17 +162,21 @@ ol {
 .brand-copy small {
   color: var(--muted);
   font-size: 0.8rem;
+  line-height: 1.2;
 }
 
 .site-nav {
+  display: flex;
+  align-items: center;
   gap: 18px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .site-nav a {
   color: var(--muted);
   font-weight: 700;
   padding: 8px 0;
+  white-space: nowrap;
 }
 
 .site-nav a:hover,
@@ -335,6 +339,10 @@ ol {
 .hero-side {
   display: grid;
   gap: 16px;
+}
+
+.hero-side.panel {
+  padding: 22px;
 }
 
 .coach-card,
@@ -702,12 +710,40 @@ ol {
   }
 
   .topbar {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 14px;
   }
 
   .site-nav {
-    gap: 14px;
+    gap: 12px;
+    max-width: 52vw;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    justify-content: flex-start;
+    padding-bottom: 2px;
+  }
+
+  .site-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .brand {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  .brand-copy {
+    min-width: 0;
+  }
+
+  .brand-copy strong,
+  .brand-copy small {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .hero-copy-block,
@@ -733,9 +769,22 @@ ol {
   }
 
   .hero-actions,
+  .hero-tags,
   .lesson-nav,
   .footer-actions {
     width: 100%;
+  }
+
+  .hero-tags {
+    gap: 8px;
+  }
+
+  .hero-tags span {
+    font-size: 0.9rem;
+  }
+
+  .trust-band {
+    padding: 18px;
   }
 
   .reminder-item {
