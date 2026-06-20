@@ -9,21 +9,28 @@
 </head>
 <body>
   <header class="site-header">
-    <div class="wrap">
-      <a class="brand" href="{{base_path}}index.html">Hermes Stock Learning</a>
+    <div class="wrap topbar">
+      <a class="brand" href="{{base_path}}index.html">
+        <span class="brand-mark">✦</span>
+        <span>Hermes Stock Learning</span>
+      </a>
       <nav class="site-nav">
         <a href="{{base_path}}index.html">首頁</a>
         <a href="{{base_path}}lessons/day-01.html">課程</a>
+        <a href="{{base_path}}concepts/index.html">風格提案</a>
       </nav>
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="wrap page-shell">
     {{content}}
   </main>
 
   <footer class="site-footer wrap">
-    <p>為傅訓打造的台股新手學習網站雛形。內容會持續更新。</p>
+    <div class="footer-card">
+      <p class="footer-title">給台股新手的陪伴式學習網站</p>
+      <p>先學觀念、再碰標的；先建立習慣、再追求效率。內容會持續補完。</p>
+    </div>
   </footer>
 
   <script src="{{base_path}}assets/js/app.js"></script>
