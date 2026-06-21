@@ -1,27 +1,27 @@
-<svg width="720" height="980" viewBox="0 0 720 980" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="980" rx="40" fill="#FCF7F0"/>
-  <rect x="36" y="32" width="648" height="916" rx="32" fill="#FFFDF9" stroke="#E8DCCB" stroke-width="2"/>
+<svg width="720" height="1080" viewBox="0 0 720 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1080" rx="40" fill="#FCF7F0"/>
+  <rect x="36" y="32" width="648" height="1016" rx="32" fill="#FFFDF9" stroke="#E8DCCB" stroke-width="2"/>
   <text x="72" y="112" fill="#2B231D" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">投資前先把錢分三層</text>
   <text x="72" y="158" fill="#7A6859" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">不是手上有錢就能直接投，先分清楚用途比較穩。</text>
 
-  <rect x="72" y="214" width="576" height="182" rx="28" fill="#FFF2E8" stroke="#EDC9AE" stroke-width="2"/>
+  <rect x="72" y="214" width="576" height="228" rx="28" fill="#FFF2E8" stroke="#EDC9AE" stroke-width="2"/>
   <rect x="100" y="246" width="126" height="42" rx="21" fill="#F7D9C3"/>
   <text x="127" y="274" fill="#9B5D30" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第一層</text>
   <text x="100" y="330" fill="#2B231D" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">生活支出</text>
   <text x="100" y="378" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">房租、餐費、學費、近期一定會用到的錢</text>
-  <text x="100" y="414" fill="#A06236" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 不適合拿去承擔市場波動</text>
+  <text x="100" y="418" fill="#A06236" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 不適合拿去承擔市場波動</text>
 
-  <rect x="72" y="426" width="576" height="210" rx="28" fill="#FFF8E6" stroke="#E7D4A3" stroke-width="2"/>
-  <rect x="100" y="458" width="126" height="42" rx="21" fill="#F1E2A9"/>
-  <text x="127" y="486" fill="#8E7230" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第二層</text>
-  <text x="100" y="542" fill="#2B231D" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">緊急預備金</text>
-  <text x="100" y="590" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">失業、生病、家裡臨時支出時要能立刻用</text>
-  <text x="100" y="626" fill="#8F6C25" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 追求的是安全與可用，不是高報酬</text>
+  <rect x="72" y="474" width="576" height="228" rx="28" fill="#FFF8E6" stroke="#E7D4A3" stroke-width="2"/>
+  <rect x="100" y="506" width="126" height="42" rx="21" fill="#F1E2A9"/>
+  <text x="127" y="534" fill="#8E7230" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第二層</text>
+  <text x="100" y="590" fill="#2B231D" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">緊急預備金</text>
+  <text x="100" y="638" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">失業、生病、家裡臨時支出時要能立刻用</text>
+  <text x="100" y="678" fill="#8F6C25" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 追求的是安全與可用，不是高報酬</text>
 
-  <rect x="72" y="666" width="576" height="210" rx="28" fill="#EAF6EE" stroke="#C9E1D1" stroke-width="2"/>
-  <rect x="100" y="698" width="126" height="42" rx="21" fill="#D4EAD9"/>
-  <text x="127" y="726" fill="#3F7D58" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第三層</text>
-  <text x="100" y="782" fill="#203126" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">可投資資金</text>
-  <text x="100" y="830" fill="#55725F" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">短期用不到，波動時也不會逼你立刻退出</text>
-  <text x="100" y="866" fill="#3F7D58" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 適合慢慢投入，先小額開始也可以</text>
+  <rect x="72" y="734" width="576" height="228" rx="28" fill="#EAF6EE" stroke="#C9E1D1" stroke-width="2"/>
+  <rect x="100" y="766" width="126" height="42" rx="21" fill="#D4EAD9"/>
+  <text x="127" y="794" fill="#3F7D58" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第三層</text>
+  <text x="100" y="850" fill="#203126" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">可投資資金</text>
+  <text x="100" y="898" fill="#55725F" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">短期用不到，波動時也不會逼你立刻退出</text>
+  <text x="100" y="938" fill="#3F7D58" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 適合慢慢投入，先小額開始也可以</text>
 </svg>
