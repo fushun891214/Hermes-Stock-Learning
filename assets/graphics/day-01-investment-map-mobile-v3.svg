@@ -1,0 +1,47 @@
+<svg width="1200" height="1432" viewBox="0 0 1200 1432" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">投資學習流程圖</title>
+  <desc id="desc">用單欄四張白卡說明新手投資前應先想目的，再選商品、看風險，最後才開始投入。</desc>
+
+  <g transform="translate(20 36)">
+    <rect width="1160" height="270" rx="32" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
+    <circle cx="80" cy="82" r="36" fill="#E2F2EA"/>
+    <text x="80" y="95" text-anchor="middle" fill="#2C8C67" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">1</text>
+    <text x="140" y="98" fill="#231B16" font-size="48" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">先想目的</text>
+    <text x="44" y="164" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">這筆錢是拿來累積資產、退休，</text>
+    <text x="44" y="212" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">還是只是想開始建立理財習慣？</text>
+    <text x="44" y="248" fill="#5E5148" font-size="30" font-family="Inter, Noto Sans TC, sans-serif">先知道自己為什麼投資，後面才不會一跌就亂改方向。</text>
+  </g>
+
+  <g transform="translate(20 328)">
+    <rect width="1160" height="270" rx="32" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
+    <circle cx="80" cy="82" r="36" fill="#FFF3DD"/>
+    <text x="80" y="95" text-anchor="middle" fill="#A47026" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">2</text>
+    <text x="140" y="98" fill="#231B16" font-size="48" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">選商品</text>
+    <text x="44" y="164" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">你是在押單一公司，</text>
+    <text x="44" y="212" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">還是先從 ETF 這種一籃子商品開始？</text>
+    <text x="44" y="248" fill="#5E5148" font-size="30" font-family="Inter, Noto Sans TC, sans-serif">先分清楚你買的是什麼，再決定怎麼開始會更穩。</text>
+  </g>
+
+  <g transform="translate(20 620)">
+    <rect width="1160" height="270" rx="32" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
+    <circle cx="80" cy="82" r="36" fill="#FCE8DF"/>
+    <text x="80" y="95" text-anchor="middle" fill="#BE6A3C" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">3</text>
+    <text x="140" y="98" fill="#231B16" font-size="48" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">看風險</text>
+    <text x="44" y="164" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">如果中間下跌 10%～20%，</text>
+    <text x="44" y="212" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">你還拿得住嗎？睡得著嗎？</text>
+    <text x="44" y="248" fill="#5E5148" font-size="30" font-family="Inter, Noto Sans TC, sans-serif">能承受的波動，才是真正適合你的投資方式。</text>
+  </g>
+
+  <g transform="translate(20 912)">
+    <rect width="1160" height="270" rx="32" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
+    <circle cx="80" cy="82" r="36" fill="#E2F2EA"/>
+    <text x="80" y="95" text-anchor="middle" fill="#2C8C67" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">4</text>
+    <text x="140" y="98" fill="#231B16" font-size="48" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">再投入</text>
+    <text x="44" y="164" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">順序清楚之後，</text>
+    <text x="44" y="212" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">才比較不會一跌就懷疑自己、亂改策略。</text>
+    <text x="44" y="248" fill="#5E5148" font-size="30" font-family="Inter, Noto Sans TC, sans-serif">真正穩的開始，不是衝得快，而是做得久。</text>
+  </g>
+
+  <rect x="20" y="1216" width="1160" height="116" rx="30" fill="#FFFDF9" stroke="#E6D8C4" stroke-width="2"/>
+  <text x="64" y="1286" fill="#2A211B" font-size="36" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">重點提醒：先把順序走對，再開始投入，會比急著找明牌更重要。</text>
+</svg>
