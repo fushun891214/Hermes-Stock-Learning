@@ -659,7 +659,7 @@ ol {
 
   .topbar {
     grid-template-columns: 1fr;
-    gap: 12px;
+    gap: 10px;
     align-items: start;
   }
 
@@ -686,6 +686,8 @@ ol {
   .site-nav a {
     flex: 1 1 0;
     text-align: center;
+    padding: 9px 12px;
+    font-size: 0.95rem;
     border-radius: 14px;
     border-color: var(--line);
     background: rgba(255, 255, 255, 0.72);
@@ -707,19 +709,21 @@ ol {
   .lesson-card,
   .lesson-bottom-nav,
   .footer-card {
-    padding: 22px;
+    padding: 18px;
   }
 
   .hero-copy h1 {
-    font-size: clamp(2rem, 10vw, 2.8rem);
+    font-size: clamp(1.8rem, 8.5vw, 2.35rem);
+    line-height: 1.18;
+    margin: 10px 0 12px;
   }
 
   .hero-lead,
   .section-lead,
   .lesson-intro,
   .footer-copy {
-    font-size: 1rem;
-    line-height: 1.75;
+    font-size: 0.98rem;
+    line-height: 1.7;
   }
 
   .btn {
@@ -741,6 +745,8 @@ ol {
   .hero-actions {
     flex-direction: column;
     align-items: stretch;
+    gap: 10px;
+    margin-top: 18px;
   }
 
   .hero-mini-grid {
@@ -763,9 +769,9 @@ ol {
 
   .lesson-table tr {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 10px 14px;
-    padding: 16px;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    padding: 14px;
     margin-bottom: 12px;
     border: 1px solid var(--line);
     border-radius: var(--radius-md);
@@ -791,13 +797,20 @@ ol {
 
   .lesson-table td:nth-child(2),
   .lesson-table td:nth-child(5) {
-    grid-column: 1 / -1;
+    grid-column: auto;
   }
 
   .lesson-table td:nth-child(2) {
-    font-size: 1.15rem;
+    font-size: 1.08rem;
     font-weight: 800;
-    line-height: 1.5;
+    line-height: 1.45;
+  }
+
+  .lesson-table td:nth-child(3),
+  .lesson-table td:nth-child(4) {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 4px;
   }
 
   .lesson-table td:nth-child(5) a {
