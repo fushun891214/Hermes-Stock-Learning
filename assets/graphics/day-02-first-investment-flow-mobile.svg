@@ -1,36 +1,40 @@
-<svg width="720" height="980" viewBox="0 0 720 980" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="980" rx="40" fill="#FCF7F0"/>
-  <rect x="36" y="32" width="648" height="916" rx="32" fill="#FFFDF9" stroke="#E8DCCB" stroke-width="2"/>
-  <text x="72" y="112" fill="#2B231D" font-size="40" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第一次投資，大致會經過這幾步</text>
-  <text x="72" y="158" fill="#7A6859" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先理解流程，就不會一看到下單畫面就慌。</text>
+<svg width="720" height="1120" viewBox="0 0 720 1120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1120" rx="40" fill="#FCF7F0"/>
+  <rect x="36" y="32" width="648" height="1056" rx="32" fill="#FFFDF9" stroke="#E8DCCB" stroke-width="2"/>
+  <text x="72" y="110" fill="#2B231D" font-size="38" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第一次投資，大致會經過這幾步</text>
+  <text x="72" y="156" fill="#7A6859" font-size="22" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先理解流程，就不會一看到下單畫面就慌。</text>
 
-  <rect x="84" y="220" width="552" height="122" rx="26" fill="#FFF2E8" stroke="#EDC9AE" stroke-width="2"/>
-  <circle cx="142" cy="281" r="28" fill="#F7D9C3"/>
-  <text x="132" y="290" fill="#9B5D30" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">1</text>
-  <text x="192" y="270" fill="#2B231D" font-size="30" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">準備好可投資資金</text>
-  <text x="192" y="312" fill="#6F5B4E" font-size="22" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先確認不是生活費，也不是緊急預備金。</text>
+  <rect x="84" y="220" width="552" height="146" rx="26" fill="#FFF2E8" stroke="#EDC9AE" stroke-width="2"/>
+  <circle cx="142" cy="293" r="28" fill="#F7D9C3"/>
+  <text x="132" y="302" fill="#9B5D30" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">1</text>
+  <text x="192" y="274" fill="#2B231D" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">準備好可投資資金</text>
+  <text x="192" y="316" fill="#6F5B4E" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先確認不是生活費，</text>
+  <text x="192" y="348" fill="#6F5B4E" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">也不是緊急預備金。</text>
 
-  <path d="M360 342 L360 390" stroke="#D5B592" stroke-width="8" stroke-linecap="round"/>
+  <path d="M360 366 L360 420" stroke="#D5B592" stroke-width="8" stroke-linecap="round"/>
 
-  <rect x="84" y="402" width="552" height="122" rx="26" fill="#FFF8E6" stroke="#E7D4A3" stroke-width="2"/>
-  <circle cx="142" cy="463" r="28" fill="#F1E2A9"/>
-  <text x="132" y="472" fill="#8E7230" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">2</text>
-  <text x="192" y="452" fill="#2B231D" font-size="30" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">開立證券帳戶</text>
-  <text x="192" y="494" fill="#6F5B4E" font-size="22" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">你要先有進入市場、送出買賣指令的入口。</text>
+  <rect x="84" y="444" width="552" height="146" rx="26" fill="#FFF8E6" stroke="#E7D4A3" stroke-width="2"/>
+  <circle cx="142" cy="517" r="28" fill="#F1E2A9"/>
+  <text x="132" y="526" fill="#8E7230" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">2</text>
+  <text x="192" y="498" fill="#2B231D" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">開立證券帳戶</text>
+  <text x="192" y="540" fill="#6F5B4E" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">你要先有進入市場，</text>
+  <text x="192" y="572" fill="#6F5B4E" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">送出買賣指令的入口。</text>
 
-  <path d="M360 524 L360 572" stroke="#D5B592" stroke-width="8" stroke-linecap="round"/>
+  <path d="M360 590 L360 644" stroke="#D5B592" stroke-width="8" stroke-linecap="round"/>
 
-  <rect x="84" y="584" width="552" height="122" rx="26" fill="#EEF4FF" stroke="#C8D7F0" stroke-width="2"/>
-  <circle cx="142" cy="645" r="28" fill="#D7E4F8"/>
-  <text x="132" y="654" fill="#5572A8" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">3</text>
-  <text x="192" y="634" fill="#24304A" font-size="30" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">輸入下單條件</text>
-  <text x="192" y="676" fill="#5B6880" font-size="22" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">決定商品、價格與數量，再送出買進指令。</text>
+  <rect x="84" y="668" width="552" height="146" rx="26" fill="#EEF4FF" stroke="#C8D7F0" stroke-width="2"/>
+  <circle cx="142" cy="741" r="28" fill="#D7E4F8"/>
+  <text x="132" y="750" fill="#5572A8" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">3</text>
+  <text x="192" y="722" fill="#24304A" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">輸入下單條件</text>
+  <text x="192" y="764" fill="#5B6880" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">決定商品、價格與數量，</text>
+  <text x="192" y="796" fill="#5B6880" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">再送出買進指令。</text>
 
-  <path d="M360 706 L360 754" stroke="#D5B592" stroke-width="8" stroke-linecap="round"/>
+  <path d="M360 814 L360 868" stroke="#D5B592" stroke-width="8" stroke-linecap="round"/>
 
-  <rect x="84" y="766" width="552" height="122" rx="26" fill="#EAF6EE" stroke="#C9E1D1" stroke-width="2"/>
-  <circle cx="142" cy="827" r="28" fill="#D4EAD9"/>
-  <text x="132" y="836" fill="#3F7D58" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">4</text>
-  <text x="192" y="816" fill="#203126" font-size="30" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">等待成交與持續觀察</text>
-  <text x="192" y="858" fill="#55725F" font-size="22" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">按下去不一定立刻成交，價格波動也是正常的。</text>
+  <rect x="84" y="892" width="552" height="146" rx="26" fill="#EAF6EE" stroke="#C9E1D1" stroke-width="2"/>
+  <circle cx="142" cy="965" r="28" fill="#D4EAD9"/>
+  <text x="132" y="974" fill="#3F7D58" font-size="24" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">4</text>
+  <text x="192" y="946" fill="#203126" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">等待成交與持續觀察</text>
+  <text x="192" y="988" fill="#55725F" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">按下去不一定立刻成交，</text>
+  <text x="192" y="1020" fill="#55725F" font-size="20" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">價格波動也是正常的。</text>
 </svg>
