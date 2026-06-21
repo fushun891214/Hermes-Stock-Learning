@@ -589,7 +589,7 @@ ol {
 }
 
 .lesson-graphic {
-  width: min(100%, 820px);
+  width: min(100%, 680px);
   margin: 24px auto 28px;
 }
 
@@ -664,6 +664,10 @@ ol {
 
   .hero-mini-grid {
     grid-template-columns: 1fr 1fr;
+  }
+
+  .lesson-graphic {
+    width: min(100%, 760px);
   }
 }
 
