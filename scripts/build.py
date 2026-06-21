@@ -195,8 +195,8 @@ def build_index(lessons: list[dict]) -> None:
     content = read_text(TEMPLATES_DIR / "index.html")
     content = content.replace("{{lesson_rows}}", build_lesson_rows(lessons))
     final = render_base(
-        "Hermes Stock Learning",
-        "台股新手 30 天學習網站",
+        "台股入門學習",
+        "給台股新手的循序投資學習網站",
         content,
         "",
     )
