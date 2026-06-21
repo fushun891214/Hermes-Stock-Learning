@@ -128,6 +128,10 @@ ol {
   color: var(--text);
 }
 
+.brand-text-only {
+  gap: 0;
+}
+
 .brand-mark {
   width: 42px;
   height: 42px;
@@ -316,11 +320,12 @@ ol {
 }
 
 .home-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(300px, 0.8fr);
-  gap: 22px;
-  padding: 32px;
-  margin-bottom: 22px;
+  display: block;
+  padding: 36px;
+}
+
+.hero-copy-full {
+  max-width: 760px;
 }
 
 .hero-copy h1 {
@@ -329,8 +334,13 @@ ol {
 }
 
 .hero-side {
-  display: grid;
-  gap: 14px;
+  display: none;
+}
+
+.hero-note-inline {
+  margin: 18px 0 0;
+  color: var(--muted);
+  font-weight: 700;
 }
 
 .path-list {
@@ -594,6 +604,10 @@ ol {
   display: grid;
   gap: 14px;
   padding: 28px;
+}
+
+.footer-simple {
+  justify-items: start;
 }
 
 .footer-title {
