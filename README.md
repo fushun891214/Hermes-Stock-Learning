@@ -24,7 +24,23 @@ python3 scripts/build.py
 建置完成後可查看：
 - `site/index.html`
 - `site/lessons/day-01.html`
-- `site/lessons/day-02.html`
+
+## 自動發布單一課程
+如果你剛寫完或改完某一天的課程，可以直接執行：
+```bash
+python3 scripts/publish_day.py 1
+```
+
+它會自動：
+1. rebuild 網站
+2. `git add -A`
+3. 建立 commit
+4. push 到 `origin/main`
+
+也可自訂訊息：
+```bash
+python3 scripts/publish_day.py 1 --message "Update Day 1 lesson"
+```
 
 ## GitHub Pages
 建議在 repo `Settings -> Pages`：
