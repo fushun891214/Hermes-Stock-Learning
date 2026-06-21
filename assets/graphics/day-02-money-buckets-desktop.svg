@@ -1,0 +1,30 @@
+<svg width="1400" height="760" viewBox="0 0 1400 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="760" rx="40" fill="#FCF7F0"/>
+  <rect x="32" y="28" width="1336" height="704" rx="30" fill="#FFFDF9" stroke="#E8DCCB" stroke-width="2"/>
+  <text x="80" y="110" fill="#2B231D" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">投資前先把錢分三層</text>
+  <text x="80" y="152" fill="#7A6859" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先分清楚用途，再決定哪些錢真的適合進市場。</text>
+
+  <rect x="80" y="208" width="392" height="456" rx="28" fill="#FFF2E8" stroke="#EDC9AE" stroke-width="2"/>
+  <rect x="112" y="242" width="126" height="42" rx="21" fill="#F7D9C3"/>
+  <text x="139" y="270" fill="#9B5D30" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第一層</text>
+  <text x="112" y="334" fill="#2B231D" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">生活支出</text>
+  <text x="112" y="384" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">房租、餐費、學費、</text>
+  <text x="112" y="420" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">近期一定會用到的錢</text>
+  <text x="112" y="494" fill="#A06236" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 不適合拿去承擔市場波動</text>
+
+  <rect x="504" y="208" width="392" height="456" rx="28" fill="#FFF8E6" stroke="#E7D4A3" stroke-width="2"/>
+  <rect x="536" y="242" width="126" height="42" rx="21" fill="#F1E2A9"/>
+  <text x="563" y="270" fill="#8E7230" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第二層</text>
+  <text x="536" y="334" fill="#2B231D" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">緊急預備金</text>
+  <text x="536" y="384" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">失業、生病、臨時支出時</text>
+  <text x="536" y="420" fill="#6F5B4E" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">可以立刻動用的現金</text>
+  <text x="536" y="494" fill="#8F6C25" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 追求安全與可用，不是高報酬</text>
+
+  <rect x="928" y="208" width="392" height="456" rx="28" fill="#EAF6EE" stroke="#C9E1D1" stroke-width="2"/>
+  <rect x="960" y="242" width="126" height="42" rx="21" fill="#D4EAD9"/>
+  <text x="987" y="270" fill="#3F7D58" font-size="22" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第三層</text>
+  <text x="960" y="334" fill="#203126" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">可投資資金</text>
+  <text x="960" y="384" fill="#55725F" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">短期用不到，波動時</text>
+  <text x="960" y="420" fill="#55725F" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">也不會逼你立刻退出</text>
+  <text x="960" y="494" fill="#3F7D58" font-size="22" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">→ 適合慢慢投入，先小額開始也可以</text>
+</svg>
