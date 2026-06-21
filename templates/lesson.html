@@ -1,30 +1,17 @@
 <article class="lesson-shell">
-  <section class="panel lesson-progress-top">
-    <div class="lesson-progress-card soft-green">
-      <div class="coach-card-head">
-        <strong>學習進度</strong>
-        <span>第 {{day}} 天／共 30 天</span>
-      </div>
-      <div class="progress-track"><span style="width: {{progress_percent}}%"></span></div>
-      <p>先把今天這一課看懂，再往下一課走就好。</p>
+  <section class="panel lesson-top">
+    <div class="lesson-top-meta">
+      <span class="badge-pill">第 {{day}} 天／共 30 天</span>
+      <span class="lesson-top-note">先把今天這一課看懂，再往下一課走就好。</span>
     </div>
-  </section>
-
-  <section class="panel lesson-hero">
-    <div class="lesson-hero-copy">
-      <div class="lesson-hero-meta">
-        <span class="badge-pill">第 {{day}} 天</span>
-      </div>
+    <div class="lesson-top-copy">
       <h1>{{title}}</h1>
       <p class="lesson-intro">先把這一課的核心觀念看懂，再往下學，會比一開始吸收一大堆資訊更穩。</p>
     </div>
+    <div class="progress-track"><span style="width: {{progress_percent}}%"></span></div>
   </section>
 
-  <section class="panel lesson-card">
-    <div class="lesson-card-head">
-      <span class="section-kicker">本課重點</span>
-      <strong>今天這一課要看什麼</strong>
-    </div>
+  <section class="panel lesson-card lesson-reading-card">
     <div class="lesson-body">
       {{body}}
     </div>
@@ -32,8 +19,15 @@
 
   <section class="panel lesson-bottom-nav">
     <div class="lesson-bottom-nav-head">
-      <span class="section-kicker">前後課程</span>
+      <span class="section-kicker">下一步</span>
       <strong>看完這一課，接著往哪裡走</strong>
+    </div>
+    <div class="lesson-nav-overview">
+      <a class="lesson-nav-card lesson-nav-card-home" href="../index.html#roadmap">
+        <span class="lesson-nav-label">回到課表</span>
+        <strong>重新看全部課程</strong>
+        <span class="lesson-nav-copy">如果你想回頭確認順序，可以先回首頁再接著學。</span>
+      </a>
     </div>
     <div class="lesson-nav">
       {{prev_link}}

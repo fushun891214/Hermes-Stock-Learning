@@ -141,20 +141,34 @@ def build_lessons() -> list[dict]:
         body = markdown_to_html("\n".join(md.splitlines()[1:]).strip())
         meta = lesson_meta(day_num)
 
-        prev_link = '<span class="lesson-nav-spacer"></span>'
+        prev_link = ""
         next_link = ""
 
         if idx > 0:
             prev_day_match = re.search(r"day-(\d+)", files[idx - 1].stem)
             prev_day_num = int(prev_day_match.group(1))
             prev_path = files[idx - 1].stem + ".html"
-            prev_link = f'<a class="btn secondary" href="{prev_path}">← {lesson_day_label(prev_day_num)}</a>'
+            prev_title = lesson_title_from_markdown(read_text(files[idx - 1]))
+            prev_link = (
+                f'<a class="lesson-nav-card lesson-nav-card-prev" href="{prev_path}">'
+                f'<span class="lesson-nav-label">上一課</span>'
+                f'<strong>← {lesson_day_label(prev_day_num)}</strong>'
+                f'<span class="lesson-nav-copy">{html.escape(prev_title)}</span>'
+                f'</a>'
+            )
 
         if idx < len(files) - 1:
             next_day_match = re.search(r"day-(\d+)", files[idx + 1].stem)
             next_day_num = int(next_day_match.group(1))
             next_path = files[idx + 1].stem + ".html"
-            next_link = f'<a class="btn primary" href="{next_path}">{lesson_day_label(next_day_num)} →</a>'
+            next_title = lesson_title_from_markdown(read_text(files[idx + 1]))
+            next_link = (
+                f'<a class="lesson-nav-card lesson-nav-card-next" href="{next_path}">'
+                f'<span class="lesson-nav-label">下一課</span>'
+                f'<strong>{lesson_day_label(next_day_num)} →</strong>'
+                f'<span class="lesson-nav-copy">{html.escape(next_title)}</span>'
+                f'</a>'
+            )
 
         lesson_inner = (
             lesson_tpl.replace("{{day}}", str(day_num))

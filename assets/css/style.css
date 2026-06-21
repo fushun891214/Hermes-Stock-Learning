@@ -321,16 +321,56 @@ ol {
 
 .home-hero {
   display: block;
-  padding: 36px;
+  padding: 30px 32px;
 }
 
-.hero-copy-full {
-  max-width: 760px;
+.hero-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.9fr);
+  gap: 24px;
+  align-items: stretch;
+}
+
+.hero-copy-main {
+  max-width: 640px;
+}
+
+.hero-summary {
+  display: grid;
+  align-content: start;
+  gap: 14px;
+  padding: 20px 22px;
+  border-radius: var(--radius-lg);
+  background: rgba(255, 255, 255, 0.62);
+  border: 1px solid rgba(219, 200, 173, 0.72);
+}
+
+.hero-summary-list {
+  display: grid;
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.hero-summary-list li {
+  display: grid;
+  gap: 3px;
+}
+
+.hero-summary-list strong {
+  font-size: 1rem;
+}
+
+.hero-summary-list span {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.58;
 }
 
 .hero-copy h1 {
-  font-size: clamp(2.3rem, 5vw, 4rem);
-  line-height: 1.04;
+  font-size: clamp(2.2rem, 4.4vw, 3.6rem);
+  line-height: 1.05;
 }
 
 .hero-side {
@@ -374,11 +414,11 @@ ol {
 .lesson-intro,
 .footer-copy {
   color: var(--muted);
-  font-size: 1.03rem;
+  font-size: 1rem;
 }
 
 .hero-actions {
-  margin-top: 22px;
+  margin-top: 18px;
 }
 
 .hero-tags {
@@ -476,6 +516,16 @@ ol {
   gap: 10px;
 }
 
+.lesson-table-panel {
+  width: min(920px, 100%);
+  margin: 0 auto;
+  padding: 24px 26px;
+}
+
+.lesson-table-heading {
+  margin-bottom: 12px;
+}
+
 .lesson-table-wrap {
   overflow-x: auto;
 }
@@ -488,14 +538,14 @@ ol {
 .lesson-table th,
 .lesson-table td {
   text-align: left;
-  padding: 16px 14px;
+  padding: 14px 12px;
   border-bottom: 1px solid var(--line);
-  vertical-align: top;
+  vertical-align: middle;
 }
 
 .lesson-table th {
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .lesson-table tbody tr:last-child td {
@@ -509,27 +559,43 @@ ol {
 
 .lesson-shell {
   display: grid;
-  gap: 22px;
+  gap: 18px;
 }
 
-.lesson-progress-top,
-.lesson-hero,
+.lesson-top,
 .lesson-card,
 .lesson-bottom-nav {
-  padding: 28px;
+  padding: 26px 28px;
 }
 
-.coach-card-head {
+.lesson-top {
+  display: grid;
+  gap: 18px;
+}
+
+.lesson-top-meta {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  margin-bottom: 10px;
+  flex-wrap: wrap;
 }
 
-.coach-card-head span {
+.lesson-top-note {
   color: var(--muted);
   font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.lesson-top-copy {
+  max-width: 760px;
+}
+
+.lesson-top h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -0.04em;
+  margin: 0 0 10px;
 }
 
 .progress-track {
@@ -563,9 +629,9 @@ ol {
 }
 
 .lesson-body h2 {
-  font-size: 1.4rem;
+  font-size: 1.52rem;
   letter-spacing: -0.03em;
-  margin: 28px 0 12px;
+  margin: 36px 0 14px;
 }
 
 .lesson-body h2:first-child {
@@ -573,24 +639,30 @@ ol {
 }
 
 .lesson-body h3 {
-  font-size: 1.14rem;
-  margin: 22px 0 10px;
+  font-size: 1.18rem;
+  margin: 24px 0 10px;
 }
 
 .lesson-body p,
 .lesson-body li {
   color: #40342d;
+  font-size: 1.04rem;
+  line-height: 1.86;
+}
+
+.lesson-body p {
+  margin-bottom: 14px;
 }
 
 .lesson-body ul {
   display: grid;
-  gap: 8px;
+  gap: 10px;
   padding-left: 22px;
 }
 
 .lesson-graphic {
-  width: min(100%, 820px);
-  margin: 24px auto 28px;
+  width: min(100%, 760px);
+  margin: 26px auto 30px;
 }
 
 .lesson-graphic img {
@@ -603,22 +675,72 @@ ol {
   display: none;
 }
 
-.lesson-nav {
-  justify-content: space-between;
+.lesson-nav-overview {
+  margin: 18px 0 14px;
 }
 
-.lesson-nav-spacer {
-  min-width: 1px;
+.lesson-nav {
+  justify-content: flex-start;
+  gap: 14px;
+}
+
+.lesson-nav:empty {
+  display: none;
+}
+
+.lesson-nav-card {
+  display: grid;
+  gap: 6px;
+  flex: 1 1 280px;
+  min-height: 120px;
+  padding: 18px 20px;
+  border-radius: 20px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: var(--shadow-soft);
+  color: var(--text);
+}
+
+.lesson-nav-card strong {
+  font-size: 1.05rem;
+  letter-spacing: -0.02em;
+}
+
+.lesson-nav-label {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.lesson-nav-copy {
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.lesson-nav-card-home {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.62);
+}
+
+.lesson-nav-card-next {
+  background: linear-gradient(180deg, rgba(226, 242, 234, 0.95) 0%, rgba(255, 255, 255, 0.88) 100%);
+  border-color: rgba(44, 140, 103, 0.18);
+}
+
+.lesson-nav-card-prev {
+  background: rgba(255, 255, 255, 0.72);
 }
 
 .site-footer {
-  padding-bottom: 44px;
+  padding-bottom: 38px;
 }
 
 .footer-card {
   display: grid;
-  gap: 14px;
-  padding: 28px;
+  gap: 10px;
+  padding: 18px 0 0;
+  border-top: 1px solid rgba(35, 27, 22, 0.08);
 }
 
 .footer-simple {
@@ -655,6 +777,7 @@ ol {
 }
 
 @media (max-width: 980px) {
+  .hero-layout,
   .home-hero,
   .start-steps,
   .outcome-grid,
@@ -662,12 +785,16 @@ ol {
     grid-template-columns: 1fr;
   }
 
+  .hero-summary {
+    padding: 18px;
+  }
+
   .hero-mini-grid {
     grid-template-columns: 1fr 1fr;
   }
 
   .lesson-graphic {
-    width: min(100%, 760px);
+    width: min(100%, 720px);
   }
 }
 
@@ -717,14 +844,14 @@ ol {
   }
 
   .home-hero,
+  .hero-summary,
   .hero-note,
   .hero-mini-card,
   .start-panel,
   .lesson-table-panel,
   .outcomes-panel,
   .faq-panel,
-  .lesson-progress-top,
-  .lesson-hero,
+  .lesson-top,
   .lesson-card,
   .lesson-bottom-nav,
   .footer-card {
@@ -732,8 +859,8 @@ ol {
   }
 
   .hero-copy h1 {
-    font-size: clamp(1.8rem, 8.5vw, 2.35rem);
-    line-height: 1.18;
+    font-size: clamp(1.8rem, 8vw, 2.3rem);
+    line-height: 1.16;
     margin: 10px 0 12px;
   }
 
@@ -768,6 +895,10 @@ ol {
     margin-top: 16px;
   }
 
+  .hero-summary-list span {
+    font-size: 0.92rem;
+  }
+
   .hero-mini-grid {
     grid-template-columns: 1fr;
   }
@@ -789,7 +920,7 @@ ol {
   .lesson-table tr {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 8px;
+    gap: 10px;
     padding: 14px;
     margin-bottom: 10px;
     border: 1px solid var(--line);
@@ -845,8 +976,22 @@ ol {
   }
 
   .lesson-graphic {
-    width: calc(100% + 40px);
-    margin: 18px 0 22px -20px;
+    width: calc(100% + 36px);
+    margin: 18px 0 24px -18px;
+  }
+
+  .lesson-top-meta {
+    align-items: flex-start;
+  }
+
+  .lesson-top-note {
+    font-size: 0.9rem;
+  }
+
+  .lesson-body p,
+  .lesson-body li,
+  .lesson-nav-copy {
+    font-size: 0.98rem;
   }
 
   .lesson-graphic figcaption {
@@ -856,10 +1001,6 @@ ol {
   .lesson-nav {
     flex-direction: column;
     align-items: stretch;
-  }
-
-  .lesson-nav-spacer {
-    display: none;
   }
 }
 
