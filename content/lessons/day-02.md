@@ -122,6 +122,8 @@
 - 我目前比較能理解股票，還是比較想先從 ETF 開始？
 - 我比較適合一次投入，還是每月固定投入？
 
+![Day 2 投資前準備 checklist](../assets/graphics/day-02-prep-checklist-mobile.svg "desktop:../assets/graphics/day-02-prep-checklist-desktop.svg")
+
 如果這四題你還寫不出來，也沒關係，
 那代表你現在最需要做的事，不是找標的，
 而是先把自己的準備再想清楚一點。

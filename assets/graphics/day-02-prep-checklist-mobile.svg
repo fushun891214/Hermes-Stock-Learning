@@ -1,0 +1,30 @@
+<svg width="720" height="980" viewBox="0 0 720 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="980" rx="40" fill="#FCF7F0"/>
+  <rect x="36" y="32" width="648" height="916" rx="32" fill="#FFFDF9" stroke="#E8DCCB" stroke-width="2"/>
+  <text x="72" y="112" fill="#2B231D" font-size="40" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">開始前，先把這四題寫下來</text>
+  <text x="72" y="158" fill="#7A6859" font-size="24" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">把答案寫出來，比直接找標的更能幫你穩住第一步。</text>
+
+  <rect x="72" y="220" width="576" height="146" rx="26" fill="#FFF8E6" stroke="#E7D4A3" stroke-width="2"/>
+  <circle cx="126" cy="293" r="22" fill="#F1E2A9"/>
+  <path d="M117 293 L123 299 L136 286" stroke="#8E7230" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="168" y="282" fill="#2B231D" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">我真正可投資的金額是多少？</text>
+  <text x="168" y="322" fill="#6F5B4E" font-size="21" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先分清楚生活支出、預備金與可承受波動的錢。</text>
+
+  <rect x="72" y="392" width="576" height="146" rx="26" fill="#FFF2E8" stroke="#EDC9AE" stroke-width="2"/>
+  <circle cx="126" cy="465" r="22" fill="#F7D9C3"/>
+  <path d="M117 465 L123 471 L136 458" stroke="#9B5D30" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="168" y="454" fill="#2B231D" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">第一次投入，我最多想先放多少？</text>
+  <text x="168" y="494" fill="#6F5B4E" font-size="21" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">金額先小一點，通常比一開始壓太大更穩。</text>
+
+  <rect x="72" y="564" width="576" height="146" rx="26" fill="#EEF4FF" stroke="#C8D7F0" stroke-width="2"/>
+  <circle cx="126" cy="637" r="22" fill="#D7E4F8"/>
+  <path d="M117 637 L123 643 L136 630" stroke="#5572A8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="168" y="626" fill="#24304A" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">我現在比較看得懂股票還是 ETF？</text>
+  <text x="168" y="666" fill="#5B6880" font-size="21" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先從自己理解得了的商品開始，壓力會小很多。</text>
+
+  <rect x="72" y="736" width="576" height="146" rx="26" fill="#EAF6EE" stroke="#C9E1D1" stroke-width="2"/>
+  <circle cx="126" cy="809" r="22" fill="#D4EAD9"/>
+  <path d="M117 809 L123 815 L136 802" stroke="#3F7D58" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="168" y="798" fill="#203126" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">我想一次投入，還是每月固定投入？</text>
+  <text x="168" y="838" fill="#55725F" font-size="21" font-weight="500" font-family="Inter, Noto Sans TC, sans-serif">先決定節奏，之後比較不容易被情緒帶著走。</text>
+</svg>
