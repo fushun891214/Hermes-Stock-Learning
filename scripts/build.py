@@ -11,7 +11,6 @@ LESSONS_OUT = SITE_DIR / "lessons"
 TOTAL_DAYS = 30
 
 LESSON_META = {
-    0: {"minutes": "3 分鐘", "tag": "起點"},
     1: {"minutes": "8 分鐘", "tag": "基礎"},
     2: {"minutes": "10 分鐘", "tag": "基礎"},
 }
@@ -195,8 +194,8 @@ def build_index(lessons: list[dict]) -> None:
     content = read_text(TEMPLATES_DIR / "index.html")
     content = content.replace("{{lesson_rows}}", build_lesson_rows(lessons))
     final = render_base(
-        "台股入門學習",
-        "給台股新手的循序投資學習網站",
+        "台股新手投資入門",
+        "給剛開始接觸台股的人看的投資入門網站",
         content,
         "",
     )
@@ -211,6 +210,12 @@ def build_static_files() -> None:
 
 
 def main() -> None:
+    if SITE_DIR.exists():
+        for path in sorted(SITE_DIR.rglob("*"), reverse=True):
+            if path.is_file() or path.is_symlink():
+                path.unlink()
+            elif path.is_dir():
+                path.rmdir()
     SITE_DIR.mkdir(parents=True, exist_ok=True)
     lessons = build_lessons()
     build_index(lessons)
