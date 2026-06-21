@@ -658,38 +658,34 @@ ol {
   }
 
   .topbar {
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 14px;
+    grid-template-columns: 1fr;
+    gap: 12px;
+    align-items: start;
   }
 
   .brand-copy strong,
   .brand-copy small {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
   }
 
   .nav-toggle {
-    display: inline-flex;
-    flex-direction: column;
+    display: none;
   }
 
   .site-nav {
-    display: none;
+    display: flex;
     grid-column: 1 / -1;
     width: 100%;
-    grid-template-columns: 1fr;
-    gap: 8px;
+    gap: 10px;
     justify-self: stretch;
-  }
-
-  .site-nav.is-open {
-    display: grid;
+    justify-content: flex-start;
   }
 
   .site-nav a {
-    width: 100%;
-    justify-content: center;
+    flex: 1 1 0;
+    text-align: center;
     border-radius: 14px;
     border-color: var(--line);
     background: rgba(255, 255, 255, 0.72);
@@ -718,6 +714,14 @@ ol {
     font-size: clamp(2rem, 10vw, 2.8rem);
   }
 
+  .hero-lead,
+  .section-lead,
+  .lesson-intro,
+  .footer-copy {
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
   .btn {
     width: 100%;
   }
@@ -734,8 +738,17 @@ ol {
     width: 100%;
   }
 
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
   .hero-mini-grid {
     grid-template-columns: 1fr;
+  }
+
+  .lesson-table-wrap {
+    overflow: visible;
   }
 
   .lesson-table thead {
@@ -743,15 +756,16 @@ ol {
   }
 
   .lesson-table,
-  .lesson-table tbody,
-  .lesson-table tr,
-  .lesson-table td {
+  .lesson-table tbody {
     display: block;
     width: 100%;
   }
 
   .lesson-table tr {
-    padding: 14px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px 14px;
+    padding: 16px;
     margin-bottom: 12px;
     border: 1px solid var(--line);
     border-radius: var(--radius-md);
@@ -759,8 +773,11 @@ ol {
   }
 
   .lesson-table td {
+    display: block;
+    width: 100%;
+    min-width: 0;
     border-bottom: 0;
-    padding: 8px 0;
+    padding: 0;
   }
 
   .lesson-table td::before {
@@ -768,9 +785,29 @@ ol {
     display: block;
     margin-bottom: 4px;
     color: var(--muted);
-    font-size: 0.86rem;
+    font-size: 0.82rem;
     font-weight: 700;
-    text-transform: uppercase;
+  }
+
+  .lesson-table td:nth-child(2),
+  .lesson-table td:nth-child(5) {
+    grid-column: 1 / -1;
+  }
+
+  .lesson-table td:nth-child(2) {
+    font-size: 1.15rem;
+    font-weight: 800;
+    line-height: 1.5;
+  }
+
+  .lesson-table td:nth-child(5) a {
+    display: flex;
+    width: 100%;
+    min-height: 44px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+    background: rgba(67, 138, 103, 0.12);
   }
 
   .lesson-nav {
