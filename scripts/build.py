@@ -14,6 +14,8 @@ LESSON_META = {
     1: {"minutes": "18 分鐘", "tag": "基礎觀念"},
 }
 
+IMAGE_RE = re.compile(r'^!\[(.*?)\]\(([^)\s]+)(?:\s+"([^"]+)")?\)$')
+
 
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
@@ -39,6 +41,23 @@ def markdown_to_html(md: str) -> str:
         line = raw.rstrip()
         if not line.strip():
             close_list()
+            continue
+
+        image_match = IMAGE_RE.match(line.strip())
+        if image_match:
+            close_list()
+            alt_text, src, title = image_match.groups()
+            caption = title or alt_text
+            out.append(
+                "\n".join(
+                    [
+                        '<figure class="lesson-graphic">',
+                        f'  <img src="{html.escape(src)}" alt="{html.escape(alt_text)}" loading="lazy">',
+                        f'  <figcaption>{html.escape(caption)}</figcaption>',
+                        '</figure>',
+                    ]
+                )
+            )
             continue
 
         if line.startswith("# "):
