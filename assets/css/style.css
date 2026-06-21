@@ -589,8 +589,8 @@ ol {
 }
 
 .lesson-graphic {
-  width: calc(100% + 44px);
-  margin: 24px 0 28px -22px;
+  width: min(100%, 820px);
+  margin: 24px auto 28px;
 }
 
 .lesson-graphic img {
