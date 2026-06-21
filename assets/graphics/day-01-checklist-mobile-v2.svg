@@ -1,0 +1,40 @@
+<svg width="1200" height="1680" viewBox="0 0 1200 1680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">新手自我檢查圖卡</title>
+  <desc id="desc">用五張單欄大卡片整理 Day 1 結尾要自我回答的五個問題。</desc>
+
+  <g transform="translate(32 32)">
+    <rect width="1136" height="272" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="88" fill="#231B16" font-size="46" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">1. 我的投資目的是什麼？</text>
+    <text x="44" y="154" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">我是想長期累積資產、準備退休，</text>
+    <text x="44" y="202" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">還是只是跟著別人說法在衝？</text>
+  </g>
+
+  <g transform="translate(32 336)">
+    <rect width="1136" height="272" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="88" fill="#231B16" font-size="46" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">2. 我要買什麼？</text>
+    <text x="44" y="154" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">我是先研究單一股票，</text>
+    <text x="44" y="202" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">還是先從 ETF 建立習慣？</text>
+  </g>
+
+  <g transform="translate(32 640)">
+    <rect width="1136" height="272" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="88" fill="#231B16" font-size="46" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">3. 每月投入多少？</text>
+    <text x="44" y="154" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">我能不能穩定投入，</text>
+    <text x="44" y="202" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">而不是只靠一時衝動？</text>
+  </g>
+
+  <g transform="translate(32 944)">
+    <rect width="1136" height="272" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="88" fill="#231B16" font-size="46" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">4. 跌 10% 我會怎麼做？</text>
+    <text x="44" y="154" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">我會冷靜看待，還是一跌就受不了？</text>
+    <text x="44" y="202" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">這會直接影響策略能不能做下去。</text>
+  </g>
+
+  <g transform="translate(32 1248)">
+    <rect width="1136" height="368" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="88" fill="#231B16" font-size="46" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">5. 這筆錢多久要用？</text>
+    <text x="44" y="154" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">如果一年內就要用到，</text>
+    <text x="44" y="202" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">就要更小心能不能把它放進股市。</text>
+    <text x="44" y="280" fill="#2F7E5E" font-size="32" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">先想清楚這五題，再開始投資，整個節奏會穩很多。</text>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<svg width="1200" height="1620" viewBox="0 0 1200 1620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">風險與報酬關係圖</title>
+  <desc id="desc">用一張簡化的風險報酬座標圖，加上四張單欄說明卡，幫新手理解風險和報酬通常一起上升。</desc>
+
+  <g transform="translate(32 32)">
+    <rect width="1136" height="560" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+
+    <path d="M112 430H976" stroke="#B9A58C" stroke-width="8" stroke-linecap="round"/>
+    <path d="M112 430V120" stroke="#B9A58C" stroke-width="8" stroke-linecap="round"/>
+    <path d="M976 430L938 406V454L976 430Z" fill="#B9A58C"/>
+    <path d="M112 120L88 158H136L112 120Z" fill="#B9A58C"/>
+
+    <text x="1008" y="442" fill="#6B5C50" font-size="38" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">風險</text>
+    <text x="112" y="84" fill="#6B5C50" font-size="38" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">報酬期待</text>
+
+    <path d="M196 356C350 286 504 212 776 126" stroke="#2C8C67" stroke-width="20" stroke-linecap="round"/>
+
+    <circle cx="292" cy="314" r="28" fill="#F0B862"/>
+    <text x="336" y="322" fill="#231B16" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較低波動</text>
+
+    <circle cx="546" cy="220" r="28" fill="#2C8C67"/>
+    <text x="590" y="228" fill="#231B16" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">中間區域</text>
+
+    <circle cx="792" cy="126" r="28" fill="#BE6A3C"/>
+    <text x="836" y="134" fill="#231B16" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較高波動</text>
+
+    <text x="112" y="496" fill="#6C5D52" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">通常風險越高，報酬期待也會一起提高，但中間波動也更考驗承受力。</text>
+  </g>
+
+  <g transform="translate(32 640)">
+    <rect width="1136" height="182" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <circle cx="74" cy="72" r="22" fill="#F0B862"/>
+    <text x="112" y="82" fill="#231B16" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較低波動</text>
+    <text x="44" y="138" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">通常報酬期待也較保守，但心理壓力往往比較小。</text>
+  </g>
+
+  <g transform="translate(32 854)">
+    <rect width="1136" height="182" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <circle cx="74" cy="72" r="22" fill="#2C8C67"/>
+    <text x="112" y="82" fill="#231B16" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">中間區域</text>
+    <text x="44" y="138" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">多數人真正該找的，是自己能安心持有、做得下去的位置。</text>
+  </g>
+
+  <g transform="translate(32 1068)">
+    <rect width="1136" height="182" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <circle cx="74" cy="72" r="22" fill="#BE6A3C"/>
+    <text x="112" y="82" fill="#231B16" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較高波動</text>
+    <text x="44" y="138" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">可能有更高期待，但也更考驗你能不能承受中間下跌。</text>
+  </g>
+
+  <g transform="translate(32 1282)">
+    <rect width="1136" height="148" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="78" fill="#231B16" font-size="44" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">新手先記住</text>
+    <text x="44" y="124" fill="#5E5148" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">不要只看誰漲得快，先看自己能不能承受中間下跌。</text>
+  </g>
+
+  <g transform="translate(32 1462)">
+    <rect width="1136" height="126" rx="34" fill="#FFFDF9" stroke="#E7D8C5" stroke-width="2"/>
+    <text x="44" y="78" fill="#6C5D52" font-size="34" font-family="Inter, Noto Sans TC, sans-serif">真正重要的不是衝到最高，而是找到你能安心持有、長期做得下去的區間。</text>
+  </g>
+</svg>

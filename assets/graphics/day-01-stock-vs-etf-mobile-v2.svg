@@ -1,0 +1,26 @@
+<svg width="1200" height="1180" viewBox="0 0 1200 1180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">股票與 ETF 比較圖</title>
+  <desc id="desc">用上下兩張大卡片說明股票與 ETF 的差異，讓手機閱讀時內容更大、更集中。</desc>
+
+  <g transform="translate(32 32)">
+    <rect width="1136" height="500" rx="34" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <rect x="44" y="42" width="148" height="60" rx="30" fill="#FCE8DF"/>
+    <text x="118" y="80" text-anchor="middle" fill="#BE6A3C" font-size="30" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">股票</text>
+    <text x="44" y="168" fill="#231B16" font-size="56" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">你在押單一公司</text>
+    <text x="44" y="254" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">• 判斷集中：主要看這家公司會不會持續成長</text>
+    <text x="44" y="322" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">• 波動較集中：一有狀況，價格可能更明顯起伏</text>
+    <text x="44" y="390" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">• 適合願意研究公司，</text>
+    <text x="76" y="438" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">也能承受單一標的波動的人</text>
+  </g>
+
+  <g transform="translate(32 648)">
+    <rect width="1136" height="500" rx="34" fill="#FFFFFF" stroke="#D7E9DF" stroke-width="2"/>
+    <rect x="44" y="42" width="148" height="60" rx="30" fill="#E2F2EA"/>
+    <text x="118" y="80" text-anchor="middle" fill="#2C8C67" font-size="30" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">ETF</text>
+    <text x="44" y="168" fill="#231B16" font-size="56" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">你在買一個組合</text>
+    <text x="44" y="254" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">• 一次分散：不把判斷全壓在單一公司身上</text>
+    <text x="44" y="322" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">• 決策壓力較低：通常更適合剛開始建立習慣的人</text>
+    <text x="44" y="390" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">• 重點不是誰比較強，</text>
+    <text x="76" y="438" fill="#5E5148" font-size="36" font-family="Inter, Noto Sans TC, sans-serif">而是你現在適合從哪裡開始</text>
+  </g>
+</svg>
