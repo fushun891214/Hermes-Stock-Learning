@@ -19,15 +19,22 @@
       <a class="brand" href="{{base_path}}index.html">
         <span class="brand-mark">芽</span>
         <span class="brand-copy">
-          <strong>Hermes Stock Learning</strong>
+          <strong>Stock Learning</strong>
           <small>台股新手投資學習</small>
         </span>
       </a>
-      <nav class="site-nav">
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="切換導覽選單">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav class="site-nav" id="site-nav" data-base-path="{{base_path}}">
         <a href="{{base_path}}index.html">首頁</a>
-        <a href="{{base_path}}lessons/day-00.html">Day 0</a>
-        <a href="{{base_path}}lessons/day-01.html">Day 1</a>
-        <a href="{{base_path}}lessons/day-02.html">Day 2</a>
+        <a href="{{base_path}}index.html#start">開始學習</a>
+        <a href="{{base_path}}index.html#roadmap">課表</a>
+        <a href="{{base_path}}index.html#faq">FAQ</a>
       </nav>
     </div>
   </header>
@@ -38,14 +45,17 @@
 
   <footer class="site-footer wrap">
     <div class="footer-card panel">
-      <div>
-        <p class="footer-title">陪你用低壓節奏，把投資基礎一點一點學會</p>
-        <p class="footer-copy">先搞懂風險與方法，再慢慢累積自己的投資判斷。這不是催你進場的網站，而是陪你養成穩定學習習慣的地方。</p>
+      <div class="footer-main">
+        <p class="footer-title">Hermes Stock Learning</p>
+        <p class="footer-copy">給台股新手的入門學習網站。先把投資基礎學清楚，再慢慢建立自己的判斷。</p>
       </div>
-      <div class="footer-actions">
-        <a class="btn primary" href="{{base_path}}lessons/day-00.html">先看 Day 0</a>
-        <a class="btn secondary" href="{{base_path}}lessons/day-01.html">再看 Day 1</a>
+      <div class="footer-links">
+        <a href="{{base_path}}index.html">首頁</a>
+        <a href="{{base_path}}index.html#start">開始學習</a>
+        <a href="{{base_path}}index.html#roadmap">課表</a>
+        <a href="{{base_path}}index.html#faq">FAQ</a>
       </div>
+      <p class="footer-note">本站內容僅供學習整理，不構成投資建議。</p>
     </div>
   </footer>
 

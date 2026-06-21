@@ -10,6 +10,12 @@ SITE_DIR = ROOT / "site"
 LESSONS_OUT = SITE_DIR / "lessons"
 TOTAL_DAYS = 30
 
+LESSON_META = {
+    0: {"minutes": "3 分鐘", "tag": "起點"},
+    1: {"minutes": "8 分鐘", "tag": "基礎"},
+    2: {"minutes": "10 分鐘", "tag": "基礎"},
+}
+
 
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
@@ -25,7 +31,7 @@ def markdown_to_html(md: str) -> str:
     out = []
     in_list = False
 
-    def close_list():
+    def close_list() -> None:
         nonlocal in_list
         if in_list:
             out.append("</ul>")
@@ -93,24 +99,32 @@ def lesson_day_label(day_num: int) -> str:
     return f"Day {day_num}"
 
 
+def lesson_meta(day_num: int) -> dict:
+    return LESSON_META.get(day_num, {"minutes": "10 分鐘", "tag": "學習中"})
+
+
 def build_lessons() -> list[dict]:
     lesson_tpl = read_text(TEMPLATES_DIR / "lesson.html")
     lessons = []
     files = sorted(CONTENT_DIR.glob("day-*.md"))
+
     for idx, path in enumerate(files):
         md = read_text(path)
         title = lesson_title_from_markdown(md)
         day_match = re.search(r"day-(\d+)", path.stem)
         day_num = int(day_match.group(1)) if day_match else idx + 1
         body = markdown_to_html("\n".join(md.splitlines()[1:]).strip())
+        meta = lesson_meta(day_num)
 
-        prev_link = ""
+        prev_link = '<span class="lesson-nav-spacer"></span>'
         next_link = ""
+
         if idx > 0:
             prev_day_match = re.search(r"day-(\d+)", files[idx - 1].stem)
             prev_day_num = int(prev_day_match.group(1))
             prev_path = files[idx - 1].stem + ".html"
             prev_link = f'<a class="btn secondary" href="{prev_path}">← {lesson_day_label(prev_day_num)}</a>'
+
         if idx < len(files) - 1:
             next_day_match = re.search(r"day-(\d+)", files[idx + 1].stem)
             next_day_num = int(next_day_match.group(1))
@@ -125,10 +139,20 @@ def build_lessons() -> list[dict]:
             .replace("{{next_link}}", next_link)
             .replace("{{progress_percent}}", progress_percent(day_num))
         )
+
         final = render_base(title, title, lesson_inner, "../")
         out_path = LESSONS_OUT / f"{path.stem}.html"
         write_text(out_path, final)
-        lessons.append({"day": day_num, "title": title, "file": out_path.name})
+        lessons.append(
+            {
+                "day": day_num,
+                "title": title,
+                "file": out_path.name,
+                "minutes": meta["minutes"],
+                "tag": meta["tag"],
+            }
+        )
+
     return lessons
 
 
@@ -136,13 +160,17 @@ def build_lesson_rows(lessons: list[dict]) -> str:
     rows = []
     for lesson in lessons:
         rows.append(
-            "\n".join([
-                "<tr>",
-                f"  <td data-label=\"天數\">{lesson_day_label(lesson['day'])}</td>",
-                f"  <td data-label=\"主題\">{html.escape(lesson['title'])}</td>",
-                f"  <td data-label=\"查看內容\"><a class=\"table-link\" href=\"lessons/{lesson['file']}\">查看</a></td>",
-                "</tr>",
-            ])
+            "\n".join(
+                [
+                    "<tr>",
+                    f"  <td data-label=\"天數\">{lesson_day_label(lesson['day'])}</td>",
+                    f"  <td data-label=\"主題\">{html.escape(lesson['title'])}</td>",
+                    f'  <td data-label="預估時間">{lesson["minutes"]}</td>',
+                    f'  <td data-label="重點"><span class="table-tag">{lesson["tag"]}</span></td>',
+                    f'  <td data-label="查看內容"><a class="table-link" href="lessons/{lesson["file"]}">開始這一天</a></td>',
+                    "</tr>",
+                ]
+            )
         )
     return "\n".join(rows)
 
