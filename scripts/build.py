@@ -138,9 +138,9 @@ def build_lesson_rows(lessons: list[dict]) -> str:
         rows.append(
             "\n".join([
                 "<tr>",
-                f"  <td>{lesson_day_label(lesson['day'])}</td>",
-                f"  <td>{html.escape(lesson['title'])}</td>",
-                f"  <td><a class=\"table-link\" href=\"lessons/{lesson['file']}\">查看</a></td>",
+                f"  <td data-label=\"天數\">{lesson_day_label(lesson['day'])}</td>",
+                f"  <td data-label=\"主題\">{html.escape(lesson['title'])}</td>",
+                f"  <td data-label=\"查看內容\"><a class=\"table-link\" href=\"lessons/{lesson['file']}\">查看</a></td>",
                 "</tr>",
             ])
         )
