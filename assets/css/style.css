@@ -249,8 +249,12 @@ ol {
 }
 
 .table-tag {
-  background: rgba(226, 242, 234, 0.92);
-  color: var(--green);
+  align-self: flex-start;
+  padding: 6px 12px;
+  border: 1px solid rgba(196, 164, 111, 0.28);
+  background: rgba(251, 244, 226, 0.96);
+  color: #8f6627;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.72);
 }
 
 .section-kicker {
