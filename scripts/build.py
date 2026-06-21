@@ -47,12 +47,23 @@ def markdown_to_html(md: str) -> str:
         if image_match:
             close_list()
             alt_text, src, title = image_match.groups()
-            figure_parts = [
-                '<figure class="lesson-graphic">',
-                f'  <img src="{html.escape(src)}" alt="{html.escape(alt_text)}" loading="lazy">',
-            ]
-            if title:
-                figure_parts.append(f'  <figcaption>{html.escape(title)}</figcaption>')
+            figure_parts = ['<figure class="lesson-graphic">']
+            desktop_src = None
+            caption = title
+            if title and title.startswith("desktop:"):
+                desktop_src = title.split(":", 1)[1].strip()
+                caption = None
+            if desktop_src:
+                figure_parts.extend([
+                    '  <picture>',
+                    f'    <source media="(min-width: 981px)" srcset="{html.escape(desktop_src)}">',
+                    f'    <img src="{html.escape(src)}" alt="{html.escape(alt_text)}" loading="lazy">',
+                    '  </picture>',
+                ])
+            else:
+                figure_parts.append(f'  <img src="{html.escape(src)}" alt="{html.escape(alt_text)}" loading="lazy">')
+            if caption:
+                figure_parts.append(f'  <figcaption>{html.escape(caption)}</figcaption>')
             figure_parts.append('</figure>')
             out.append("\n".join(figure_parts))
             continue

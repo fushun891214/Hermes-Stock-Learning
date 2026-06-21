@@ -1,0 +1,54 @@
+<svg width="1600" height="820" viewBox="0 0 1600 820" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">風險與報酬關係圖</title>
+  <desc id="desc">桌機版橫向風險報酬圖，上方是座標示意，下方是三張說明卡。</desc>
+
+  <rect x="24" y="24" width="1552" height="772" rx="36" fill="#FFFDF9" stroke="#E6D8C4" stroke-width="2"/>
+  <text x="56" y="84" fill="#231B16" font-size="46" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">風險越高，報酬期待通常也會一起提高</text>
+  <text x="56" y="128" fill="#6B5C50" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">真正重要的不是衝到最高，而是找到你能安心持有、做得下去的位置。</text>
+
+  <g transform="translate(56 174)">
+    <rect width="1488" height="292" rx="30" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <path d="M120 212H1324" stroke="#B9A58C" stroke-width="8" stroke-linecap="round"/>
+    <path d="M120 212V72" stroke="#B9A58C" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1324 212L1292 190V234L1324 212Z" fill="#B9A58C"/>
+    <path d="M120 72L98 104H142L120 72Z" fill="#B9A58C"/>
+    <text x="1352" y="224" fill="#6B5C50" font-size="34" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">風險</text>
+    <text x="120" y="42" fill="#6B5C50" font-size="34" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">報酬期待</text>
+    <path d="M202 176C420 152 648 130 1120 84" stroke="#2C8C67" stroke-width="18" stroke-linecap="round"/>
+
+    <circle cx="330" cy="162" r="24" fill="#F0B862"/>
+    <text x="368" y="172" fill="#231B16" font-size="36" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較低波動</text>
+
+    <circle cx="720" cy="126" r="24" fill="#2C8C67"/>
+    <text x="758" y="136" fill="#231B16" font-size="36" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">中間區域</text>
+
+    <circle cx="1112" cy="88" r="24" fill="#BE6A3C"/>
+    <text x="1150" y="98" fill="#231B16" font-size="36" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較高波動</text>
+
+    <text x="120" y="260" fill="#6C5D52" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">通常風險越高，報酬期待也會提高，但中間波動也更考驗承受力。</text>
+  </g>
+
+  <g transform="translate(56 504)">
+    <rect width="456" height="240" rx="28" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <circle cx="52" cy="52" r="18" fill="#F0B862"/>
+    <text x="82" y="62" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較低波動</text>
+    <text x="28" y="126" fill="#5E5148" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">通常報酬期待也較保守，</text>
+    <text x="28" y="166" fill="#5E5148" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">但心理壓力往往比較小。</text>
+  </g>
+
+  <g transform="translate(572 504)">
+    <rect width="456" height="240" rx="28" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <circle cx="52" cy="52" r="18" fill="#2C8C67"/>
+    <text x="82" y="62" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">中間區域</text>
+    <text x="28" y="126" fill="#5E5148" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">多數人真正該找的，是自己能安心持有、</text>
+    <text x="28" y="166" fill="#5E5148" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">做得下去的位置。</text>
+  </g>
+
+  <g transform="translate(1088 504)">
+    <rect width="456" height="240" rx="28" fill="#FFFFFF" stroke="#E7D8C5" stroke-width="2"/>
+    <circle cx="52" cy="52" r="18" fill="#BE6A3C"/>
+    <text x="82" y="62" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">較高波動</text>
+    <text x="28" y="126" fill="#5E5148" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">可能有更高期待，</text>
+    <text x="28" y="166" fill="#5E5148" font-size="28" font-family="Inter, Noto Sans TC, sans-serif">但也更考驗你能不能承受中間下跌。</text>
+  </g>
+</svg>
