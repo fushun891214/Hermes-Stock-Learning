@@ -13,6 +13,7 @@ TOTAL_DAYS = 30
 LESSON_META = {
     1: {"minutes": "8 分鐘", "tag": "基礎"},
     2: {"minutes": "10 分鐘", "tag": "基礎"},
+    3: {"minutes": "9 分鐘", "tag": "基礎"},
 }
 
 
