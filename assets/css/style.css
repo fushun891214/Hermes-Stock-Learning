@@ -980,12 +980,29 @@ ol {
     margin: 18px 0 24px -18px;
   }
 
+  .lesson-top {
+    gap: 14px;
+  }
+
   .lesson-top-meta {
     align-items: flex-start;
+    gap: 10px;
+  }
+
+  .lesson-top-copy {
+    max-width: 100%;
+  }
+
+  .lesson-top h1 {
+    font-size: clamp(1.72rem, 7.8vw, 2.32rem);
+    line-height: 1.18;
+    letter-spacing: -0.03em;
+    margin: 0 0 8px;
   }
 
   .lesson-top-note {
     font-size: 0.9rem;
+    line-height: 1.55;
   }
 
   .lesson-body p,
@@ -1023,6 +1040,9 @@ ol {
   }
 
   .home-hero,
+  .lesson-top,
+  .lesson-card,
+  .lesson-bottom-nav,
   .lesson-table-panel,
   .footer-card {
     padding: 16px;
@@ -1038,6 +1058,26 @@ ol {
     font-size: clamp(1.7rem, 8.2vw, 2.1rem);
     line-height: 1.16;
     margin: 8px 0 10px;
+  }
+
+  .lesson-top {
+    gap: 12px;
+  }
+
+  .lesson-top-meta {
+    gap: 8px;
+  }
+
+  .lesson-top h1 {
+    font-size: clamp(1.56rem, 7.1vw, 1.96rem);
+    line-height: 1.2;
+    margin: 0 0 6px;
+  }
+
+  .lesson-intro,
+  .lesson-top-note {
+    font-size: 0.92rem;
+    line-height: 1.58;
   }
 
   .hero-lead,
