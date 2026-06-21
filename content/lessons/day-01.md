@@ -11,7 +11,7 @@
 
 所以這一課不先教你買哪一檔，而是先把投資最前面的地基打好。
 
-![投資學習流程圖](../assets/graphics/day-01-investment-map-mobile-v4.svg "desktop:../assets/graphics/day-01-investment-map-desktop-v2.svg")
+![投資學習流程圖](../assets/graphics/day-01-investment-map-mobile-v4.svg "desktop:../assets/graphics/day-01-investment-map-desktop-v3.svg")
 
 ## 第一部分：你為什麼要投資
 投資不是賭博，也不是看到別人賺錢就跟著衝。

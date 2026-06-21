@@ -1,0 +1,78 @@
+<svg width="1600" height="600" viewBox="0 0 1600 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">投資學習流程圖</title>
+  <desc id="desc">桌機版橫向流程圖，用四張較寬的卡片說明先想目的、選商品、看風險、再投入，降低文字擠壓。</desc>
+
+  <rect x="24" y="24" width="1552" height="552" rx="36" fill="#FFFDF9" stroke="#E6D8C4" stroke-width="2"/>
+  <text x="56" y="84" fill="#231B16" font-size="44" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">投資前先走完這四步</text>
+  <text x="56" y="124" fill="#6B5C50" font-size="26" font-family="Inter, Noto Sans TC, sans-serif">先想清楚方向，再開始投入，後面比較不容易一跌就亂掉。</text>
+
+  <g transform="translate(56 162)">
+    <rect width="292" height="336" rx="30" fill="#FFFFFF" stroke="#D7E9DF" stroke-width="2"/>
+    <circle cx="46" cy="56" r="26" fill="#E2F2EA"/>
+    <text x="46" y="65" text-anchor="middle" fill="#2C8C67" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">1</text>
+    <text x="86" y="67" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">先想目的</text>
+    <text x="24" y="130" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">這筆錢是要累積資產、</text>
+    <text x="24" y="162" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">準備退休，還是建立</text>
+    <text x="24" y="194" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">長期投入的習慣？</text>
+    <text x="24" y="242" fill="#2F7E5E" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">先知道為什麼投資，</text>
+    <text x="24" y="270" fill="#2F7E5E" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">市場波動時才不容易</text>
+    <text x="24" y="298" fill="#2F7E5E" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">亂改方向。</text>
+  </g>
+
+  <g transform="translate(366 286)">
+    <circle cx="24" cy="24" r="24" fill="#FFF6E8"/>
+    <path d="M15 24H33" stroke="#C9B395" stroke-width="5" stroke-linecap="round"/>
+    <path d="M27 16L35 24L27 32" stroke="#C9B395" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(438 162)">
+    <rect width="292" height="336" rx="30" fill="#FFFFFF" stroke="#F0E0BF" stroke-width="2"/>
+    <circle cx="46" cy="56" r="26" fill="#FFF3DD"/>
+    <text x="46" y="65" text-anchor="middle" fill="#A47026" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">2</text>
+    <text x="86" y="67" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">選商品</text>
+    <text x="24" y="130" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">你是想押單一公司，</text>
+    <text x="24" y="162" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">還是先從 ETF 這種</text>
+    <text x="24" y="194" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">一籃子組合開始？</text>
+    <text x="24" y="242" fill="#8C6425" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">先分清楚你買的是什麼，</text>
+    <text x="24" y="270" fill="#8C6425" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">再決定怎麼開始，</text>
+    <text x="24" y="298" fill="#8C6425" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">心裡會更穩。</text>
+  </g>
+
+  <g transform="translate(748 286)">
+    <circle cx="24" cy="24" r="24" fill="#FFF6E8"/>
+    <path d="M15 24H33" stroke="#C9B395" stroke-width="5" stroke-linecap="round"/>
+    <path d="M27 16L35 24L27 32" stroke="#C9B395" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(820 162)">
+    <rect width="292" height="336" rx="30" fill="#FFFFFF" stroke="#F0D7C9" stroke-width="2"/>
+    <circle cx="46" cy="56" r="26" fill="#FCE8DF"/>
+    <text x="46" y="65" text-anchor="middle" fill="#BE6A3C" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">3</text>
+    <text x="86" y="67" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">看風險</text>
+    <text x="24" y="130" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">如果中間下跌 10% 到 20%，</text>
+    <text x="24" y="162" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">你還拿得住嗎？</text>
+    <text x="24" y="194" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">晚上睡得著嗎？</text>
+    <text x="24" y="242" fill="#A45B33" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">能承受的波動，</text>
+    <text x="24" y="270" fill="#A45B33" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">才是真正適合你的</text>
+    <text x="24" y="298" fill="#A45B33" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">投資方式。</text>
+  </g>
+
+  <g transform="translate(1130 286)">
+    <circle cx="24" cy="24" r="24" fill="#FFF6E8"/>
+    <path d="M15 24H33" stroke="#C9B395" stroke-width="5" stroke-linecap="round"/>
+    <path d="M27 16L35 24L27 32" stroke="#C9B395" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(1202 162)">
+    <rect width="292" height="336" rx="30" fill="#FFFFFF" stroke="#D7E9DF" stroke-width="2"/>
+    <circle cx="46" cy="56" r="26" fill="#E2F2EA"/>
+    <text x="46" y="65" text-anchor="middle" fill="#2C8C67" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">4</text>
+    <text x="86" y="67" fill="#231B16" font-size="34" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">再投入</text>
+    <text x="24" y="130" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">順序想清楚之後，</text>
+    <text x="24" y="162" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">才比較不會一跌就</text>
+    <text x="24" y="194" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">懷疑自己、亂改策略。</text>
+    <text x="24" y="242" fill="#2F7E5E" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">真正穩的開始，</text>
+    <text x="24" y="270" fill="#2F7E5E" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">不是衝得快，</text>
+    <text x="24" y="298" fill="#2F7E5E" font-size="20" font-weight="700" font-family="Inter, Noto Sans TC, sans-serif">而是做得久。</text>
+  </g>
+</svg>
