@@ -1,12 +1,10 @@
-<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">投資學習流程圖</title>
   <desc id="desc">用四個步驟說明新手投資應先想投資目的，再選商品、看風險，最後才開始投入。</desc>
-  <rect width="1200" height="720" rx="36" fill="#FFF9F2"/>
-  <rect x="40" y="40" width="1120" height="640" rx="30" fill="#F8EFE3" stroke="#E3D3BE" stroke-width="2"/>
-  <text x="72" y="108" fill="#2A211B" font-size="42" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">開始投資前，先走對順序</text>
-  <text x="72" y="148" fill="#776A61" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">先想目的，再選商品，再看風險，最後才是實際投入。</text>
+  <rect width="1200" height="620" rx="36" fill="#FFF9F2"/>
+  <rect x="40" y="40" width="1120" height="540" rx="30" fill="#F8EFE3" stroke="#E3D3BE" stroke-width="2"/>
 
-  <g transform="translate(72 220)">
+  <g transform="translate(72 160)">
     <rect width="228" height="220" rx="28" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
     <circle cx="54" cy="54" r="26" fill="#E2F2EA"/>
     <text x="54" y="62" text-anchor="middle" fill="#2C8C67" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">1</text>
@@ -16,7 +14,7 @@
     <text x="30" y="210" fill="#5E5148" font-size="20" font-family="Inter, Noto Sans TC, sans-serif">還是建立理財習慣？</text>
   </g>
 
-  <g transform="translate(348 220)">
+  <g transform="translate(348 160)">
     <rect width="228" height="220" rx="28" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
     <circle cx="54" cy="54" r="26" fill="#FFF3DD"/>
     <text x="54" y="62" text-anchor="middle" fill="#A47026" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">2</text>
@@ -26,7 +24,7 @@
     <text x="30" y="210" fill="#5E5148" font-size="20" font-family="Inter, Noto Sans TC, sans-serif">這種組合型商品開始？</text>
   </g>
 
-  <g transform="translate(624 220)">
+  <g transform="translate(624 160)">
     <rect width="228" height="220" rx="28" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
     <circle cx="54" cy="54" r="26" fill="#FCE8DF"/>
     <text x="54" y="62" text-anchor="middle" fill="#BE6A3C" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">3</text>
@@ -36,7 +34,7 @@
     <text x="30" y="210" fill="#5E5148" font-size="20" font-family="Inter, Noto Sans TC, sans-serif">這才是真正的風險測試。</text>
   </g>
 
-  <g transform="translate(900 220)">
+  <g transform="translate(900 160)">
     <rect width="228" height="220" rx="28" fill="#FFFFFF" stroke="#E6D8C4" stroke-width="2"/>
     <circle cx="54" cy="54" r="26" fill="#E2F2EA"/>
     <text x="54" y="62" text-anchor="middle" fill="#2C8C67" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">4</text>
@@ -46,14 +44,14 @@
     <text x="30" y="210" fill="#5E5148" font-size="20" font-family="Inter, Noto Sans TC, sans-serif">原本的投資策略。</text>
   </g>
 
-  <path d="M301 328H347" stroke="#C7B59B" stroke-width="6" stroke-linecap="round"/>
-  <path d="M577 328H623" stroke="#C7B59B" stroke-width="6" stroke-linecap="round"/>
-  <path d="M853 328H899" stroke="#C7B59B" stroke-width="6" stroke-linecap="round"/>
-  <path d="M338 328L321 314V342L338 328Z" fill="#C7B59B"/>
-  <path d="M614 328L597 314V342L614 328Z" fill="#C7B59B"/>
-  <path d="M890 328L873 314V342L890 328Z" fill="#C7B59B"/>
+  <path d="M301 268H347" stroke="#C7B59B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M577 268H623" stroke="#C7B59B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M853 268H899" stroke="#C7B59B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M338 268L321 254V282L338 268Z" fill="#C7B59B"/>
+  <path d="M614 268L597 254V282L614 268Z" fill="#C7B59B"/>
+  <path d="M890 268L873 254V282L890 268Z" fill="#C7B59B"/>
 
-  <rect x="72" y="492" width="1056" height="128" rx="26" fill="#FFFDF9" stroke="#E6D8C4" stroke-width="2"/>
-  <text x="112" y="548" fill="#2A211B" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">重點提醒</text>
-  <text x="112" y="590" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">很多人會直接跳去找「哪一檔會漲」，但真正更穩的做法，是先把這四步走完再開始投入。</text>
+  <rect x="72" y="432" width="1056" height="108" rx="26" fill="#FFFDF9" stroke="#E6D8C4" stroke-width="2"/>
+  <text x="112" y="482" fill="#2A211B" font-size="28" font-weight="800" font-family="Inter, Noto Sans TC, sans-serif">重點提醒</text>
+  <text x="112" y="518" fill="#5E5148" font-size="22" font-family="Inter, Noto Sans TC, sans-serif">很多人會直接跳去找「哪一檔會漲」，但真正更穩的做法，是先把這四步走完再開始投入。</text>
 </svg>

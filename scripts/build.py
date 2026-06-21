@@ -47,17 +47,14 @@ def markdown_to_html(md: str) -> str:
         if image_match:
             close_list()
             alt_text, src, title = image_match.groups()
-            caption = title or alt_text
-            out.append(
-                "\n".join(
-                    [
-                        '<figure class="lesson-graphic">',
-                        f'  <img src="{html.escape(src)}" alt="{html.escape(alt_text)}" loading="lazy">',
-                        f'  <figcaption>{html.escape(caption)}</figcaption>',
-                        '</figure>',
-                    ]
-                )
-            )
+            figure_parts = [
+                '<figure class="lesson-graphic">',
+                f'  <img src="{html.escape(src)}" alt="{html.escape(alt_text)}" loading="lazy">',
+            ]
+            if title:
+                figure_parts.append(f'  <figcaption>{html.escape(title)}</figcaption>')
+            figure_parts.append('</figure>')
+            out.append("\n".join(figure_parts))
             continue
 
         if line.startswith("# "):
