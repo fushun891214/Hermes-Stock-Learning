@@ -89,6 +89,10 @@ def progress_percent(day_num: int) -> str:
     return f"{percent:.1f}"
 
 
+def lesson_day_label(day_num: int) -> str:
+    return f"Day {day_num}"
+
+
 def build_lessons() -> list[dict]:
     lesson_tpl = read_text(TEMPLATES_DIR / "lesson.html")
     lessons = []
@@ -103,11 +107,15 @@ def build_lessons() -> list[dict]:
         prev_link = ""
         next_link = ""
         if idx > 0:
+            prev_day_match = re.search(r"day-(\d+)", files[idx - 1].stem)
+            prev_day_num = int(prev_day_match.group(1))
             prev_path = files[idx - 1].stem + ".html"
-            prev_link = f'<a class="btn secondary" href="{prev_path}">← 上一課</a>'
+            prev_link = f'<a class="btn secondary" href="{prev_path}">← {lesson_day_label(prev_day_num)}</a>'
         if idx < len(files) - 1:
+            next_day_match = re.search(r"day-(\d+)", files[idx + 1].stem)
+            next_day_num = int(next_day_match.group(1))
             next_path = files[idx + 1].stem + ".html"
-            next_link = f'<a class="btn primary" href="{next_path}">下一課 →</a>'
+            next_link = f'<a class="btn primary" href="{next_path}">{lesson_day_label(next_day_num)} →</a>'
 
         lesson_inner = (
             lesson_tpl.replace("{{day}}", str(day_num))
@@ -122,6 +130,21 @@ def build_lessons() -> list[dict]:
         write_text(out_path, final)
         lessons.append({"day": day_num, "title": title, "file": out_path.name})
     return lessons
+
+
+def build_lesson_rows(lessons: list[dict]) -> str:
+    rows = []
+    for lesson in lessons:
+        rows.append(
+            "\n".join([
+                "<tr>",
+                f"  <td>{lesson_day_label(lesson['day'])}</td>",
+                f"  <td>{html.escape(lesson['title'])}</td>",
+                f"  <td><a class=\"table-link\" href=\"lessons/{lesson['file']}\">查看</a></td>",
+                "</tr>",
+            ])
+        )
+    return "\n".join(rows)
 
 
 def copy_tree(src_root: Path, dest_root: Path) -> None:
@@ -140,8 +163,9 @@ def copy_assets() -> None:
     copy_tree(ASSETS_DIR, SITE_DIR / "assets")
 
 
-def build_index() -> None:
+def build_index(lessons: list[dict]) -> None:
     content = read_text(TEMPLATES_DIR / "index.html")
+    content = content.replace("{{lesson_rows}}", build_lesson_rows(lessons))
     final = render_base(
         "Hermes Stock Learning",
         "台股新手 30 天學習網站",
@@ -160,8 +184,8 @@ def build_static_files() -> None:
 
 def main() -> None:
     SITE_DIR.mkdir(parents=True, exist_ok=True)
-    build_lessons()
-    build_index()
+    lessons = build_lessons()
+    build_index(lessons)
     copy_assets()
     build_static_files()
     print(f"Built site into {SITE_DIR}")

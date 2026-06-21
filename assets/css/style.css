@@ -497,6 +497,59 @@ ol {
   margin-bottom: 24px;
 }
 
+.home-intro,
+.lesson-table-panel,
+.lesson-progress-top,
+.lesson-bottom-nav {
+  padding: 28px;
+}
+
+.home-intro {
+  margin-bottom: 24px;
+}
+
+.home-intro h1,
+.lesson-table-panel h2 {
+  font-size: clamp(1.9rem, 3vw, 2.8rem);
+  letter-spacing: -0.04em;
+  margin: 14px 0 16px;
+}
+
+.lesson-table-wrap {
+  overflow-x: auto;
+}
+
+.lesson-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 620px;
+}
+
+.lesson-table th,
+.lesson-table td {
+  text-align: left;
+  padding: 16px 14px;
+  border-bottom: 1px solid var(--line);
+}
+
+.lesson-table th {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.lesson-table td {
+  vertical-align: top;
+}
+
+.table-link {
+  color: var(--green);
+  font-weight: 800;
+}
+
+.lesson-table-heading {
+  margin-bottom: 8px;
+}
+
 .section-card h2,
 .rhythm-board h2 {
   font-size: clamp(1.65rem, 2vw, 2.2rem);
@@ -577,8 +630,12 @@ ol {
   gap: 24px;
 }
 
+.lesson-progress-top {
+  padding-bottom: 10px;
+}
+
 .lesson-hero {
-  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  grid-template-columns: 1fr;
   align-items: stretch;
   padding: 28px;
 }
@@ -613,6 +670,16 @@ ol {
 
 .lesson-card {
   padding: 24px;
+}
+
+.lesson-bottom-nav-head {
+  margin-bottom: 14px;
+}
+
+.lesson-bottom-nav .lesson-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .lesson-card-head {

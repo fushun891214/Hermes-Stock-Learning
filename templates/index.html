@@ -1,96 +1,28 @@
-<section class="home-hero">
-  <article class="hero-copy-block">
-    <span class="badge-pill">給剛開始接觸台股的人</span>
-    <h1>用簡單的方式，先把台股投資基礎學清楚</h1>
-    <p class="hero-lead">先搞懂為什麼投資、股票和 ETF 的差別，以及風險怎麼看，再往下學會比較穩。</p>
-    <div class="hero-actions">
-      <a class="btn primary" href="lessons/day-01.html">從 Day 1 開始</a>
-      <a class="btn secondary" href="lessons/day-02.html">直接看 Day 2</a>
-    </div>
-    <div class="hero-tags">
-      <span>白話入門</span>
-      <span>短篇閱讀</span>
-      <span>先學 ETF 與風險</span>
-    </div>
-  </article>
-
-  <aside class="hero-side panel">
-    <div class="coach-card soft-green">
-      <span class="mini-kicker">從這裡開始</span>
-      <strong>Day 1｜先搞懂你為什麼要投資</strong>
-      <p>先把投資目的想清楚，再往下看股票、ETF 與交易制度，順序會比較穩。</p>
-    </div>
-
-    <div class="coach-card">
-      <span class="mini-kicker">接著看</span>
-      <strong>Day 2｜股票和 ETF 到底差在哪裡</strong>
-      <p>如果你最常卡在名詞搞混，這一課會先幫你把兩者差異拆開。</p>
-    </div>
-
-    <div class="coach-reminders">
-      <div class="reminder-item active">
-        <span class="reminder-dot"></span>
-        <div>
-          <strong>適合誰</strong>
-          <p>適合完全新手，或知道一些名詞但還沒有完整觀念的人。</p>
-        </div>
-      </div>
-      <div class="reminder-item">
-        <span class="reminder-dot soft"></span>
-        <div>
-          <strong>建議節奏</strong>
-          <p>先從 Day 1 開始，再照順序往後看，會比跳著讀更容易建立完整理解。</p>
-        </div>
-      </div>
-    </div>
-  </aside>
+<section class="panel home-intro">
+  <span class="badge-pill">台股新手投資學習網站</span>
+  <h1>這個網站在做什麼？</h1>
+  <p class="hero-lead">這個網站是給台股新手的入門學習頁。內容會用白話方式整理投資基礎，先從投資目的、股票與 ETF、風險與交易制度開始，讓你可以照天數一課一課看下去。</p>
 </section>
 
-<section class="grid-two home-sections">
-  <article class="panel section-card">
-    <div class="section-kicker">How to start</div>
-    <h2>第一次進來，先這樣看就好</h2>
-    <div class="step-list">
-      <div class="step-item">
-        <span class="step-no">1</span>
-        <div>
-          <strong>先看 Day 1</strong>
-          <p>先搞懂你為什麼要投資，別一開始就急著找標的。</p>
-        </div>
-      </div>
-      <div class="step-item">
-        <span class="step-no">2</span>
-        <div>
-          <strong>再看 Day 2</strong>
-          <p>把股票和 ETF 的差異先分清楚，後面吸收資訊會輕鬆很多。</p>
-        </div>
-      </div>
-      <div class="step-item">
-        <span class="step-no">3</span>
-        <div>
-          <strong>之後補風險與制度</strong>
-          <p>等基礎穩了，再往下看交易成本、制度和新手避坑內容。</p>
-        </div>
-      </div>
+<section class="panel lesson-table-panel">
+  <div class="section-heading lesson-table-heading">
+    <div>
+      <span class="section-kicker">Lesson table</span>
+      <h2>目前可查看的天數</h2>
     </div>
-  </article>
-
-  <article class="panel section-card">
-    <div class="section-kicker">Learning path</div>
-    <h2>這個網站先教你什麼</h2>
-    <div class="note-stack">
-      <div class="note-bubble highlight">
-        <strong>投資目的</strong>
-        <p>先釐清自己為什麼想投資，才能知道該承擔多少風險。</p>
-      </div>
-      <div class="note-bubble">
-        <strong>股票與 ETF</strong>
-        <p>先分清楚兩者差別，理解為什麼很多新手會先從 ETF 開始。</p>
-      </div>
-      <div class="note-bubble">
-        <strong>風險與制度</strong>
-        <p>接著再補交易制度、成本觀念與剛開始最容易踩的坑。</p>
-      </div>
-    </div>
-  </article>
+  </div>
+  <div class="lesson-table-wrap">
+    <table class="lesson-table">
+      <thead>
+        <tr>
+          <th>天數</th>
+          <th>主題</th>
+          <th>查看內容</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{lesson_rows}}
+      </tbody>
+    </table>
+  </div>
 </section>
