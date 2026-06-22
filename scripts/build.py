@@ -13,6 +13,7 @@ TOTAL_DAYS = 30
 LESSON_META = {
     1: {"minutes": "18 分鐘", "tag": "基礎觀念"},
     2: {"minutes": "16 分鐘", "tag": "開始準備"},
+    3: {"minutes": "17 分鐘", "tag": "商品挑選"},
 }
 
 IMAGE_RE = re.compile(r'^!\[(.*?)\]\(([^)\s]+)(?:\s+"([^"]+)")?\)$')

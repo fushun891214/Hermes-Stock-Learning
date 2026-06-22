@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-labelledby="title desc">
+  <title id="title">新手第一個投資商品選擇流程圖</title>
+  <desc id="desc">說明新手第一次選投資商品時，先從目標、分散與理解程度來判斷起點。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fffaf4"/>
+      <stop offset="100%" stop-color="#f7efe4"/>
+    </linearGradient>
+    <linearGradient id="greenSoft" x1="0" x2="1">
+      <stop offset="0%" stop-color="#e4f3ea"/>
+      <stop offset="100%" stop-color="#f5fbf7"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="420" rx="30" fill="url(#bg)"/>
+  <rect x="20" y="20" width="820" height="380" rx="26" fill="none" stroke="#e7d9c6"/>
+
+  <text x="430" y="58" text-anchor="middle" font-size="28" font-weight="800" fill="#2a221d">第一次選商品，先用這個順序想</text>
+
+  <rect x="70" y="95" width="720" height="72" rx="24" fill="#fffdf9" stroke="#e6d9c8"/>
+  <text x="430" y="126" text-anchor="middle" font-size="23" font-weight="800" fill="#2c8c67">先問自己：我現在要的是好上手，還是能承受更高判斷難度？</text>
+  <text x="430" y="151" text-anchor="middle" font-size="16" fill="#6f6258">新手先找適合自己的起點，不是先猜哪個最會漲</text>
+
+  <path d="M430 167 L430 208" stroke="#d9b877" stroke-width="6" stroke-linecap="round"/>
+
+  <rect x="76" y="208" width="330" height="150" rx="26" fill="url(#greenSoft)" stroke="#b8dcc9"/>
+  <text x="241" y="243" text-anchor="middle" font-size="24" font-weight="800" fill="#216d50">先從 ETF 開始</text>
+  <text x="241" y="273" text-anchor="middle" font-size="17" fill="#4b4038">適合想先建立習慣、降低單一公司波動壓力的人</text>
+  <text x="107" y="309" font-size="17" fill="#3d342f">• 還在建立投資節奏</text>
+  <text x="107" y="336" font-size="17" fill="#3d342f">• 想先分散、先求看得懂</text>
+  <text x="107" y="363" font-size="17" fill="#3d342f">• 不想一開始就壓在單一公司</text>
+
+  <rect x="454" y="208" width="330" height="150" rx="26" fill="#fff8ec" stroke="#ead3a8"/>
+  <text x="619" y="243" text-anchor="middle" font-size="24" font-weight="800" fill="#8f6627">再研究單一股票</text>
+  <text x="619" y="273" text-anchor="middle" font-size="17" fill="#5b4a37">適合願意花時間理解公司與產業的人</text>
+  <text x="485" y="309" font-size="17" fill="#3d342f">• 看得懂公司怎麼賺錢</text>
+  <text x="485" y="336" font-size="17" fill="#3d342f">• 知道個股波動通常更大</text>
+  <text x="485" y="363" font-size="17" fill="#3d342f">• 願意自己承擔研究與判斷</text>
+
+  <path d="M430 188 C390 198 330 205 241 208" stroke="#d9b877" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M430 188 C470 198 530 205 619 208" stroke="#d9b877" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>
