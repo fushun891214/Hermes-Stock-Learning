@@ -1,0 +1,26 @@
+<svg width="900" height="1120" viewBox="0 0 900 1120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">一次投入與分批投入比較圖</title>
+  <desc id="desc">上下兩張對比卡，幫助新手理解一次投入與分批投入的差別。</desc>
+  <rect width="900" height="1120" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="844" height="1064" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="78" y="82" width="744" height="434" rx="30" fill="#FFFFFF" stroke="#DCEBDD" stroke-width="2"/>
+  <rect x="108" y="116" width="166" height="46" rx="23" fill="#E3F2EA"/>
+  <text x="191" y="145" text-anchor="middle" fill="#2C8C67" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">一次投入</text>
+  <text x="108" y="214" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">適合什麼情況</text>
+  <text x="108" y="264" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 已經有一筆明確準備好的可投資資金</text>
+  <text x="108" y="306" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不想把進場時間拖得太長</text>
+  <text x="108" y="348" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 知道剛進場後也可能先遇到下跌</text>
+  <text x="108" y="424" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">你會感受到</text>
+  <text x="108" y="470" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">資金比較早進入市場，但心理壓力也比較集中。</text>
+
+  <rect x="78" y="572" width="744" height="466" rx="30" fill="#FFFFFF" stroke="#F0DDC0" stroke-width="2"/>
+  <rect x="108" y="606" width="166" height="46" rx="23" fill="#FFF3DD"/>
+  <text x="191" y="635" text-anchor="middle" fill="#8F6627" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">分批投入</text>
+  <text x="108" y="704" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">適合什麼情況</text>
+  <text x="108" y="754" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 想先建立每月或每段時間的固定節奏</text>
+  <text x="108" y="796" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不想第一次就承受太大的單次壓力</text>
+  <text x="108" y="838" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 想一邊投入，一邊觀察自己對波動的反應</text>
+  <text x="108" y="914" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">你會感受到</text>
+  <text x="108" y="960" fill="#4A3F37" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">壓力比較分散，但如果市場一路上漲，後面成本可能比較高。</text>
+</svg>
