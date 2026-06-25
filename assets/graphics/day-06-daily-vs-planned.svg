@@ -1,0 +1,41 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">每天盯盤與固定檢查比較圖</title>
+  <desc id="desc">對比每天一直刷新價格與固定節奏檢查的差異，幫助新手把注意力放在計畫而不是情緒上。</desc>
+  <rect width="900" height="900" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="844" height="844" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="92" width="304" height="84" rx="28" fill="#FFF3DD"/>
+  <text x="234" y="126" text-anchor="middle" fill="#9A6827" font-size="32" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">每天一直盯盤</text>
+  <text x="234" y="158" text-anchor="middle" fill="#7A685E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">注意力多半放在今天漲跌</text>
+
+  <rect x="514" y="92" width="304" height="84" rx="28" fill="#E3F2EA"/>
+  <text x="666" y="126" text-anchor="middle" fill="#2C8C67" font-size="32" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">固定節奏檢查</text>
+  <text x="666" y="158" text-anchor="middle" fill="#315649" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">注意力放在商品、資金與規則</text>
+
+  <rect x="82" y="212" width="304" height="166" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="110" y="264" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">常見畫面</text>
+  <text x="110" y="312" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 早上、中午、晚上都想看一次</text>
+  <text x="110" y="348" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 一跌就想知道要不要改</text>
+
+  <rect x="514" y="212" width="304" height="166" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="542" y="264" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">常見畫面</text>
+  <text x="542" y="312" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 固定時間確認一次就好</text>
+  <text x="542" y="348" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 看自己有沒有照計畫走</text>
+
+  <rect x="82" y="410" width="304" height="196" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="110" y="462" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">容易發生</text>
+  <text x="110" y="510" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 把短期波動當成大問題</text>
+  <text x="110" y="546" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 容易被紅綠數字帶著跑</text>
+  <text x="110" y="582" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 一下想停、一下又想追</text>
+
+  <rect x="514" y="410" width="304" height="196" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="542" y="462" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">比較有幫助</text>
+  <text x="542" y="510" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 看商品是否還符合原本用途</text>
+  <text x="542" y="546" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 看資金與投入節奏有沒有變形</text>
+  <text x="542" y="582" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 看是否真的有大變化要重查</text>
+
+  <rect x="82" y="640" width="736" height="176" rx="28" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="450" y="700" text-anchor="middle" fill="#1F6C4E" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">對新手來說，重點不是看得多，而是看得對</text>
+  <text x="126" y="754" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">把檢查頻率降下來，不等於不負責任；反而更有機會讓你把注意力</text>
+  <text x="126" y="792" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">放回真正重要的商品、資金與規則。</text>
+</svg>

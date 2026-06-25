@@ -1,0 +1,33 @@
+<svg width="720" height="1020" viewBox="0 0 720 1020" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 6 檢查節奏 checklist</title>
+  <desc id="desc">手機版 checklist，幫助新手建立投資後的固定檢查節奏。</desc>
+  <rect width="720" height="1020" rx="34" fill="#FFF8F1"/>
+  <rect x="24" y="24" width="672" height="972" rx="28" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="52" y="76" width="616" height="156" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="82" y="108" width="44" height="44" rx="12" fill="#E3F2EA"/>
+  <path d="M94 130L105 141L116 119" stroke="#2C8C67" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="126" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先寫下：我為什麼一直想看價格</text>
+  <text x="82" y="172" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先分清楚，是在確認計畫，還是</text>
+  <text x="82" y="206" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">只是在確認自己有沒有買對。</text>
+
+  <rect x="52" y="266" width="616" height="156" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="82" y="298" width="44" height="44" rx="12" fill="#FFF3DD"/>
+  <path d="M94 320L105 331L116 309" stroke="#B17B2E" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="316" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再定下：每週、每月要看什麼</text>
+  <text x="82" y="362" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先看商品用途、投入節奏、資金位置，</text>
+  <text x="82" y="396" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">不要只剩下看今天紅綠。</text>
+
+  <rect x="52" y="456" width="616" height="156" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="82" y="488" width="44" height="44" rx="12" fill="#E3F2EA"/>
+  <path d="M94 510L105 521L116 499" stroke="#2C8C67" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="150" y="506" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到波動時，先回頭看規則</text>
+  <text x="82" y="552" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先問自己：真的有大變化，還是</text>
+  <text x="82" y="586" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">只是今天價格讓我心裡不安？</text>
+
+  <rect x="52" y="650" width="616" height="284" rx="26" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="82" y="718" fill="#1F6C4E" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">檢查節奏，不是為了更常做動作</text>
+  <text x="82" y="770" fill="#315649" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">它是幫你把注意力放回商品、資金</text>
+  <text x="82" y="804" fill="#315649" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">與規則，讓每天的漲跌不要一直把</text>
+  <text x="82" y="838" fill="#315649" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">你推離原本的計畫。</text>
+</svg>
