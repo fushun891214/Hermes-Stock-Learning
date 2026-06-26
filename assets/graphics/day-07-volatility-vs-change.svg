@@ -1,0 +1,30 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">短期波動與真正需要重看比較圖</title>
+  <desc id="desc">用左右兩欄比較短期情緒波動與真正值得重新檢查的變化，幫助新手不要只對價格做反應。</desc>
+  <rect width="900" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="844" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="74" y="78" width="332" height="438" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="102" y="108" width="140" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="172" y="133" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">多半先別急著賣</text>
+  <text x="102" y="190" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">短期波動常見訊號</text>
+  <text x="102" y="244" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 今天跌了，心裡很不舒服</text>
+  <text x="102" y="286" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 漲了一段，怕等等吐回去</text>
+  <text x="102" y="328" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 看到別人換標的，怕自己落後</text>
+  <text x="102" y="388" fill="#8F6627" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先回頭看：原本計畫有沒有真的改變？</text>
+
+  <rect x="494" y="78" width="332" height="438" rx="28" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <rect x="522" y="108" width="162" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="603" y="133" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">比較值得重新檢查</text>
+  <text x="522" y="190" fill="#1F6C4E" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">真正需要重看的變化</text>
+  <text x="522" y="244" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 這筆錢短期內其實要用到</text>
+  <text x="522" y="286" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 手上的商品和原本理解不一樣</text>
+  <text x="522" y="328" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 壓力已明顯超出自己承受範圍</text>
+  <text x="522" y="388" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">這時候可以重看部位、節奏或商品安排。</text>
+
+  <text x="450" y="292" text-anchor="middle" fill="#C7B190" font-size="64" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">⇄</text>
+
+  <rect x="74" y="538" width="752" height="26" rx="13" fill="#F3E8DA"/>
+  <rect x="74" y="538" width="398" height="26" rx="13" fill="#D6EBDD"/>
+  <text x="450" y="529" text-anchor="middle" fill="#6B5A47" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">判斷重點：先分清楚是情緒反應，還是條件真的改變</text>
+</svg>

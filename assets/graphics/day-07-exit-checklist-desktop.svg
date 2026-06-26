@@ -1,0 +1,33 @@
+<svg width="900" height="980" viewBox="0 0 900 980" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 7 賣出前 checklist</title>
+  <desc id="desc">桌機版核對圖卡，幫助新手在賣出前先確認理由、資金、商品理解與調整幅度。</desc>
+  <rect width="900" height="980" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="844" height="924" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="78" y="84" width="744" height="132" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="116" y="122" width="52" height="52" rx="14" fill="#E3F2EA"/>
+  <path d="M130 148L143 161L156 135" stroke="#2C8C67" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="198" y="140" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先問自己：我現在想賣，是條件改變，還是只是今天不舒服</text>
+  <text x="198" y="182" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">把理由寫清楚，比直接對價格做反應更穩。</text>
+
+  <rect x="78" y="262" width="744" height="132" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="116" y="300" width="52" height="52" rx="14" fill="#FFF3DD"/>
+  <path d="M130 326L143 339L156 313" stroke="#B17B2E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="198" y="318" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再確認：這筆錢的用途有沒有改變，短期內會不會需要用到</text>
+  <text x="198" y="360" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">如果資金角色改了，持有方式本來就可能要跟著調整。</text>
+
+  <rect x="78" y="440" width="744" height="132" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="116" y="478" width="52" height="52" rx="14" fill="#E3F2EA"/>
+  <path d="M130 504L143 517L156 491" stroke="#2C8C67" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="198" y="496" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看一次：我還能不能用白話說出這個商品在投什麼、為什麼持有</text>
+  <text x="198" y="538" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">如果連持有理由都說不清楚，就值得先重看，而不是硬撐。</text>
+
+  <rect x="78" y="618" width="744" height="132" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="116" y="656" width="52" height="52" rx="14" fill="#FFF3DD"/>
+  <path d="M130 682L143 695L156 669" stroke="#B17B2E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="198" y="674" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後再決定：先不動、部分調整，還是真的需要全部賣出</text>
+  <text x="198" y="716" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">不是每次重看都要翻桌，先把動作縮到自己看得懂的範圍。</text>
+
+  <rect x="78" y="806" width="744" height="94" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="450" y="864" text-anchor="middle" fill="#1F6C4E" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先把原因寫清楚，再決定動作，會比只對價格反應更穩。</text>
+</svg>

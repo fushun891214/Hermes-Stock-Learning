@@ -1,0 +1,35 @@
+<svg width="720" height="1060" viewBox="0 0 720 1060" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 7 賣出前 checklist</title>
+  <desc id="desc">手機版核對圖卡，幫助新手在想賣出或調整前，先確認理由、資金、商品理解與動作範圍。</desc>
+  <rect width="720" height="1060" rx="34" fill="#FFF8F1"/>
+  <rect x="24" y="24" width="672" height="1012" rx="28" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="56" y="70" width="608" height="148" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="88" y="108" width="48" height="48" rx="12" fill="#E3F2EA"/>
+  <path d="M100 132L112 144L124 120" stroke="#2C8C67" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="126" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我現在想調整，是因為條件改變</text>
+  <text x="164" y="164" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是只是今天的價格讓我很不舒服？</text>
+
+  <rect x="56" y="248" width="608" height="148" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="88" y="286" width="48" height="48" rx="12" fill="#FFF3DD"/>
+  <path d="M100 310L112 322L124 298" stroke="#B17B2E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="304" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">這筆錢的用途有沒有改變</text>
+  <text x="164" y="342" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">短期內如果要用到，就要重看持有方式。</text>
+
+  <rect x="56" y="426" width="608" height="148" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="88" y="464" width="48" height="48" rx="12" fill="#E3F2EA"/>
+  <path d="M100 488L112 500L124 476" stroke="#2C8C67" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="482" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我還能不能用白話講出</text>
+  <text x="164" y="520" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">這個商品在投什麼、為什麼持有它？</text>
+
+  <rect x="56" y="604" width="608" height="148" rx="26" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="88" y="642" width="48" height="48" rx="12" fill="#FFF3DD"/>
+  <path d="M100 666L112 678L124 654" stroke="#B17B2E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="660" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">如果真的要調整</text>
+  <text x="164" y="698" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我是先減少一部分，還是需要全部賣出？</text>
+
+  <rect x="56" y="794" width="608" height="186" rx="26" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="88" y="860" fill="#1F6C4E" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先把原因寫清楚，再決定動作</text>
+  <text x="88" y="912" fill="#315649" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">如果現在最主要的理由只是短期波動讓你不舒服，</text>
+  <text x="88" y="948" fill="#315649" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">通常更值得先重看原本計畫，而不是立刻大改決定。</text>
+</svg>
