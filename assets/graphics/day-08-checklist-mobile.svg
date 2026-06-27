@@ -1,0 +1,26 @@
+<svg width="760" height="900" viewBox="0 0 760 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 8 加碼前 checklist</title>
+  <desc id="desc">用四個檢查問題幫助新手在下跌時，不要急著用情緒加碼。</desc>
+  <rect width="760" height="900" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="844" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="190" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="167" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">加碼前先寫下來</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題，擋住衝動補單</text>
+
+  <rect x="72" y="214" width="616" height="104" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="258" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在是想照計畫補進，還是想快點救回帳面？</text>
+
+  <rect x="72" y="340" width="616" height="104" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="384" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 這筆準備加碼的錢，短期內會不會要用到？</text>
+
+  <rect x="72" y="466" width="616" height="134" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="510" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在還能不能用白話說出：</text>
+  <text x="126" y="550" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">它在投什麼、為什麼還適合留著？</text>
+
+  <rect x="72" y="622" width="616" height="104" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="666" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果今天先不補，我能不能接受並固定時間重看？</text>
+
+  <rect x="72" y="758" width="616" height="78" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="806" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把四題答清楚，再決定要不要加碼。</text>
+</svg>

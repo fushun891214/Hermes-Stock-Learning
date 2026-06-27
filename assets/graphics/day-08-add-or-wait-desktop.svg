@@ -1,0 +1,36 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">市場下跌時，先做這三步</title>
+  <desc id="desc">桌機版橫向流程圖，說明新手面對下跌時，要先檢查資金、商品理解與規則，再決定要不要加碼。</desc>
+  <rect width="1200" height="520" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1144" height="464" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="74" y="62" width="186" height="38" rx="19" fill="#E2F2EA"/>
+  <text x="167" y="87" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先別急著補</text>
+  <text x="74" y="146" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">市場下跌時，先做這三步</text>
+  <text x="74" y="190" fill="#6B5A47" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先把判斷拉回資金、商品與規則，再決定要不要加碼。</text>
+
+  <rect x="74" y="248" width="302" height="180" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="122" cy="302" r="24" fill="#FFF3DD"/>
+  <text x="122" y="310" text-anchor="middle" fill="#9A6827" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="156" y="300" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看資金</text>
+  <text x="104" y="350" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不是生活費</text>
+  <text x="104" y="384" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 再跌也不會逼你退出</text>
+
+  <text x="430" y="348" text-anchor="middle" fill="#C7B190" font-size="48" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">→</text>
+
+  <rect x="450" y="248" width="302" height="180" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="498" cy="302" r="24" fill="#E2F2EA"/>
+  <text x="498" y="310" text-anchor="middle" fill="#2C8C67" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="532" y="300" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看商品</text>
+  <text x="480" y="350" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 還說得出它在投什麼</text>
+  <text x="480" y="384" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不是因為帳面難看才補</text>
+
+  <text x="806" y="348" text-anchor="middle" fill="#C7B190" font-size="48" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">→</text>
+
+  <rect x="826" y="248" width="300" height="180" rx="28" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <circle cx="874" cy="302" r="24" fill="#D9EFE4"/>
+  <text x="874" y="310" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="908" y="300" fill="#1F6C4E" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後看規則</text>
+  <text x="856" y="350" fill="#315649" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 原本就知道加到哪裡</text>
+  <text x="856" y="384" fill="#315649" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 沒邊界就先別急著補</text>
+</svg>

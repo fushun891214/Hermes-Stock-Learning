@@ -1,0 +1,30 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">有計畫加碼與情緒攤平比較圖</title>
+  <desc id="desc">左右比較有計畫的加碼與情緒驅動的攤平，幫助新手分清楚補進的差別。</desc>
+  <rect width="900" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="844" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="74" y="78" width="332" height="438" rx="28" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <rect x="102" y="108" width="150" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="177" y="133" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">比較穩的加碼</text>
+  <text x="102" y="190" fill="#1F6C4E" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先有規則，再有動作</text>
+  <text x="102" y="244" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 資金本來就留給投資</text>
+  <text x="102" y="286" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 商品你還看得懂</text>
+  <text x="102" y="328" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 加碼後部位還在承受範圍內</text>
+  <text x="102" y="388" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">核心：補進是原本計畫的一部分。</text>
+
+  <rect x="494" y="78" width="332" height="438" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="522" y="108" width="162" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="603" y="133" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">比較危險的攤平</text>
+  <text x="522" y="190" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先有不舒服，才想補單</text>
+  <text x="522" y="244" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 想趕快把成本拉低</text>
+  <text x="522" y="286" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 跌了怕錯過便宜價格</text>
+  <text x="522" y="328" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 沒有想好最多要補到哪裡</text>
+  <text x="522" y="388" fill="#8F6627" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">核心：補進只是想快點減少焦慮。</text>
+
+  <text x="450" y="292" text-anchor="middle" fill="#C7B190" font-size="64" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">⇄</text>
+
+  <rect x="74" y="538" width="752" height="26" rx="13" fill="#F3E8DA"/>
+  <rect x="74" y="538" width="422" height="26" rx="13" fill="#D6EBDD"/>
+  <text x="450" y="529" text-anchor="middle" fill="#6B5A47" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">判斷重點：先確認你是在照計畫補進，還是在回應短期壓力</text>
+</svg>
