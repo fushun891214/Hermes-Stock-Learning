@@ -1,0 +1,30 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">繼續扣款與情緒停扣比較圖</title>
+  <desc id="desc">左右比較有規則地繼續扣款與因壓力而情緒停扣，幫助新手分清楚差別。</desc>
+  <rect width="900" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="844" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="74" y="78" width="332" height="438" rx="28" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <rect x="102" y="108" width="162" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="183" y="133" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">比較穩的繼續扣</text>
+  <text x="102" y="190" fill="#1F6C4E" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先確認規則還成立</text>
+  <text x="102" y="244" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 生活資金仍然承受得起</text>
+  <text x="102" y="286" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 商品你還看得懂、願意持有</text>
+  <text x="102" y="328" fill="#315649" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不因短期帳面難看就改節奏</text>
+  <text x="102" y="388" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">核心：守住的是方法，不是猜低點。</text>
+
+  <rect x="494" y="78" width="332" height="438" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="522" y="108" width="162" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="603" y="133" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">比較亂的情緒停扣</text>
+  <text x="522" y="190" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先受不了壓力，再停設定</text>
+  <text x="522" y="244" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 只因連跌就覺得方法失效</text>
+  <text x="522" y="286" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 停扣後也不知道何時重啟</text>
+  <text x="522" y="328" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 一反彈又容易追著恢復扣款</text>
+  <text x="522" y="388" fill="#8F6627" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">核心：停的是焦慮，不是完整判斷。</text>
+
+  <text x="450" y="292" text-anchor="middle" fill="#C7B190" font-size="64" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">⇄</text>
+
+  <rect x="74" y="538" width="752" height="26" rx="13" fill="#F3E8DA"/>
+  <rect x="74" y="538" width="430" height="26" rx="13" fill="#D6EBDD"/>
+  <text x="450" y="529" text-anchor="middle" fill="#6B5A47" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">判斷重點：先確認你是在守住節奏，還是在逃開短期壓力</text>
+</svg>

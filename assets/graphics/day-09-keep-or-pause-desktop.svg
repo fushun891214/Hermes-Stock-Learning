@@ -1,0 +1,42 @@
+<svg width="1180" height="560" viewBox="0 0 1180 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">定期定額下跌時先判斷</title>
+  <desc id="desc">桌機版流程圖，幫助新手在市場下跌時分辨應該繼續扣款、調整金額，或先停下來重整。</desc>
+  <rect width="1180" height="560" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="504" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="196" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="180" y="95" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">下跌時先照順序看</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">定期定額遇到連跌，先看是不是規則真的變了</text>
+
+  <rect x="82" y="208" width="250" height="210" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="126" cy="252" r="22" fill="#EAF5EF"/>
+  <text x="126" y="259" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="162" y="256" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看資金</text>
+  <text x="106" y="308" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 生活支出有沒有變緊</text>
+  <text x="106" y="346" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 現在金額還跟不跟得上</text>
+  <text x="106" y="384" fill="#8F6627" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">若有壓力，先想調小金額</text>
+
+  <rect x="465" y="208" width="250" height="210" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="509" cy="252" r="22" fill="#EAF5EF"/>
+  <text x="509" y="259" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="545" y="256" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看商品</text>
+  <text x="489" y="308" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 你還講不講得清楚在扣什麼</text>
+  <text x="489" y="346" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 這商品還適不適合長一點持有</text>
+  <text x="489" y="384" fill="#8F6627" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">看不懂時，先重看商品</text>
+
+  <rect x="848" y="208" width="250" height="210" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="892" cy="252" r="22" fill="#EAF5EF"/>
+  <text x="892" y="259" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="928" y="256" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後看規則</text>
+  <text x="872" y="308" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 停扣後何時重新開始</text>
+  <text x="872" y="346" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 是暫停、降額，還是照常繼續</text>
+  <text x="872" y="384" fill="#8F6627" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">不要只因情緒臨時停扣</text>
+
+  <path d="M344 314H443" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M727 314H826" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M428 300L446 314L428 328" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M811 300L829 314L811 328" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="82" y="454" width="1016" height="42" rx="21" fill="#EAF5EF"/>
+  <text x="590" y="482" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先確認資金、商品、規則，再決定繼續扣、降額，或短暫停下來重整。</text>
+</svg>
