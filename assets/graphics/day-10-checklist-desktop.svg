@@ -1,0 +1,31 @@
+<svg width="1180" height="620" viewBox="0 0 1180 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 10 投資紀錄 checklist</title>
+  <desc id="desc">桌機版 checklist，整理投資紀錄最值得先寫下的四個問題。</desc>
+  <rect width="1180" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="210" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="187" y="95" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把理由留下來</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">每次有投資動作時，先用這四題幫自己留下判斷痕跡</text>
+
+  <rect x="82" y="214" width="472" height="118" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="114" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我最近一次的投資動作是什麼？</text>
+  <text x="140" y="300" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我能不能用一句白話說出真正理由？</text>
+
+  <rect x="626" y="214" width="472" height="118" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="658" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 那一筆錢原本是可投資資金，</text>
+  <text x="684" y="300" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是其實混到短期會用到的錢？</text>
+
+  <rect x="82" y="360" width="472" height="138" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="114" y="408" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果市場再波動，</text>
+  <text x="140" y="446" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我最容易在哪種情況下忘記原本規則？</text>
+  <text x="140" y="480" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先把那個觸發點寫下來</text>
+
+  <rect x="626" y="360" width="472" height="138" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="658" y="408" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我準備用什麼時間點或條件，</text>
+  <text x="684" y="446" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">再回頭看一次這筆決定？</text>
+  <text x="684" y="480" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">別讓回看變成無限期拖延</text>
+
+  <rect x="82" y="530" width="1016" height="40" rx="20" fill="#EAF5EF"/>
+  <text x="590" y="557" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先留下決定，再看結果；這樣下一次遇到波動時，你比較能照規則走。</text>
+</svg>

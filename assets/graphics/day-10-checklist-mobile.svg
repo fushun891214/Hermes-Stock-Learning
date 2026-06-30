@@ -1,0 +1,31 @@
+<svg width="760" height="960" viewBox="0 0 760 960" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 10 投資紀錄 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手建立最基本的投資紀錄習慣。</desc>
+  <rect width="760" height="960" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="904" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="210" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="177" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把理由留下來</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">每次有動作時，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題做簡單紀錄</text>
+
+  <rect x="72" y="234" width="616" height="122" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="278" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我最近一次的投資動作是什麼？</text>
+  <text x="126" y="318" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我能不能用一句白話說出真正理由？</text>
+
+  <rect x="72" y="378" width="616" height="132" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="422" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 那一筆錢原本是可投資資金，</text>
+  <text x="126" y="462" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是其實混到短期會用到的錢？</text>
+
+  <rect x="72" y="532" width="616" height="148" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="576" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果市場再波動，</text>
+  <text x="126" y="616" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我最容易在哪一種情況下忘記原本規則？</text>
+  <text x="126" y="652" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先把這個觸發點寫下來</text>
+
+  <rect x="72" y="702" width="616" height="116" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="746" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我準備用什麼時間點或條件，</text>
+  <text x="126" y="786" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">再回頭看一次這筆決定？</text>
+
+  <rect x="72" y="846" width="616" height="54" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="880" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把四題答清楚，再讓損益數字說話。</text>
+</svg>

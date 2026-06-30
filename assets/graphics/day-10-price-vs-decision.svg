@@ -1,0 +1,31 @@
+<svg width="980" height="620" viewBox="0 0 980 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">只記價格 vs 記下決定</title>
+  <desc id="desc">比較圖，說明新手若只記價格，與同時記下決定理由與回看條件，會帶來不同效果。</desc>
+  <rect width="980" height="620" rx="34" fill="#FFF8F1"/>
+  <rect x="24" y="24" width="932" height="572" rx="28" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="70" y="72" width="360" height="430" rx="30" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <rect x="102" y="102" width="138" height="36" rx="18" fill="#F8E4E1"/>
+  <text x="171" y="126" text-anchor="middle" fill="#B35E51" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">只記價格</text>
+  <text x="102" y="188" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">容易卡住的地方</text>
+  <text x="102" y="246" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 只記得後來賺或賠</text>
+  <text x="102" y="288" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 忘了當時為什麼買、為什麼停</text>
+  <text x="102" y="330" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 下次遇到波動，又只能靠感覺</text>
+  <rect x="102" y="386" width="296" height="82" rx="22" fill="#FFF3DD"/>
+  <text x="250" y="420" text-anchor="middle" fill="#9A6827" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">結果會留下，</text>
+  <text x="250" y="452" text-anchor="middle" fill="#9A6827" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">但判斷不一定留下</text>
+
+  <rect x="550" y="72" width="360" height="430" rx="30" fill="#FFFFFF" stroke="#CFE7DA" stroke-width="2"/>
+  <rect x="582" y="102" width="164" height="36" rx="18" fill="#D9EFE4"/>
+  <text x="664" y="126" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">記下決定</text>
+  <text x="582" y="188" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">比較穩的地方</text>
+  <text x="582" y="246" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 留下當時的白話理由</text>
+  <text x="582" y="288" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 知道這筆錢原本扮演什麼角色</text>
+  <text x="582" y="330" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 下次能照回看條件重新判斷</text>
+  <rect x="582" y="386" width="296" height="82" rx="22" fill="#EAF5EF"/>
+  <text x="730" y="420" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">不只看到結果，</text>
+  <text x="730" y="452" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">也看得到自己的流程</text>
+
+  <rect x="70" y="534" width="840" height="34" rx="17" fill="#EAF5EF"/>
+  <text x="490" y="557" text-anchor="middle" fill="#1F6C4E" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">對新手來說，能留下判斷痕跡的紀錄，比只記損益更能幫助下一次決定。</text>
+</svg>

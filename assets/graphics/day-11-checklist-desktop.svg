@@ -1,0 +1,31 @@
+<svg width="1180" height="620" viewBox="0 0 1180 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 11 檢查節奏 checklist</title>
+  <desc id="desc">桌機版 checklist，用四個問題幫助新手建立投資檢查節奏。</desc>
+  <rect width="1180" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="214" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="189" y="95" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先訂回看節奏</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">每次想一直打開帳戶前，先用這四題檢查自己</text>
+
+  <rect x="82" y="208" width="476" height="124" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="110" y="254" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我最常在什麼情況下，會忍不住一直打開帳戶？</text>
+  <text x="136" y="292" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先把你的情緒觸發點寫出來</text>
+
+  <rect x="622" y="208" width="476" height="124" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="650" y="254" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我的固定回看，準備放在什麼時間點？</text>
+  <text x="676" y="292" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">每月、每季，或你守得住的節奏</text>
+
+  <rect x="82" y="364" width="476" height="146" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="110" y="410" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我每次回看時，最需要先確認哪三件事？</text>
+  <text x="136" y="448" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">資金安排、商品理解、投入規則</text>
+  <text x="136" y="482" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">沒有明顯變化時，就別因小波動大改</text>
+
+  <rect x="622" y="364" width="476" height="146" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="650" y="410" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 什麼情況下，我才要臨時檢查一次？</text>
+  <text x="676" y="448" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">例如資金用途改變，或準備做規則外大動作</text>
+  <text x="676" y="482" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">不是每次看到市場波動都要重跑流程</text>
+
+  <rect x="82" y="540" width="1016" height="42" rx="21" fill="#EAF5EF"/>
+  <text x="590" y="568" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">當你先訂好檢查節奏，市場就比較不容易把你的注意力整天拉著跑。</text>
+</svg>
