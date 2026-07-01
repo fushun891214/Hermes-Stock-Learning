@@ -1,0 +1,25 @@
+<svg width="1080" height="760" viewBox="0 0 1080 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 12 熱門話題 checklist</title>
+  <desc id="desc">桌機版 checklist，用四個問題幫助新手判斷要不要跟進熱門題材。</desc>
+  <rect width="1080" height="760" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1024" height="704" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="234" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="189" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把理由寫清楚</text>
+  <text x="72" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">想跟熱門題材前，先用這四題檢查自己</text>
+
+  <rect x="72" y="210" width="936" height="98" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="252" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果不用「很多人在講」，我還說得出它在投什麼嗎？</text>
+
+  <rect x="72" y="328" width="936" height="98" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="370" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果我真的買了，這種波動會不會讓我一直想看盤、一直想改？</text>
+
+  <rect x="72" y="446" width="936" height="116" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="488" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 這筆錢放進去，會不會擠到我原本比較穩的投資安排？</text>
+  <text x="126" y="526" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">先分清楚是小比例研究，還是情緒一來就想重押</text>
+
+  <rect x="72" y="582" width="936" height="98" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="624" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果我現在先不買，我能不能接受晚一點、看懂一點再決定？</text>
+
+  <rect x="72" y="696" width="936" height="16" rx="8" fill="#EAF5EF"/>
+</svg>

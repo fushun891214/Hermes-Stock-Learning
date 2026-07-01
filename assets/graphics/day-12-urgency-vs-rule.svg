@@ -1,0 +1,31 @@
+<svg width="980" height="620" viewBox="0 0 980 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">有規則研究與追熱氣氛比較圖</title>
+  <desc id="desc">比較先研究再決定與被熱門氣氛推著走的差別。</desc>
+  <rect width="980" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="924" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="364" height="432" rx="30" fill="#FFFFFF" stroke="#CFE7DA" stroke-width="2"/>
+  <rect x="98" y="100" width="164" height="34" rx="17" fill="#EAF5EF"/>
+  <text x="180" y="123" text-anchor="middle" fill="#1F6C4E" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先研究再決定</text>
+  <text x="98" y="176" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看懂，再決定值不值得放進計畫</text>
+  <text x="98" y="236" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先確認它在投什麼、風險從哪裡來</text>
+  <text x="98" y="276" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先想好比例，不讓熱門題材擠掉主計畫</text>
+  <text x="98" y="316" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 熱度退掉時，也知道自己為什麼留著</text>
+  <rect x="98" y="360" width="312" height="96" rx="22" fill="#F5FBF7"/>
+  <text x="120" y="402" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">結果：</text>
+  <text x="120" y="438" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">就算不立刻買，也比較守得住自己的節奏</text>
+
+  <rect x="544" y="72" width="364" height="432" rx="30" fill="#FFFFFF" stroke="#F0D7CF" stroke-width="2"/>
+  <rect x="570" y="100" width="148" height="34" rx="17" fill="#FBE7E1"/>
+  <text x="644" y="123" text-anchor="middle" fill="#B85C3A" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">追熱氣氛</text>
+  <text x="570" y="176" fill="#231B16" font-size="30" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到大家都在講，就怕自己錯過</text>
+  <text x="570" y="236" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 還沒看懂商品，就先衝進去卡位</text>
+  <text x="570" y="276" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 漲時怕買不夠，跌時又開始後悔</text>
+  <text x="570" y="316" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 熱度一退，就容易只剩情緒和慌張</text>
+  <rect x="570" y="360" width="312" height="96" rx="22" fill="#FFF5F1"/>
+  <text x="592" y="402" fill="#B85C3A" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">結果：</text>
+  <text x="592" y="438" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">買進很快，但更容易越看越亂、越抱越慌</text>
+
+  <rect x="72" y="528" width="836" height="42" rx="21" fill="#FFF3DD"/>
+  <text x="490" y="556" text-anchor="middle" fill="#9A6827" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">真正穩的不是最快跟上熱門，而是你知道自己為什麼進、為什麼留。</text>
+</svg>

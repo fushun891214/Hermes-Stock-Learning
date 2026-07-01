@@ -1,0 +1,39 @@
+<svg width="1180" height="560" viewBox="0 0 1180 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">熱門話題先過三道檢查</title>
+  <desc id="desc">桌機版流程圖，提醒新手先確認商品內容、波動承受度與是否符合原本規則，再決定是否跟進熱門題材。</desc>
+  <rect width="1180" height="560" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="504" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="230" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="197" y="95" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先研究，再決定要不要跟</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">聽到熱門題材時，先過這三道檢查，再決定要不要出手</text>
+
+  <rect x="82" y="214" width="286" height="198" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="126" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="126" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="162" y="262" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我看得懂它在投什麼嗎</text>
+  <text x="106" y="314" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先分清楚是個股、ETF，還是某種題材</text>
+  <text x="106" y="352" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不要只剩「最近很多人在講」這個理由</text>
+
+  <rect x="447" y="214" width="286" height="198" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="491" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="491" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="527" y="262" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">這種波動我承受得住嗎</text>
+  <text x="471" y="314" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 想像它回檔時，你會不會一直想看盤</text>
+  <text x="471" y="352" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 承受不了的大波動，不一定適合起步階段</text>
+
+  <rect x="812" y="214" width="286" height="198" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="856" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="856" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="892" y="262" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">這筆動作有在規則裡嗎</text>
+  <text x="836" y="314" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不要用追熱題材擠掉原本穩定投入的資金</text>
+  <text x="836" y="352" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先想好比例、回看方式與停看條件</text>
+
+  <path d="M380 312H425" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M745 312H790" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M409 298L427 312L409 326" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M774 298L792 312L774 326" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="82" y="448" width="1016" height="42" rx="21" fill="#EAF5EF"/>
+  <text x="590" y="476" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">如果三題裡有一題答不穩，先研究或先不動，通常比急著跟更安全。</text>
+</svg>

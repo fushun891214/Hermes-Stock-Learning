@@ -6,3 +6,5 @@ __pycache__/
 site/
 .hermes/
 test-results/
+tmp_funnow_*.json
+tmp_funnow_*.tsv
