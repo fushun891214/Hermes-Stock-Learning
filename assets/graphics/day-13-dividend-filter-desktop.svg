@@ -1,0 +1,42 @@
+<svg width="1180" height="620" viewBox="0 0 1180 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">高配息先看三件事</title>
+  <desc id="desc">桌機版流程圖，提醒新手先看懂商品內容、確認自己是否真的需要現金流，再判斷能不能承受波動與規則。</desc>
+  <rect width="1180" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="220" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="192" y="95" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看懂，再看配息</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到高配息時，先確認商品內容、現金流需求與波動承受度</text>
+
+  <rect x="82" y="214" width="300" height="218" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="126" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="126" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="162" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我看得懂它在投什麼嗎</text>
+  <text x="106" y="314" fill="#4A3F37" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先分清楚商品類型與主要持有內容</text>
+  <text x="106" y="348" fill="#4A3F37" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不要只剩「配很多」這個理由</text>
+
+  <rect x="440" y="214" width="300" height="218" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="484" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="484" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="520" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我是真的需要現金流嗎</text>
+  <text x="464" y="314" fill="#4A3F37" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 分清楚是生活需求，還是只想安心</text>
+  <text x="464" y="348" fill="#4A3F37" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 如果目標是累積資產，更要先看整體</text>
+  <text x="464" y="380" fill="#4A3F37" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  適不適合</text>
+
+  <rect x="798" y="214" width="300" height="218" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="842" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="842" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="878" y="258" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">這種波動和規則</text>
+  <text x="878" y="288" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我跟得住嗎</text>
+  <text x="822" y="334" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 有配息，價格一樣可能波動，</text>
+  <text x="822" y="364" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  配法也可能改變</text>
+  <text x="822" y="394" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 如果一跌就慌，先研究或先小比例觀察</text>
+
+  <path d="M390 324H425" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M748 324H783" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M407 310L425 324L407 338" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M765 310L783 324L765 338" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="82" y="474" width="1016" height="42" rx="21" fill="#EAF5EF"/>
+  <text x="590" y="502" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">不要把高配息直接等同於更安全；先看懂商品，再決定它適不適合你。</text>
+</svg>

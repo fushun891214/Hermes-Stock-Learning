@@ -1,0 +1,32 @@
+<svg width="760" height="1024" viewBox="0 0 760 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 13 高配息 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手判斷高配息商品是否適合自己。</desc>
+  <rect width="760" height="1024" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="968" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="228" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="186" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把理由寫清楚</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">想買高配息商品前，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題檢查自己</text>
+
+  <rect x="72" y="234" width="616" height="138" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="278" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果先不看配息，</text>
+  <text x="126" y="318" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我還說得出它在投什麼嗎？</text>
+
+  <rect x="72" y="394" width="616" height="170" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="438" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在在意配息，</text>
+  <text x="126" y="478" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">是因為真的需要現金流，</text>
+  <text x="126" y="514" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是只是看到數字比較安心？</text>
+
+  <rect x="72" y="586" width="616" height="174" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="630" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果價格波動、配息改變，</text>
+  <text x="126" y="670" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我會不會立刻懷疑原本決定、</text>
+  <text x="126" y="706" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">開始一直想改規則？</text>
+
+  <rect x="72" y="782" width="616" height="138" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="826" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 這筆配置放進去，</text>
+  <text x="126" y="866" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">會不會擠到我原本比較穩的安排？</text>
+
+  <rect x="72" y="948" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="980" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先確認適不適合，再看配息漂不漂亮。</text>
+</svg>
