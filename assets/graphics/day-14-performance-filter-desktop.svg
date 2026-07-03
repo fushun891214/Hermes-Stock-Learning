@@ -1,0 +1,43 @@
+<svg width="1180" height="620" viewBox="0 0 1180 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">績效亮眼先看三件事</title>
+  <desc id="desc">桌機版流程圖，提醒新手先看懂績效從哪裡來、確認自己能不能接受不再排前面的情況，再判斷這個商品放進整體安排是否合適。</desc>
+  <rect width="1180" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="236" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="200" y="95" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看懂，再看排行</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到績效很亮眼時，先確認原因、承受度與整體角色</text>
+
+  <rect x="82" y="214" width="300" height="220" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="126" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="126" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="162" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">這段績效怎麼來</text>
+  <text x="106" y="314" fill="#4A3F37" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先看商品內容，不要只看名次</text>
+  <text x="106" y="346" fill="#4A3F37" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 分清楚是長期特性，還是</text>
+  <text x="106" y="378" fill="#4A3F37" font-size="19" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  剛好吃到一段行情</text>
+
+  <rect x="440" y="214" width="300" height="220" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="484" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="484" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="520" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">不再排前面時</text>
+  <text x="520" y="292" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我還拿得住嗎</text>
+  <text x="464" y="338" fill="#4A3F37" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 如果回檔或震盪，我會不會</text>
+  <text x="464" y="368" fill="#4A3F37" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  立刻想換到別檔</text>
+  <text x="464" y="398" fill="#4A3F37" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 重要的是能不能照規則持有</text>
+
+  <rect x="798" y="214" width="300" height="220" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="842" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="842" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="878" y="258" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">放進整體安排後</text>
+  <text x="878" y="288" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">角色還合適嗎</text>
+  <text x="822" y="334" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 別讓高績效商品擠掉原本較穩的配置</text>
+  <text x="822" y="364" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先看懂角色，再決定要不要小比例研究</text>
+
+  <path d="M390 324H425" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M748 324H783" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M407 310L425 324L407 338" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M765 310L783 324L765 338" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="82" y="474" width="1016" height="42" rx="21" fill="#EAF5EF"/>
+  <text x="590" y="502" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">不要把亮眼績效直接等同於更適合；先看懂原因，再決定要不要跟。</text>
+</svg>
