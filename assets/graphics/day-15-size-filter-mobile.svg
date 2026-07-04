@@ -1,0 +1,41 @@
+<svg width="760" height="1160" viewBox="0 0 760 1160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">規模大先看三件事</title>
+  <desc id="desc">手機版流程圖，提醒新手先看懂 ETF 內容、確認它在整體安排裡的角色，再判斷自己是否只是因為規模大而覺得安心。</desc>
+  <rect width="760" height="1160" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1104" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="248" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="196" y="97" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看內容，再看規模</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到 ETF 規模很大時，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先檢查這三件事</text>
+
+  <rect x="72" y="240" width="616" height="202" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="284" r="22" fill="#EAF5EF"/>
+  <text x="116" y="291" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="152" y="288" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看懂它在投什麼</text>
+  <text x="100" y="342" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 規模大不等於你已經看懂商品內容</text>
+  <text x="100" y="380" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先分清楚你喜歡的是內容，還是只是名字很大</text>
+
+  <path d="M380 462V502" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 484L380 502L396 484" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="72" y="534" width="616" height="208" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="578" r="22" fill="#EAF5EF"/>
+  <text x="116" y="585" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="152" y="582" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">放進整體安排後，角色清楚嗎</text>
+  <text x="100" y="636" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先確認它是核心起步，還是只是想研究的小配置</text>
+  <text x="100" y="674" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 別讓大規模商品直接擠掉原本較穩的安排</text>
+
+  <path d="M380 762V802" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 784L380 802L396 784" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="72" y="834" width="616" height="212" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="878" r="22" fill="#EAF5EF"/>
+  <text x="116" y="885" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="152" y="882" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">別把規模大，當成不用多想</text>
+  <text x="100" y="936" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 很多人買，不代表你就一定拿得住它的波動</text>
+  <text x="100" y="974" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先確認理由完整，再決定要不要跟著買</text>
+
+  <rect x="72" y="1068" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1100" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看懂商品角色，再決定要不要為大規模買單。</text>
+</svg>
