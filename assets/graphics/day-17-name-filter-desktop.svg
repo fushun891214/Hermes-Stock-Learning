@@ -1,0 +1,44 @@
+<svg width="1180" height="620" viewBox="0 0 1180 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">名字像先看三件事</title>
+  <desc id="desc">桌機版流程圖，提醒新手比較名字相似的 ETF 時，先看追蹤內容、再看用途角色，最後才看其他比較條件。</desc>
+  <rect width="1180" height="620" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1124" height="564" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="82" y="70" width="272" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="218" y="95" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">名字像，不等於內容一樣</text>
+  <text x="82" y="154" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">比較名字很像的 ETF 時，先確認內容、用途與比較順序</text>
+
+  <rect x="82" y="214" width="300" height="220" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="126" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="126" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="162" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看它們各自在追蹤什麼</text>
+  <text x="106" y="312" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 同樣關鍵字，不代表內容與</text>
+  <text x="122" y="340" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  選股邏輯都一樣</text>
+  <text x="106" y="372" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先分清楚你是在比名稱，</text>
+  <text x="122" y="400" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  還是在比商品</text>
+
+  <rect x="440" y="214" width="300" height="220" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="484" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="484" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="520" y="262" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看放進安排後的角色</text>
+  <text x="464" y="336" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 名字很像，不代表在配置裡</text>
+  <text x="480" y="364" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  用途就一樣</text>
+  <text x="464" y="394" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先確認你找的是核心起步，</text>
+  <text x="480" y="422" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">  還是小比例研究</text>
+
+  <rect x="798" y="214" width="300" height="220" rx="28" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="842" cy="258" r="22" fill="#EAF5EF"/>
+  <text x="842" y="265" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="878" y="258" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後才看費用、規模</text>
+  <text x="878" y="288" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">與人氣條件</text>
+  <text x="822" y="334" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先確認用途接近，再做最後比較會更穩</text>
+  <text x="822" y="364" fill="#4A3F37" font-size="17" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 別把名字熟悉感，當成直接選一檔的捷徑</text>
+
+  <path d="M390 324H425" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M748 324H783" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M407 310L425 324L407 338" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M765 310L783 324L765 338" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="82" y="474" width="1016" height="42" rx="21" fill="#EAF5EF"/>
+  <text x="590" y="502" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看懂商品差別，再回頭比費用、規模或人氣。</text>
+</svg>
