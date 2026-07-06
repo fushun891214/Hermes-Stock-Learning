@@ -3,7 +3,6 @@ import argparse
 import os
 import re
 import subprocess
-import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -39,7 +38,7 @@ def main() -> int:
     if not path.exists():
         raise SystemExit(f"找不到課程檔案：{path}")
 
-    run([sys.executable, "scripts/build.py"])
+    run(["npm", "run", "build"])
     run(["git", "add", "-A"])
 
     status = subprocess.run(
