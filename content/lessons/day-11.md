@@ -42,7 +42,7 @@
 而是：
 **我現在回頭看，是因為原本該檢查的時間到了，還是因為我只是暫時很不舒服？**
 
-![固定檢查與情緒重看比較圖](../assets/graphics/day-11-schedule-vs-emotion.svg)
+![固定檢查與情緒重看比較圖](../assets/graphics/day-11-schedule-vs-emotion-mobile.svg "desktop:../assets/graphics/day-11-schedule-vs-emotion.svg")
 
 ## 第二部分：對新手最友善的，通常是這三種檢查節奏
 如果你現在常常不知道該不該打開帳戶、

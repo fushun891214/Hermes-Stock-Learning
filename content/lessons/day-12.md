@@ -43,7 +43,7 @@
 而是：
 **如果我今天真的買了，之後熱度退掉、價格波動變大，我還能不能說清楚自己為什麼留著？**
 
-![有規則研究與追熱氣氛比較圖](../assets/graphics/day-12-urgency-vs-rule.svg)
+![有規則研究與追熱氣氛比較圖](../assets/graphics/day-12-urgency-vs-rule-mobile.svg "desktop:../assets/graphics/day-12-urgency-vs-rule.svg")
 
 ## 第二部分：真的想跟之前，先檢查這三件事
 如果你最近一直聽到某個熱門商品或題材，
