@@ -15,6 +15,7 @@ import day14Raw from '../../content/lessons/day-14.md?raw'
 import day15Raw from '../../content/lessons/day-15.md?raw'
 import day16Raw from '../../content/lessons/day-16.md?raw'
 import day17Raw from '../../content/lessons/day-17.md?raw'
+import day18Raw from '../../content/lessons/day-18.md?raw'
 
 export const TOTAL_DAYS = 30
 
@@ -35,5 +36,6 @@ export const lessonSources = [
   { day: 14, slug: 'day-14', minutes: '16 分鐘', tag: '績效判讀', raw: day14Raw },
   { day: 15, slug: 'day-15', minutes: '16 分鐘', tag: '資訊判讀', raw: day15Raw },
   { day: 16, slug: 'day-16', minutes: '16 分鐘', tag: '商品比較', raw: day16Raw },
-  { day: 17, slug: 'day-17', minutes: '16 分鐘', tag: '商品比較', raw: day17Raw }
+  { day: 17, slug: 'day-17', minutes: '16 分鐘', tag: '商品比較', raw: day17Raw },
+  { day: 18, slug: 'day-18', minutes: '17 分鐘', tag: '分散觀念', raw: day18Raw }
 ]

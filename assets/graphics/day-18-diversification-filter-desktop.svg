@@ -1,0 +1,41 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">分散不是只看檔數</title>
+  <desc id="desc">桌機版三步驟圖，提醒新手增加 ETF 檔數前，要先看內容重疊、再看角色分工，最後才決定要不要增加商品。</desc>
+  <rect width="1200" height="520" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1144" height="464" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="64" y="64" width="236" height="34" rx="17" fill="#D9EFE4"/>
+  <text x="182" y="86" text-anchor="middle" fill="#2C8C67" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">分散不是把清單加長</text>
+  <text x="64" y="140" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">想多買幾檔 ETF 前，先檢查這三件事</text>
+
+  <rect x="64" y="184" width="320" height="236" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="108" cy="226" r="20" fill="#EAF5EF"/>
+  <text x="108" y="233" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="140" y="230" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看內容重不重複</text>
+  <text x="92" y="284" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 名字不同，不代表內容自然分散</text>
+  <text x="92" y="320" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先分清楚你增加的是差異，</text>
+  <text x="108" y="352" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是只是重複持有</text>
+
+  <path d="M406 302H470" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M448 286L470 302L448 318" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="440" y="184" width="320" height="236" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="484" cy="226" r="20" fill="#EAF5EF"/>
+  <text x="484" y="233" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="516" y="230" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看每一檔的角色</text>
+  <text x="468" y="284" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 核心起步、補充配置，要能說清楚</text>
+  <text x="468" y="320" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 如果少一檔差不多，角色可能重疊</text>
+
+  <path d="M782 302H846" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M824 286L846 302L824 318" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="816" y="184" width="320" height="236" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="860" cy="226" r="20" fill="#EAF5EF"/>
+  <text x="860" y="233" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="892" y="230" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後再決定要不要加檔數</text>
+  <text x="844" y="284" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先說出新商品補的是什麼</text>
+  <text x="844" y="320" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 別把「都買一點」當成捷徑</text>
+
+  <rect x="64" y="442" width="1072" height="34" rx="17" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="600" y="465" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看重疊與角色，再回頭決定檔數，才比較像真的在分散。</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="760" height="1100" viewBox="0 0 760 1100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 18 分散 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手判斷自己增加 ETF 檔數時，到底是在分散風險，還是在分散猶豫。</desc>
+  <rect width="760" height="1100" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1044" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="286" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="215" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把增加理由寫清楚</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">想多買幾檔 ETF 前，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題檢查自己</text>
+
+  <rect x="72" y="234" width="616" height="156" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="278" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果遮住代號，</text>
+  <text x="126" y="318" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我還說得出每一檔差別嗎？</text>
+
+  <rect x="72" y="410" width="616" height="172" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="454" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我增加第二檔、第三檔，</text>
+  <text x="126" y="494" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">是因為用途不同，還是只是</text>
+  <text x="126" y="530" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">怕自己只買一檔會選錯？</text>
+
+  <rect x="72" y="604" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="648" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果少掉其中一檔，</text>
+  <text x="126" y="688" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我的安排是真的少一個角色，</text>
+  <text x="126" y="724" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是其實沒有差很多？</text>
+
+  <rect x="72" y="802" width="616" height="154" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="846" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在是在分散風險，</text>
+  <text x="126" y="886" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是在分散自己的猶豫？</text>
+
+  <rect x="72" y="984" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1016" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看重疊和角色，再決定要不要加商品。</text>
+</svg>
