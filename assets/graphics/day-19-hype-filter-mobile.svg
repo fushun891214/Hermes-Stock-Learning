@@ -1,0 +1,41 @@
+<svg width="760" height="1160" viewBox="0 0 760 1160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">熱門話題不是買進理由</title>
+  <desc id="desc">手機版流程圖，提醒新手遇到朋友推薦或熱門話題時，要先看商品內容、再看自己的角色安排，最後才決定要不要放進比較名單。</desc>
+  <rect width="760" height="1160" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1104" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="304" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="224" y="97" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">熱門不等於現在適合你</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到朋友推薦或熱門話題時，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先檢查這三件事</text>
+
+  <rect x="72" y="240" width="616" height="204" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="284" r="22" fill="#EAF5EF"/>
+  <text x="116" y="291" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="152" y="288" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看你能不能說出它在投什麼</text>
+  <text x="100" y="342" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 有人推薦，可以是線索，但不能代替理解</text>
+  <text x="100" y="380" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 如果內容講不清楚，喜歡的可能只是熱度</text>
+
+  <path d="M380 464V504" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 486L380 504L396 486" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="72" y="536" width="616" height="208" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="580" r="22" fill="#EAF5EF"/>
+  <text x="116" y="587" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="152" y="584" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看它在你的安排裡扮演什麼角色</text>
+  <text x="100" y="638" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 起步商品還是補充題材，要能用白話說清楚</text>
+  <text x="100" y="676" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先確認它適不適合你，不是只適合推薦的人</text>
+
+  <path d="M380 764V804" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 786L380 804L396 786" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="72" y="836" width="616" height="212" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="880" r="22" fill="#EAF5EF"/>
+  <text x="116" y="887" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="152" y="884" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後再決定要不要放進比較名單</text>
+  <text x="100" y="938" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 別把「大家都在講」直接當成自己的買進理由</text>
+  <text x="100" y="976" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先分清楚你是在研究，還是在害怕錯過</text>
+
+  <rect x="72" y="1070" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1102" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看懂商品，再回頭看熱門值不值得跟。</text>
+</svg>

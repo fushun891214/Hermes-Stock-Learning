@@ -1,0 +1,31 @@
+<svg width="760" height="1120" viewBox="0 0 760 1120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 19 熱門推薦 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手判斷自己看到朋友推薦或熱門話題時，到底是在做判斷，還是在害怕錯過。</desc>
+  <rect width="760" height="1120" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1064" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="286" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="215" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把跟進理由寫清楚</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">看到熱門推薦時，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題檢查自己</text>
+
+  <rect x="72" y="234" width="616" height="164" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="278" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 拿掉熱度後，</text>
+  <text x="126" y="318" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我還說得出它在投什麼嗎？</text>
+
+  <rect x="72" y="418" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="462" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我想研究它，</text>
+  <text x="126" y="502" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">是因為符合我的起步需求，</text>
+  <text x="126" y="538" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是只是最近很常看到？</text>
+
+  <rect x="72" y="616" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="660" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果市場明天就下跌，</text>
+  <text x="126" y="700" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我還知道自己為什麼持有它嗎？</text>
+
+  <rect x="72" y="814" width="616" height="168" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="858" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在是在做判斷，</text>
+  <text x="126" y="898" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是在害怕自己錯過別人的機會？</text>
+
+  <rect x="72" y="1008" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1040" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看懂商品，再決定要不要跟進熱門。</text>
+</svg>
