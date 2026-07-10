@@ -1,0 +1,47 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">買進前最後確認三步驟</title>
+  <desc id="desc">桌機版三步驟圖，提醒新手在第一次買進前，先確認留下商品的理由、未來持有理由與是否能持續開始。</desc>
+  <rect width="1200" height="520" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1144" height="464" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="64" y="64" width="278" height="34" rx="17" fill="#D9EFE4"/>
+  <text x="203" y="86" text-anchor="middle" fill="#2C8C67" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">最後確認，不是最後衝動</text>
+  <text x="64" y="140" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第一次準備買進前，先做這三步確認</text>
+
+  <rect x="64" y="184" width="320" height="238" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="108" cy="226" r="20" fill="#EAF5EF"/>
+  <text x="108" y="233" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="140" y="230" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先講清楚：為什麼最後留它</text>
+  <text x="92" y="284" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 說得出它在投什麼，也說得出</text>
+  <text x="108" y="316" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">它在安排裡做什麼</text>
+  <text x="92" y="352" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不是因為別的被刪掉，剛好</text>
+  <text x="108" y="384" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">只剩它看起來順眼</text>
+
+  <path d="M406 304H470" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M448 288L470 304L448 320" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="440" y="184" width="320" height="238" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="484" cy="226" r="20" fill="#EAF5EF"/>
+  <text x="484" y="233" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="516" y="230" fill="#231B16" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再確認：波動時你怎麼看它</text>
+  <text x="468" y="284" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 短期上上下下時，先回頭看</text>
+  <text x="484" y="316" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">原本的持有理由</text>
+  <text x="468" y="352" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不要一有波動，就改用別人的</text>
+  <text x="484" y="384" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">情緒做決定</text>
+
+  <path d="M782 304H846" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M824 288L846 304L824 320" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="816" y="184" width="320" height="238" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="860" cy="226" r="20" fill="#EAF5EF"/>
+  <text x="860" y="233" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="892" y="230" fill="#231B16" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後確認：這是不是你能持續</text>
+  <text x="892" y="260" fill="#231B16" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">開始的方式</text>
+  <text x="844" y="304" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 資金安排、投入節奏與心理準備</text>
+  <text x="860" y="336" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">要彼此接得起來</text>
+  <text x="844" y="372" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 你要找的是清楚理由，不是</text>
+  <text x="860" y="404" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">完美答案</text>
+
+  <rect x="64" y="442" width="1072" height="34" rx="17" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="600" y="465" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">最後確認的是你的理由有沒有站穩，不是它看起來有沒有最完美。</text>
+</svg>

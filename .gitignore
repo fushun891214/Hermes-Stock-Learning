@@ -9,5 +9,9 @@ site/
 test-results/
 .tmp-*.mjs
 .tmp-*.cjs
+tmp_audit_*.mjs
 tmp_funnow_*.json
 tmp_funnow_*.tsv
+funnow_*.csv
+funnow_*.tsv
+funnow_*_meta.json

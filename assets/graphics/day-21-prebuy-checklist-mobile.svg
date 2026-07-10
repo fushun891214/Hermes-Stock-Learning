@@ -1,0 +1,33 @@
+<svg width="760" height="1140" viewBox="0 0 760 1140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 21 買前確認 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手在第一次買進 ETF 前，整理理由、角色與投入節奏。</desc>
+  <rect width="760" height="1140" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1084" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="290" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="217" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">開始前，先把理由寫好</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第一次買進前，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題確認</text>
+
+  <rect x="72" y="234" width="616" height="170" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="278" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我最後留下的這一檔，</text>
+  <text x="126" y="318" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">主要在投什麼？在我的安排裡</text>
+  <text x="126" y="354" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">扮演什麼角色？</text>
+
+  <rect x="72" y="426" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="470" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果有人問我為什麼選它，</text>
+  <text x="126" y="510" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我說得出一個不是</text>
+  <text x="126" y="546" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">「因為最後剩它」的理由嗎？</text>
+
+  <rect x="72" y="624" width="616" height="182" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="668" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果明天市場波動，</text>
+  <text x="126" y="708" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我會先回頭看自己的持有理由，</text>
+  <text x="126" y="744" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是立刻被別人的說法帶走？</text>
+
+  <rect x="72" y="828" width="616" height="172" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="872" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在的資金安排與投入節奏，</text>
+  <text x="126" y="912" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">真的接得住這次開始嗎？</text>
+
+  <rect x="72" y="1030" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1062" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把持有理由寫清楚，再開始比較安心。</text>
+</svg>
