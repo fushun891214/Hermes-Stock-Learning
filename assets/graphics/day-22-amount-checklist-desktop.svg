@@ -1,0 +1,29 @@
+<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 22 起步金額 checklist</title>
+  <desc id="desc">桌機版 checklist，用四個問題幫助新手決定第一次買 ETF 的起步金額。</desc>
+  <rect width="1200" height="560" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1144" height="504" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="64" y="64" width="286" height="34" rx="17" fill="#FFF3DD"/>
+  <text x="207" y="86" text-anchor="middle" fill="#9A6827" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先看自己接不接得住</text>
+  <text x="64" y="140" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第一次投入前，先用這四題檢查起步金額</text>
+
+  <rect x="64" y="188" width="512" height="118" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="96" y="236" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 這筆錢本來就準備好拿來投資，</text>
+  <text x="122" y="272" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">不會影響生活與緊急需求嗎？</text>
+
+  <rect x="624" y="188" width="512" height="118" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="656" y="236" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果明天波動，這個金額會不會</text>
+  <text x="682" y="272" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">讓我開始一直盯盤？</text>
+
+  <rect x="64" y="328" width="512" height="118" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="96" y="376" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在決定這個金額，是因為</text>
+  <text x="122" y="412" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">符合節奏，不是想證明自己敢下嗎？</text>
+
+  <rect x="624" y="328" width="512" height="118" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="656" y="376" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 這次投入之後，我還保有後續</text>
+  <text x="682" y="412" fill="#4A3F37" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">繼續投入與調整的空間嗎？</text>
+
+  <rect x="64" y="470" width="1072" height="38" rx="19" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="600" y="495" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">第一次投入金額的重點，是讓你開始後還能穩穩持續，不是只求一開始很有感。</text>
+</svg>
