@@ -20,6 +20,7 @@ import day19Raw from '../../content/lessons/day-19.md?raw'
 import day20Raw from '../../content/lessons/day-20.md?raw'
 import day21Raw from '../../content/lessons/day-21.md?raw'
 import day22Raw from '../../content/lessons/day-22.md?raw'
+import day23Raw from '../../content/lessons/day-23.md?raw'
 
 export const TOTAL_DAYS = 30
 
@@ -45,5 +46,6 @@ export const lessonSources = [
   { day: 19, slug: 'day-19', minutes: '16 分鐘', tag: '資訊判讀', raw: day19Raw },
   { day: 20, slug: 'day-20', minutes: '16 分鐘', tag: '商品比較', raw: day20Raw },
   { day: 21, slug: 'day-21', minutes: '16 分鐘', tag: '買前確認', raw: day21Raw },
-  { day: 22, slug: 'day-22', minutes: '16 分鐘', tag: '資金安排', raw: day22Raw }
+  { day: 22, slug: 'day-22', minutes: '16 分鐘', tag: '資金安排', raw: day22Raw },
+  { day: 23, slug: 'day-23', minutes: '16 分鐘', tag: '下單準備', raw: day23Raw }
 ]

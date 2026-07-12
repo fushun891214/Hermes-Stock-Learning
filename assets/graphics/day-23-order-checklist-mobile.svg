@@ -1,0 +1,30 @@
+<svg width="760" height="1160" viewBox="0 0 760 1160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 23 下單前 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手在第一次買 ETF 前做最後確認。</desc>
+  <rect width="760" height="1160" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1104" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="260" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="202" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">送出前先停一下</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第一次下單前，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先用這四題檢查</text>
+
+  <rect x="72" y="234" width="616" height="170" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="278" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 代號與名稱，真的是我原本</text>
+  <text x="126" y="318" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">選好的那一檔 ETF 嗎？</text>
+
+  <rect x="72" y="426" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="470" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在輸入的數量，</text>
+  <text x="126" y="510" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">換算後總金額還在原本安排裡嗎？</text>
+
+  <rect x="72" y="624" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="668" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我有沒有因為怕錯過，</text>
+  <text x="126" y="708" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">臨時把原本決定的金額改大？</text>
+
+  <rect x="72" y="822" width="616" height="176" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="866" fill="#231B16" font-size="25" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 送出前，我有沒有留 10 秒，</text>
+  <text x="126" y="906" fill="#4A3F37" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">重看商品、金額與下單內容？</text>
+
+  <rect x="72" y="1030" width="616" height="48" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1062" text-anchor="middle" fill="#1F6C4E" font-size="23" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先確認，再送出，第一次會更穩。</text>
+</svg>
