@@ -1,0 +1,41 @@
+<svg width="760" height="1160" viewBox="0 0 760 1160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">買完第一週先看三件事</title>
+  <desc id="desc">手機版圖卡，提醒新手第一次買完 ETF 後，先確認安排、波動承受度與觀察節奏。</desc>
+  <rect width="760" height="1160" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1104" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="322" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="233" y="97" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">第一次持有，先穩住節奏</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">買完第一週，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看這三件事</text>
+
+  <rect x="72" y="240" width="616" height="220" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="284" r="22" fill="#EAF5EF"/>
+  <text x="116" y="291" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">1</text>
+  <text x="152" y="288" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先看：有沒有照原本安排買進</text>
+  <text x="100" y="342" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 商品、金額與日期要重新對一次</text>
+  <text x="100" y="380" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 幾天漲跌先不要急著推翻理由</text>
+
+  <path d="M380 480V520" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 502L380 520L396 502" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="72" y="552" width="616" height="220" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="596" r="22" fill="#EAF5EF"/>
+  <text x="116" y="603" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">2</text>
+  <text x="152" y="600" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">再看：波動有沒有超出範圍</text>
+  <text x="100" y="654" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 想多看幾次很正常，不用立刻動作</text>
+  <text x="100" y="692" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 若已影響情緒與睡眠，再回頭檢查</text>
+
+  <path d="M380 792V832" stroke="#D3B58A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M364 814L380 832L396 814" stroke="#D3B58A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="72" y="864" width="616" height="220" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <circle cx="116" cy="908" r="22" fill="#EAF5EF"/>
+  <text x="116" y="915" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">3</text>
+  <text x="152" y="912" fill="#231B16" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">最後看：觀察方式要拉長一點</text>
+  <text x="100" y="966" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先記錄理由、感受與查看頻率</text>
+  <text x="100" y="1004" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 第一週先把流程走順，比急著判斷更好</text>
+
+  <rect x="72" y="1098" width="616" height="30" rx="15" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1120" text-anchor="middle" fill="#1F6C4E" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先穩住節奏，再慢慢熟悉持有感。</text>
+</svg>
