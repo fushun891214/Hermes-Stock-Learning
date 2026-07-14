@@ -1,0 +1,31 @@
+<svg width="760" height="1100" viewBox="0 0 760 1100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 25 第二筆投入前 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手判斷第一次買完 ETF 後，何時才需要考慮第二筆投入。</desc>
+  <rect width="760" height="1100" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1044" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="326" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="235" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">第二筆先檢查，不急著出手</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第二筆投入前，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先問自己這四題</text>
+
+  <rect x="72" y="240" width="616" height="150" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="294" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 第二筆原本就在安排裡，還是只是</text>
+  <text x="100" y="332" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">最近幾天有漲跌，才突然想再買？</text>
+
+  <rect x="72" y="418" width="616" height="150" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="472" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 第一筆買完後，我現在的感受有</text>
+  <text x="100" y="510" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">比較穩，還是其實還在一直慌？</text>
+
+  <rect x="72" y="596" width="616" height="150" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="650" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我現在想再投入，是延續原本節奏，</text>
+  <text x="100" y="688" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">還是想趕快證明前面買得對？</text>
+
+  <rect x="72" y="774" width="616" height="150" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="828" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果今天再投入，這個金額仍然在</text>
+  <text x="100" y="866" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">我能承受、也不影響生活的範圍嗎？</text>
+
+  <rect x="72" y="958" width="616" height="96" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1002" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先確認第二筆是在延續安排，</text>
+  <text x="380" y="1038" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">通常比急著做快更穩。</text>
+</svg>

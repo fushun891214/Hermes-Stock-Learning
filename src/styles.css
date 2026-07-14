@@ -1233,8 +1233,8 @@ ol {
   }
 
   .lesson-top h1 {
-    font-size: clamp(1.56rem, 7.1vw, 1.96rem);
-    line-height: 1.2;
+    font-size: clamp(1.5rem, 6.8vw, 1.9rem);
+    line-height: 1.22;
     margin: 0 0 6px;
   }
 
