@@ -1,0 +1,33 @@
+<svg width="1200" height="540" viewBox="0 0 1200 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">第二筆投入先選節奏，再談價格</title>
+  <desc id="desc">桌機版圖卡，比較固定時間投入與等待下跌兩種想法，提醒新手第二筆先建立做得到的節奏。</desc>
+  <rect width="1200" height="540" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="1144" height="484" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="64" y="64" width="314" height="34" rx="17" fill="#D9EFE4"/>
+  <text x="221" y="86" text-anchor="middle" fill="#2C8C67" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">第二筆先建立節奏，不急著猜低點</text>
+  <text x="64" y="140" fill="#231B16" font-size="34" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第二筆 ETF：先選做得到的方式，再看價格要不要參考</text>
+
+  <rect x="64" y="186" width="472" height="248" rx="24" fill="#FFFFFF" stroke="#D4E7DB" stroke-width="2"/>
+  <rect x="92" y="212" width="126" height="30" rx="15" fill="#EAF5EF"/>
+  <text x="155" y="232" text-anchor="middle" fill="#1F6C4E" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">固定時間投入</text>
+  <text x="92" y="278" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">適合剛開始先建立投入習慣</text>
+  <text x="92" y="326" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 先決定日期與金額，每次照安排走</text>
+  <text x="92" y="360" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 不用每次都重新猜哪裡才算低</text>
+  <text x="92" y="394" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 重點不是最便宜，而是比較能持續</text>
+
+  <circle cx="600" cy="310" r="46" fill="#FFF3DD" stroke="#E6C992" stroke-width="2"/>
+  <text x="600" y="304" text-anchor="middle" fill="#9A6827" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第二筆先問</text>
+  <text x="600" y="330" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">我做得到嗎？</text>
+
+  <rect x="664" y="186" width="472" height="248" rx="24" fill="#FFFFFF" stroke="#EADBC6" stroke-width="2"/>
+  <rect x="692" y="212" width="116" height="30" rx="15" fill="#FFF3DD"/>
+  <text x="750" y="232" text-anchor="middle" fill="#9A6827" font-size="18" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">等下跌再買</text>
+  <text x="692" y="278" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">如果規則不清楚，容易一直改主意</text>
+  <text x="692" y="326" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 要先寫清楚：跌多少、等多久才買</text>
+  <text x="692" y="360" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 如果市場沒照想像走，很容易更焦慮</text>
+  <text x="692" y="394" fill="#4A3F37" font-size="21" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 沒有穩定標準時，常常只是一直等待</text>
+
+  <rect x="64" y="456" width="1072" height="32" rx="16" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="600" y="478" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">對新手來說，第二筆先求節奏可重複，通常比急著抓漂亮價格更穩。</text>
+</svg>

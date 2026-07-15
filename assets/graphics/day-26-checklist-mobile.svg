@@ -1,0 +1,32 @@
+<svg width="760" height="1180" viewBox="0 0 760 1180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Day 26 第二筆節奏 checklist</title>
+  <desc id="desc">手機版 checklist，用四個問題幫助新手決定第二筆 ETF 要用固定時間投入，還是等待價格變化。</desc>
+  <rect width="760" height="1180" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1124" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="336" height="38" rx="19" fill="#FFF3DD"/>
+  <text x="240" y="97" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">第二筆先檢查節奏，不急著抓低點</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">第二筆投入前，</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先回答這四題</text>
+
+  <rect x="72" y="240" width="616" height="154" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="294" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 我是適合先固定時間投入，還是只是</text>
+  <text x="100" y="332" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">因為怕買貴，才一直想等更好的點？</text>
+
+  <rect x="72" y="422" width="616" height="154" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="476" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果要固定時間投入，我的日期與</text>
+  <text x="100" y="514" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">大約金額，是不是已經想清楚了？</text>
+
+  <rect x="72" y="604" width="616" height="190" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="658" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 如果我想等價格變化，我寫得出</text>
+  <text x="100" y="696" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">清楚規則嗎：跌多少、等多久、</text>
+  <text x="100" y="734" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">如果沒發生，我打算怎麼做？</text>
+
+  <rect x="72" y="822" width="616" height="190" rx="24" fill="#FFFFFF" stroke="#E8DCC9" stroke-width="2"/>
+  <text x="100" y="876" fill="#231B16" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">□ 不管我選哪種方式，這次安排會不會</text>
+  <text x="100" y="914" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">更能維持生活與後續節奏，而不是</text>
+  <text x="100" y="952" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">讓我更焦慮、一直想改規則？</text>
+
+  <rect x="72" y="1040" width="616" height="84" rx="24" fill="#EAF5EF" stroke="#CFE7DA" stroke-width="2"/>
+  <text x="380" y="1088" text-anchor="middle" fill="#1F6C4E" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把第二筆節奏寫清楚，通常會更穩。</text>
+</svg>
