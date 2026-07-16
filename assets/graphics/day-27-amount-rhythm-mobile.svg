@@ -1,0 +1,36 @@
+<svg width="760" height="1220" viewBox="0 0 760 1220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">固定投入先有主金額，再談調整</title>
+  <desc id="desc">手機版圖卡，說明固定投入應先設定主金額，再判斷什麼情況才適合調整。</desc>
+  <rect width="760" height="1220" rx="36" fill="#FFF8F1"/>
+  <rect x="28" y="28" width="704" height="1164" rx="30" fill="#FFFCF8" stroke="#E8DCC9" stroke-width="2"/>
+
+  <rect x="72" y="72" width="320" height="38" rx="19" fill="#D9EFE4"/>
+  <text x="232" y="97" text-anchor="middle" fill="#2C8C67" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="700">先把主金額定穩，再談彈性</text>
+  <text x="72" y="154" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">固定投入先有</text>
+  <text x="72" y="198" fill="#231B16" font-size="36" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">接得住的主金額</text>
+
+  <rect x="72" y="244" width="616" height="220" rx="24" fill="#FFFFFF" stroke="#D4E7DB" stroke-width="2"/>
+  <rect x="100" y="270" width="112" height="32" rx="16" fill="#EAF5EF"/>
+  <text x="156" y="292" text-anchor="middle" fill="#1F6C4E" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">主金額</text>
+  <text x="100" y="344" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先定一個固定基準</text>
+  <text x="100" y="394" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 生活可負擔</text>
+  <text x="100" y="432" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 下次容易直接執行</text>
+
+  <circle cx="380" cy="560" r="60" fill="#FFF3DD" stroke="#E6C992" stroke-width="2"/>
+  <text x="380" y="550" text-anchor="middle" fill="#9A6827" font-size="22" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先問</text>
+  <text x="380" y="584" text-anchor="middle" fill="#9A6827" font-size="26" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">接得住嗎？</text>
+
+  <rect x="72" y="670" width="616" height="220" rx="24" fill="#FFFFFF" stroke="#EADBC6" stroke-width="2"/>
+  <rect x="100" y="696" width="112" height="32" rx="16" fill="#FFF3DD"/>
+  <text x="156" y="718" text-anchor="middle" fill="#9A6827" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">可調整</text>
+  <text x="100" y="770" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">來自生活條件變化</text>
+  <text x="100" y="820" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 收支安排改變</text>
+  <text x="100" y="858" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 原本金額太勉強</text>
+
+  <rect x="72" y="936" width="616" height="220" rx="24" fill="#FFFFFF" stroke="#F0D6D6" stroke-width="2"/>
+  <rect x="100" y="962" width="126" height="32" rx="16" fill="#FBE5E5"/>
+  <text x="163" y="984" text-anchor="middle" fill="#B45757" font-size="20" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">先別這樣調</text>
+  <text x="100" y="1036" fill="#231B16" font-size="28" font-family="'Noto Sans TC', 'PingFang TC', sans-serif" font-weight="800">不要跟著短期情緒改</text>
+  <text x="100" y="1086" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 漲了就臨時加大</text>
+  <text x="100" y="1124" fill="#4A3F37" font-size="24" font-family="'Noto Sans TC', 'PingFang TC', sans-serif">• 跌了就衝動攤平</text>
+</svg>
