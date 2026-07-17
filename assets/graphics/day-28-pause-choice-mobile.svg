@@ -1,0 +1,33 @@
+<svg width="720" height="1180" viewBox="0 0 720 1180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1180" rx="32" fill="#F6EFE5"/>
+  <rect x="24" y="24" width="672" height="1132" rx="28" fill="#FFFDF9" stroke="#D9C7AE" stroke-width="2"/>
+  <text x="56" y="92" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">想先停一次前，</text>
+  <text x="56" y="134" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">先分清楚是哪一種原因</text>
+  <text x="56" y="178" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">合理暫停是在保護生活；情緒暫停</text>
+  <text x="56" y="208" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">常常只是把不安延後。</text>
+
+  <rect x="56" y="254" width="608" height="346" rx="26" fill="#E8F4EC" stroke="#9CC9AC" stroke-width="2"/>
+  <text x="88" y="306" fill="#1E5B40" font-size="28" font-weight="800" font-family="'Noto Sans TC', sans-serif">生活壓力型：可以先停一次</text>
+  <text x="88" y="346" fill="#2D473A" font-size="20" font-weight="600" font-family="'Noto Sans TC', sans-serif">比較像在保護基本盤</text>
+  <text x="88" y="392" fill="#2D473A" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 臨時支出變多</text>
+  <text x="88" y="428" fill="#2D473A" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 緊急預備金要先補回來</text>
+  <text x="88" y="464" fill="#2D473A" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 原本金額已經太勉強</text>
+  <text x="88" y="500" fill="#2D473A" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 忙到要先整理生活節奏</text>
+  <rect x="88" y="534" width="544" height="42" rx="21" fill="#CFE7D7"/>
+  <text x="108" y="561" fill="#1E5B40" font-size="18" font-weight="700" font-family="'Noto Sans TC', sans-serif">記得寫下：停多久、何時再檢查</text>
+
+  <rect x="56" y="632" width="608" height="346" rx="26" fill="#FBE8E4" stroke="#E4B0A5" stroke-width="2"/>
+  <text x="88" y="684" fill="#9A3F34" font-size="28" font-weight="800" font-family="'Noto Sans TC', sans-serif">情緒雜音型：先別急著停</text>
+  <text x="88" y="724" fill="#62433E" font-size="20" font-weight="600" font-family="'Noto Sans TC', sans-serif">比較像是波動在催你改規則</text>
+  <text x="88" y="770" fill="#62433E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 漲了，怕現在買太高</text>
+  <text x="88" y="806" fill="#62433E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 跌了，怕買完還會更跌</text>
+  <text x="88" y="842" fill="#62433E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 新聞變多，就突然想觀望</text>
+  <text x="88" y="878" fill="#62433E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 沒明確理由，只想先算了</text>
+  <rect x="88" y="912" width="544" height="42" rx="21" fill="#F5D2CB"/>
+  <text x="108" y="939" fill="#9A3F34" font-size="18" font-weight="700" font-family="'Noto Sans TC', sans-serif">先辨認原因，不要每次都隨感覺改</text>
+
+  <rect x="56" y="1012" width="608" height="108" rx="24" fill="#F2E6D7"/>
+  <text x="84" y="1060" fill="#5A4B3E" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">一句話記住：</text>
+  <text x="84" y="1094" fill="#5A4B3E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">暫停一次不是問題，沒有理由、沒有回來</text>
+  <text x="84" y="1124" fill="#5A4B3E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">時間地一直改，才最容易讓節奏散掉。</text>
+</svg>

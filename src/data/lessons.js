@@ -25,6 +25,7 @@ import day24Raw from '../../content/lessons/day-24.md?raw'
 import day25Raw from '../../content/lessons/day-25.md?raw'
 import day26Raw from '../../content/lessons/day-26.md?raw'
 import day27Raw from '../../content/lessons/day-27.md?raw'
+import day28Raw from '../../content/lessons/day-28.md?raw'
 
 export const TOTAL_DAYS = 30
 
@@ -55,5 +56,6 @@ export const lessonSources = [
   { day: 24, slug: 'day-24', minutes: '16 分鐘', tag: '持有開始', raw: day24Raw },
   { day: 25, slug: 'day-25', minutes: '16 分鐘', tag: '後續投入', raw: day25Raw },
   { day: 26, slug: 'day-26', minutes: '16 分鐘', tag: '投入節奏', raw: day26Raw },
-  { day: 27, slug: 'day-27', minutes: '16 分鐘', tag: '投入金額', raw: day27Raw }
+  { day: 27, slug: 'day-27', minutes: '16 分鐘', tag: '投入金額', raw: day27Raw },
+  { day: 28, slug: 'day-28', minutes: '16 分鐘', tag: '節奏調整', raw: day28Raw }
 ]

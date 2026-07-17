@@ -1,0 +1,30 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F6EFE5"/>
+  <rect x="40" y="40" width="1120" height="680" rx="32" fill="#FFFDF9" stroke="#D9C7AE" stroke-width="2"/>
+  <text x="76" y="110" fill="#2E261F" font-size="42" font-weight="800" font-family="'Noto Sans TC', sans-serif">想先停一次前，先分清楚是哪一種原因</text>
+  <text x="76" y="152" fill="#6E5F52" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">合理暫停是在保護生活節奏；情緒暫停則常常只是把不安延後。</text>
+
+  <rect x="76" y="208" width="488" height="370" rx="28" fill="#E8F4EC" stroke="#9CC9AC" stroke-width="2"/>
+  <text x="112" y="266" fill="#1E5B40" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">生活壓力型：可以先停一次</text>
+  <text x="112" y="314" fill="#2D473A" font-size="24" font-weight="600" font-family="'Noto Sans TC', sans-serif">比較像是在保護基本盤</text>
+  <text x="112" y="364" fill="#2D473A" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 這個月臨時支出變多</text>
+  <text x="112" y="406" fill="#2D473A" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 緊急預備金需要先補回來</text>
+  <text x="112" y="448" fill="#2D473A" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 原本主金額已經讓生活變緊</text>
+  <text x="112" y="490" fill="#2D473A" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 忙到需要先整理節奏再回來</text>
+  <rect x="112" y="524" width="416" height="34" rx="17" fill="#CFE7D7"/>
+  <text x="132" y="547" fill="#1E5B40" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">重點：先寫清楚停多久、何時再檢查</text>
+
+  <rect x="636" y="208" width="488" height="370" rx="28" fill="#FBE8E4" stroke="#E4B0A5" stroke-width="2"/>
+  <text x="672" y="266" fill="#9A3F34" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">情緒雜音型：先別急著停</text>
+  <text x="672" y="314" fill="#62433E" font-size="24" font-weight="600" font-family="'Noto Sans TC', sans-serif">比較像是市場波動在催你改規則</text>
+  <text x="672" y="364" fill="#62433E" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 漲了，怕現在買太高</text>
+  <text x="672" y="406" fill="#62433E" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 跌了，怕買完還會更跌</text>
+  <text x="672" y="448" fill="#62433E" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 新聞變多，就突然很想先觀望</text>
+  <text x="672" y="490" fill="#62433E" font-size="24" font-weight="500" font-family="'Noto Sans TC', sans-serif">• 沒有明確理由，只覺得這次先算了</text>
+  <rect x="672" y="524" width="416" height="34" rx="17" fill="#F5D2CB"/>
+  <text x="692" y="547" fill="#9A3F34" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">重點：先辨認原因，不要每次都隨感覺改</text>
+
+  <path d="M600 230V602" stroke="#CBB79D" stroke-width="6" stroke-dasharray="14 14"/>
+  <rect x="76" y="620" width="1048" height="58" rx="22" fill="#F2E6D7"/>
+  <text x="104" y="658" fill="#5A4B3E" font-size="24" font-weight="700" font-family="'Noto Sans TC', sans-serif">一句話記住：暫停一次不是問題，沒有理由、沒有回來時間地一直改，才最容易讓固定投入整個散掉。</text>
+</svg>

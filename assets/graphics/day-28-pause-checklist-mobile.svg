@@ -1,0 +1,44 @@
+<svg width="720" height="1220" viewBox="0 0 720 1220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1220" rx="32" fill="#F5EEE4"/>
+  <rect x="24" y="24" width="672" height="1172" rx="28" fill="#FFFDF9" stroke="#D9C7AE" stroke-width="2"/>
+  <text x="56" y="92" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">暫停一次前，</text>
+  <text x="56" y="134" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">至少先回答這 4 題</text>
+  <text x="56" y="178" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">把理由寫清楚，才不會讓投入節奏</text>
+  <text x="56" y="208" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">越停越模糊。</text>
+
+  <rect x="56" y="254" width="608" height="174" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="304" r="18" fill="#D7B98C"/>
+  <text x="95" y="311" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">1</text>
+  <text x="132" y="300" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">我這次想停，是生活壓力，</text>
+  <text x="132" y="332" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">還是市場情緒？</text>
+  <text x="132" y="372" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">先分清楚來源，後面才知道要調</text>
+  <text x="132" y="400" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">的是生活安排，還是自己的情緒。</text>
+
+  <rect x="56" y="452" width="608" height="174" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="502" r="18" fill="#D7B98C"/>
+  <text x="95" y="509" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">2</text>
+  <text x="132" y="498" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">這次先停，會讓生活更穩，</text>
+  <text x="132" y="530" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">還是只是暫時逃開不安？</text>
+  <text x="132" y="570" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">如果停下來只是不用面對波動，</text>
+  <text x="132" y="598" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">那通常不是真正的整理。</text>
+
+  <rect x="56" y="650" width="608" height="174" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="700" r="18" fill="#D7B98C"/>
+  <text x="95" y="707" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">3</text>
+  <text x="132" y="696" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">我打算停多久？下一次重新</text>
+  <text x="132" y="728" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">檢查安排的時間點是什麼？</text>
+  <text x="132" y="768" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">一次暫停可以，但最好同時保留</text>
+  <text x="132" y="796" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">一個回來檢查的節點。</text>
+
+  <rect x="56" y="848" width="608" height="200" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="898" r="18" fill="#D7B98C"/>
+  <text x="95" y="905" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">4</text>
+  <text x="132" y="894" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">如果我最近常常想停，</text>
+  <text x="132" y="926" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">是不是主金額或頻率本來就太勉強？</text>
+  <text x="132" y="966" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">常常撐不住時，先檢查節奏，</text>
+  <text x="132" y="994" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">不要只怪自己不夠有紀律。</text>
+
+  <rect x="56" y="1074" width="608" height="92" rx="24" fill="#E8F0EA"/>
+  <text x="84" y="1122" fill="#355A46" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">小提醒：固定投入要追求的是長期接得住，</text>
+  <text x="84" y="1152" fill="#355A46" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">不是每一輪都硬撐過去。</text>
+</svg>
