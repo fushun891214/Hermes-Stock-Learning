@@ -1,0 +1,39 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#F6EFE5"/>
+  <rect x="40" y="40" width="1120" height="680" rx="32" fill="#FFFDF9" stroke="#D9C7AE" stroke-width="2"/>
+  <text x="76" y="110" fill="#2E261F" font-size="40" font-weight="800" font-family="'Noto Sans TC', sans-serif">恢復投入時，先接回節奏，再決定要不要增加</text>
+  <text x="76" y="152" fill="#6E5F52" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">停過一次後，最怕的不是慢一點，而是用補進度的焦慮把下一次也壓重。</text>
+
+  <rect x="76" y="208" width="320" height="334" rx="28" fill="#EAF3FF" stroke="#A9C4E8" stroke-width="2"/>
+  <text x="108" y="262" fill="#2E5B8A" font-size="32" font-weight="800" font-family="'Noto Sans TC', sans-serif">上個月暫停一次</text>
+  <text x="108" y="308" fill="#41586E" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">先接受那是生活調整，</text>
+  <text x="108" y="342" fill="#41586E" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">不是整個計畫失敗。</text>
+  <rect x="108" y="388" width="256" height="116" rx="20" fill="#D7E8FA"/>
+  <text x="132" y="434" fill="#2E5B8A" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">先問自己：</text>
+  <text x="132" y="466" fill="#41586E" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">我現在想補的，</text>
+  <text x="132" y="494" fill="#41586E" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">是節奏，還是焦慮？</text>
+
+  <rect x="440" y="208" width="320" height="334" rx="28" fill="#E8F4EC" stroke="#9CC9AC" stroke-width="2"/>
+  <text x="472" y="262" fill="#1E5B40" font-size="32" font-weight="800" font-family="'Noto Sans TC', sans-serif">先回原本主金額</text>
+  <text x="472" y="308" fill="#2D473A" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">固定時間、固定金額</text>
+  <text x="472" y="342" fill="#2D473A" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">先確認你真的接得住。</text>
+  <rect x="472" y="388" width="256" height="116" rx="20" fill="#CFE7D7"/>
+  <text x="496" y="434" fill="#1E5B40" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">這一步的價值：</text>
+  <text x="496" y="466" fill="#2D473A" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">不是補快，</text>
+  <text x="496" y="494" fill="#2D473A" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">而是穩穩回來。</text>
+
+  <rect x="804" y="208" width="320" height="334" rx="28" fill="#FBE8E4" stroke="#E4B0A5" stroke-width="2"/>
+  <text x="836" y="262" fill="#9A3F34" font-size="32" font-weight="800" font-family="'Noto Sans TC', sans-serif">別急著補買雙倍</text>
+  <text x="836" y="308" fill="#62433E" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">如果這次加倍會讓下次</text>
+  <text x="836" y="342" fill="#62433E" font-size="22" font-weight="500" font-family="'Noto Sans TC', sans-serif">更緊、更怕，就不算穩。</text>
+  <rect x="836" y="388" width="256" height="116" rx="20" fill="#F5D2CB"/>
+  <text x="860" y="434" fill="#9A3F34" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">增加金額前先看：</text>
+  <text x="860" y="466" fill="#62433E" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">之後幾個月</text>
+  <text x="860" y="494" fill="#62433E" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">能不能都接得住。</text>
+
+  <path d="M396 374H440" stroke="#CBB79D" stroke-width="6" stroke-dasharray="14 14"/>
+  <path d="M760 374H804" stroke="#CBB79D" stroke-width="6" stroke-dasharray="14 14"/>
+
+  <rect x="76" y="600" width="1048" height="82" rx="24" fill="#F2E6D7"/>
+  <text x="104" y="648" fill="#5A4B3E" font-size="24" font-weight="700" font-family="'Noto Sans TC', sans-serif">一句話記住：暫停一次後，先恢復你做得到的基本節奏；要不要加碼，留給更穩定的生活條件來決定。</text>
+</svg>

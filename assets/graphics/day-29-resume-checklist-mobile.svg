@@ -1,0 +1,43 @@
+<svg width="720" height="1260" viewBox="0 0 720 1260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1260" rx="32" fill="#F5EEE4"/>
+  <rect x="24" y="24" width="672" height="1212" rx="28" fill="#FFFDF9" stroke="#D9C7AE" stroke-width="2"/>
+  <text x="56" y="92" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">恢復投入前，</text>
+  <text x="56" y="134" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">至少先回答這 4 題</text>
+  <text x="56" y="178" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">先看清楚自己想補的是什麼，</text>
+  <text x="56" y="208" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">才不會一恢復就越買越緊。</text>
+
+  <rect x="56" y="254" width="608" height="190" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="304" r="18" fill="#D7B98C"/>
+  <text x="95" y="311" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">1</text>
+  <text x="132" y="300" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">我想補雙倍，是因為條件允許，</text>
+  <text x="132" y="332" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">還是因為上次沒買讓我很焦急？</text>
+  <text x="132" y="372" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">先分清楚，是安排成熟，</text>
+  <text x="132" y="400" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">還是只是想趕快壓下不安。</text>
+
+  <rect x="56" y="468" width="608" height="190" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="518" r="18" fill="#D7B98C"/>
+  <text x="95" y="525" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">2</text>
+  <text x="132" y="514" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">如果我只回原本主金額，</text>
+  <text x="132" y="546" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">我是真的不能接受，還是怕變慢？</text>
+  <text x="132" y="586" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">很多時候怕的不是金額不夠，</text>
+  <text x="132" y="614" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">而是自己看起來像落後。</text>
+
+  <rect x="56" y="682" width="608" height="190" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="732" r="18" fill="#D7B98C"/>
+  <text x="95" y="739" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">3</text>
+  <text x="132" y="728" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">如果這次加大金額，下個月與</text>
+  <text x="132" y="760" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">生活支出還接得住嗎？</text>
+  <text x="132" y="800" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">能不能連續做，比這次補得</text>
+  <text x="132" y="828" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">看起來漂亮更重要。</text>
+
+  <rect x="56" y="896" width="608" height="210" rx="24" fill="#FAF2E8" stroke="#E6D6C2" stroke-width="2"/>
+  <circle cx="102" cy="946" r="18" fill="#D7B98C"/>
+  <text x="95" y="953" fill="#FFFDF9" font-size="20" font-weight="800" font-family="'Noto Sans TC', sans-serif">4</text>
+  <text x="132" y="942" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">我現在是不是更適合先把固定時間</text>
+  <text x="132" y="974" fill="#3F332C" font-size="22" font-weight="700" font-family="'Noto Sans TC', sans-serif">與主金額穩穩接回來？</text>
+  <text x="132" y="1014" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">先恢復基本節奏，通常比急著</text>
+  <text x="132" y="1042" fill="#6B5D51" font-size="18" font-weight="500" font-family="'Noto Sans TC', sans-serif">補進度更能走得久。</text>
+
+  <rect x="56" y="1134" width="608" height="72" rx="24" fill="#E8F0EA"/>
+  <text x="84" y="1178" fill="#355A46" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">小提醒：恢復投入先求接得住，之後再談增加。</text>
+</svg>

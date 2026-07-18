@@ -1,0 +1,33 @@
+<svg width="720" height="1240" viewBox="0 0 720 1240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1240" rx="32" fill="#F6EFE5"/>
+  <rect x="24" y="24" width="672" height="1192" rx="28" fill="#FFFDF9" stroke="#D9C7AE" stroke-width="2"/>
+  <text x="56" y="92" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">恢復投入時，先接回節奏，</text>
+  <text x="56" y="134" fill="#2E261F" font-size="34" font-weight="800" font-family="'Noto Sans TC', sans-serif">再決定要不要增加</text>
+  <text x="56" y="178" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">停過一次後，先穩穩回來，</text>
+  <text x="56" y="208" fill="#6E5F52" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">通常比急著補雙倍更重要。</text>
+
+  <rect x="56" y="254" width="608" height="252" rx="26" fill="#EAF3FF" stroke="#A9C4E8" stroke-width="2"/>
+  <text x="88" y="306" fill="#2E5B8A" font-size="28" font-weight="800" font-family="'Noto Sans TC', sans-serif">1. 先接受：上次是生活調整</text>
+  <text x="88" y="348" fill="#41586E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">停一次不代表失敗，</text>
+  <text x="88" y="382" fill="#41586E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">也不代表這個月一定要補滿。</text>
+  <rect x="88" y="420" width="544" height="58" rx="20" fill="#D7E8FA"/>
+  <text x="112" y="457" fill="#2E5B8A" font-size="18" font-weight="700" font-family="'Noto Sans TC', sans-serif">先問：我想補的是節奏，還是焦慮？</text>
+
+  <rect x="56" y="540" width="608" height="252" rx="26" fill="#E8F4EC" stroke="#9CC9AC" stroke-width="2"/>
+  <text x="88" y="592" fill="#1E5B40" font-size="28" font-weight="800" font-family="'Noto Sans TC', sans-serif">2. 先回到原本主金額</text>
+  <text x="88" y="634" fill="#2D473A" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">固定時間、固定金額先接回來，</text>
+  <text x="88" y="668" fill="#2D473A" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">確認生活與現金流都接得住。</text>
+  <rect x="88" y="706" width="544" height="58" rx="20" fill="#CFE7D7"/>
+  <text x="112" y="743" fill="#1E5B40" font-size="18" font-weight="700" font-family="'Noto Sans TC', sans-serif">重點：先穩穩回來，不是先追進度。</text>
+
+  <rect x="56" y="826" width="608" height="252" rx="26" fill="#FBE8E4" stroke="#E4B0A5" stroke-width="2"/>
+  <text x="88" y="878" fill="#9A3F34" font-size="28" font-weight="800" font-family="'Noto Sans TC', sans-serif">3. 補雙倍前先看下個月</text>
+  <text x="88" y="920" fill="#62433E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">如果這次加大會讓你下次更緊、</text>
+  <text x="88" y="954" fill="#62433E" font-size="20" font-weight="500" font-family="'Noto Sans TC', sans-serif">更怕，就不是適合現在的補法。</text>
+  <rect x="88" y="992" width="544" height="58" rx="20" fill="#F5D2CB"/>
+  <text x="112" y="1029" fill="#9A3F34" font-size="18" font-weight="700" font-family="'Noto Sans TC', sans-serif">增加金額，要看未來能不能連續做下去。</text>
+
+  <rect x="56" y="1112" width="608" height="78" rx="24" fill="#F2E6D7"/>
+  <text x="84" y="1158" fill="#5A4B3E" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">一句話記住：先恢復你做得到的節奏，</text>
+  <text x="84" y="1186" fill="#5A4B3E" font-size="20" font-weight="700" font-family="'Noto Sans TC', sans-serif">再決定之後要不要慢慢增加。</text>
+</svg>
